@@ -1,0 +1,365 @@
+{
+  "autotranslated": "Traducción automática",
+  "global": {
+    "title": "Entrenamiento en diccionario",
+    "about": "Acerca de",
+    "yadict": {
+      "text": "Desarrollado por {link}",
+      "href": "http://api.yandex.com/dictionary",
+      "title": "Yandex.Dictionary"
+    }
+  },
+  "settings": {
+    "name": "Configuración",
+    "collections": "Diccionario",
+    "addDictionary": "Sube tu diccionario",
+    "count": "Número de textos en una lección",
+    "type": "De forma predeterminada",
+    "native": "Lengua materna",
+    "lang": "Segundo idioma",
+    "useReverseTranslation": "Usar la traducción inversa",
+    "allLangs": "Todo",
+    "allItems": "Todo",
+    "textTypes": {
+      "title": "Solo tren",
+      "info": "Esta separación es condicional",
+      "all": "Todo",
+      "type": {
+        "word": "Palabras",
+        "phrase": "Frases",
+        "sentence": "Oraciones"
+      }
+    },
+    "training": {
+      "title": "Adiestramiento",
+      "complexity": "Complejidad"
+    },
+    "speak": {
+      "title": "Discurso",
+      "notice": "Específico del navegador",
+      "voice": "Lenguaje y voz",
+      "rate": "Velocidad del habla",
+      "enabled": "Permitir el habla",
+      "autoplay": "Permitir la reproducción automática"
+    },
+    "ui": {
+      "title": "Interfaz",
+      "locale": "Idioma"
+    }
+  },
+  "buttons": {
+    "results": "Resultados",
+    "continue": "Continuar",
+    "skip": "Saltarse",
+    "restart": "¡Más entrenamiento!",
+    "check": "Comprobar",
+    "correct": "Lo sé",
+    "incorrect": "No sé",
+    "close": "Cerrar"
+  },
+  "actions": {
+    "name": "Acciones",
+    "title": {
+      "score": "Nivel de conocimiento del texto",
+      "article": "Artículo del diccionario sobre el texto",
+      "card": "Tarjeta de traducción de texto",
+      "docking": "Deletrear el texto",
+      "writing": "Escribe el texto",
+      "picking": "Seleccione Texto entre varias opciones"
+    }
+  },
+  "dictionary": {
+    "name": "Diccionario",
+    "title": "Diccionario {name}",
+    "text": "Mensaje de texto",
+    "translation": "Traducción",
+    "article": "@:article.name",
+    "native": "Todo",
+    "lang": "Todo",
+    "score": "Puntuación",
+    "idiom": "Modismo",
+    "names": {
+      "regular": "Diccionario",
+      "syn": "Sinónimos",
+      "ant": "Antónimos",
+      "deriv": "Derivado",
+      "def": "Artículos del diccionario"
+    }
+  },
+  "collections": {
+    "name": {
+      "favourites": "Favoritos",
+      "default": "Demo",
+      "short-phrasebook": "Libro de frases cortas"
+    }
+  },
+  "alert": {
+    "noneNetwork": {
+      "title": "Servicio no disponible",
+      "text": "No hay acceso a la {url}. \nEs posible que la conexión a Internet haya desaparecido."
+    },
+    "noneItems": {
+      "title": "No hay textos que entrenar",
+      "text": "Es posible que haya seleccionado condiciones de filtro demasiado restrictivas en Configuración"
+    },
+    "nonePicking": {
+      "title": "No hay suficientes textos para entrenar",
+      "text": "@:alert.noneItems.text o \nEl diccionario no ha contenido suficientes textos para el tipo de entrenamiento seleccionado"
+    },
+    "noneArticle": {
+      "title": "«{text}»",
+      "text": "No hay ningún artículo sobre este texto"
+    },
+    "emptyCollection": {
+      "title": "Diccionario no encontrado",
+      "text": "El diccionario \"{name}\" está vacío o falta. \nIntente seleccionar otro diccionario en Configuración"
+    }
+  },
+  "training": {
+    "name": "Adiestramiento",
+    "title": "Capacitación {translation}"
+  },
+  "article": {
+    "name": "Artículo",
+    "title": "Artículo del diccionario \"{text}\"",
+    "lookup": "Significado",
+    "query-corpus": "Ejemplos",
+    "source": {
+      "title": "Fuente",
+      "type": {
+        "book": "libro",
+        "sites": "sitio",
+        "news": "noticia",
+        "series": "serial",
+        "movie": "película",
+        "idiom": "modismo",
+        "IT": "Desbordamiento de pila"
+      },
+      "field": {
+        "author": "autor",
+        "title": "título",
+        "year": "año",
+        "translator": "Translator",
+        "url": "URL",
+        "imdb": "IMDB",
+        "director": "director",
+        "orig_title": "Título original"
+      }
+    }
+  },
+  "info": {
+    "title": "Información",
+    "sections": {
+      "history": {
+        "nav": "Por qué",
+        "title": "Una vez, hace unos años:"
+      },
+      "features": {
+        "nav": "Qué",
+        "title": "El corazón deseaba:",
+        "list": [
+          "Un servicio para la memorización efectiva del diccionario.",
+          "La capacidad de usar el teclado.",
+          "No hay necesidad de distraerse y buscar a tientas la pantalla en busca de botones.",
+          "La capacidad de ver rápidamente información adicional sobre una palabra, idealmente con ejemplos de uso.",
+          "Actuación de voz con la capacidad de elegir la velocidad del habla.",
+          "Un diccionario compartido con el servicio de traducción."
+        ],
+        "done": "Lo que resultó de esto:",
+        "text": [
+          "Teclas de acceso rápido en los botones básicos: {ESC} y {Enter}. Al escribir desde bloques: se puede hacer clic en un bloque o arrastrarlo, o seleccionarlo con la primera letra del teclado. Puede eliminar el bloque elegido pulsando {BackSpace}.",
+          "Al estudiar palabras, frases u oraciones de no excesiva extensión, los botones permanecen en el lugar del propietario.",
+          "Es posible ver un artículo de diccionario de Yandex.Dictionaries.",
+          "La actuación de voz funciona con la API de voz web estándar basada en navegador, que es compatible con la mayoría de los navegadores modernos. Cuando el navegador lo permite, en el modo artículo o después de un entrenamiento exitoso, aparece un botón con voz en off en el título. Los textos también se leen automáticamente, lo que se puede desactivar en la configuración. La actuación de voz se puede detener haciendo doble clic en la página.",
+          "Un montón de ajustes con filtros por idioma, longitud del texto, número de palabras en el ciclo de formación, etc.",
+          "Varios niveles de complejidad para el entrenamiento.",
+          "Suelo utilizar Yandex o Google Translator. Ambos permiten guardar una palabra o frase. Sin embargo, ninguno de ellos permite memorizar fácilmente las traducciones ni utilizar el diccionario por parte de otros servicios. El Traductor de Google solo te permite subir traducciones guardadas a CSV. \nEste u otros diccionarios en formato CSV y JSON se pueden cargar en {uploadLink}.",
+          "Los datos de usuario (configuración, progreso, diccionarios cargados) se almacenan localmente en el navegador (IndexedDB). \nLos diccionarios de usuario también se analizan localmente (mediante la API de archivos)."
+        ],
+        "upload-link": "página",
+        "keys": {
+          "esc": "ESC",
+          "enter": "Entrar",
+          "backspace": "Retroceso"
+        }
+      },
+      "about": {
+        "nav": "Cómo",
+        "title": "En las profundidades:",
+        "parts": {
+          "ui": "UI",
+          "tests": "Ensayo",
+          "tools": "Otras herramientas",
+          "comics": "Historietas"
+        },
+        "packages": {
+          "mololab/json-translator": "Interfaz de usuario de traducción automática"
+        }
+      }
+    }
+  },
+  "comics": {
+    "1": "Cuando me había suscrito a un servicio en línea para aprender idiomas extranjeros, con una interfaz bien organizada, donde todo está al alcance de la mano y con teclas de acceso rápido.",
+    "2": "Cuando un mes después lanzaron una nueva interfaz... ¡Sin teclas de acceso rápido y con botones saltando por la pantalla de una página a otra!",
+    "3": "Cuando unos meses después rompieron el trabajo con los diccionarios...",
+    "4": "Cuando recibí una respuesta del soporte: la corrección de diccionarios no está incluida en las prioridades actuales.",
+    "5": "La fijación de diccionarios no está incluida entre las prioridades del servicio de aprendizaje de lenguas extranjeras!! 🤯🤬",
+    "6": "¡Soy desarrollador web! ¡Escribiré lo mío para memorizar un diccionario con teclas de acceso rápido y gatos!"
+  },
+  "addDictionary": {
+    "title": "Cargar el diccionario del usuario",
+    "input": "Seleccione un archivo *.json o *.scv",
+    "csvFormat": {
+      "text": "Este formato es apto para \"Guardado\" importado de {Google}. Para ello, después de exportar a Hojas de cálculo de Google, seleccione {path}. \nLa coincidencia de las columnas y los campos del archivo csv se establece después de analizarlos en el siguiente formulario. Si la primera línea del archivo contiene encabezados de columna, seleccione una casilla de verificación especial en el formulario.",
+      "google": "Traductor de Google",
+      "path": [
+        "Archivo",
+        "Descargar",
+        "Formato CSV"
+      ]
+    },
+    "jsonFormat": {
+      "text": "Los archivos JSON en el siguiente formato son aptos para el análisis: {list}",
+      "yandex": "Yandex.Translate",
+      "list": [
+        "\"Favoritos\" de {yandex} (si puedes tenerlo en tus manos 👩🏻 🔧),",
+        "contiene una matriz de objetos con campos obligatorios: {text}, {translation}, {lang} (o [1] en el formato de un par con \"-\", donde la primera parte es el idioma del campo de texto y la segunda es {locale} - el idioma del campo de traducción; o [2] con un campo nativo especial) y campos opcionales: {id}, {transcription}."
+      ]
+    },
+    "firstLineIsHead": "La primera línea son los encabezados de las columnas",
+    "setFields": "Configurar la coincidencia de campos",
+    "dictionaryName": "Elegir un nombre para el diccionario",
+    "idGenered": "Automáticamente",
+    "dictionaryAdded": "Se ha añadido el diccionario \"{name}\". \n{link} otro diccionario?",
+    "add": "Agregar",
+    "save": "Salvar",
+    "field": {
+      "ignore": "ignorar",
+      "or": "o",
+      "id": "IDENTIFICACIÓN",
+      "lang": "Segundo idioma",
+      "native": "Lengua materna",
+      "text": "Texto de formación",
+      "translation": "Traducción",
+      "transcription": "Transcripción"
+    },
+    "fileParsed": "El formato de archivo se ha analizado.",
+    "countRecords": "No se han encontrado registros. | {count} registro encontrado. | {count} registros encontrados.",
+    "error": {
+      "read": "Error al leer el archivo",
+      "parse": "No se pudo analizar el formato del diccionario en el archivo {type}",
+      "unknown": "Formato de archivo no válido. Formatos aceptados: json, csv.",
+      "collectionExists": "Ya existe un diccionario con este nombre, por favor elija otro nombre",
+      "collectionAdd": "No se ha podido añadir el diccionario. Intente volver a cargar la página y repita los pasos."
+    }
+  },
+  "auth": {
+    "title": "Autorización",
+    "yandex": "Yandex",
+    "login": "Iniciar sesión con",
+    "logout": "Salida",
+    "info": "La autorización tendría sentido si Yandex.Translate proporcionara acceso a Favoritos para los usuarios autenticados. \nPero, lamentablemente, esto es solo una demostración."
+  },
+  "langs": {
+    "af": "Afrikaans",
+    "sq": "Albanés",
+    "am": "Amárico",
+    "ar": "Árabe",
+    "hy": "Armenio",
+    "az": "Azerbaiyano",
+    "ba": "Baskir",
+    "eu": "Vasco",
+    "be": "Bielorruso",
+    "bn": "Bengalí",
+    "bs": "Bosnio",
+    "bg": "Búlgaro",
+    "my": "Birmano",
+    "ca": "Catalán",
+    "ceb": "Cebuano",
+    "zh": "Chino",
+    "cv": "Chuvasio",
+    "hr": "Croata",
+    "cs": "Checo",
+    "da": "Danés",
+    "nl": "Holandés",
+    "sjn": "Élfico (Sindarin)",
+    "emj": "Emoji",
+    "en": "Inglés",
+    "eo": "Esperanto",
+    "et": "Estonio",
+    "fi": "Finlandés",
+    "fr": "Francés",
+    "gl": "Gallego",
+    "ka": "Georgiano",
+    "de": "Alemán",
+    "el": "Griego",
+    "gu": "Gujarati",
+    "ht": "Haitiano",
+    "he": "Hebreo",
+    "mrj": "Colina Mari",
+    "hi": "Hindi",
+    "hu": "Húngaro",
+    "is": "Islandés",
+    "id": "Indonesio",
+    "ga": "Irlandés",
+    "it": "Italiano",
+    "ja": "Japonés",
+    "jv": "Javanés",
+    "kn": "Kannada",
+    "kk": "Kazajo",
+    "kazlat": "Kazajo (latín)",
+    "km": "Jemer",
+    "ko": "Coreano",
+    "ky": "Kirguizo",
+    "lo": "Lao",
+    "la": "Latín",
+    "lv": "Letón",
+    "lt": "Lituano",
+    "lb": "Luxemburgués",
+    "mk": "Macedonio",
+    "mg": "Malgache",
+    "ms": "Malayo",
+    "ml": "Malayalam",
+    "mt": "Maltés",
+    "mi": "Maorí",
+    "mr": "Marathi",
+    "mhr": "Mari",
+    "mn": "Mongol",
+    "ne": "Nepalí",
+    "no": "Noruego",
+    "pap": "Papiamento",
+    "fa": "Persa",
+    "pl": "Polaco",
+    "pt": "Portugués",
+    "pa": "Punjabí",
+    "ro": "Rumano",
+    "ru": "Ruso",
+    "gd": "Gaélico escocés",
+    "sr": "Serbio",
+    "si": "Cingalés",
+    "sk": "Eslovaco",
+    "sl": "Esloveno",
+    "es": "Español",
+    "su": "Sundanés",
+    "sw": "Swahili",
+    "sv": "Sueco",
+    "tl": "Tagalo",
+    "tg": "Tayiko",
+    "ta": "Tamil",
+    "tt": "Tártaro",
+    "te": "Telugu",
+    "th": "Tailandés",
+    "tr": "Turco",
+    "udm": "Udmurto",
+    "uk": "Ucraniano",
+    "ur": "Urdu",
+    "uz": "Uzbek",
+    "uzbcyr": "Uzbek (cirílico)",
+    "vi": "Vietnamita",
+    "cy": "Galés",
+    "xh": "Xosa",
+    "sah": "Yakuto",
+    "yi": "Yiddish",
+    "zu": "Zulú"
+  }
+}

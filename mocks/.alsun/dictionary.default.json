@@ -1,0 +1,3781 @@
+{
+    "collectionAction": {
+        "id": "default",
+        "recordsActions": [
+            {
+                "id": "5fff3a251306c84fa8d2b0ff",
+                "lang": "en-ru",
+                "score": 1,
+                "text": "depend on",
+                "translation": "зависит от"
+            },
+            {
+                "id": "5fff3a72445c7545fd62d512",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "appreciate",
+                "translation": "ценить"
+            },
+            {
+                "id": "5fff5431b28613585704f7fe",
+                "lang": "ru-en",
+                "score": 0,
+                "text": "разочаровать",
+                "translation": "disappoint"
+            },
+            {
+                "id": "600028f2b097f37e593d0ef9",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "adapt",
+                "translation": "приспособиться",
+                "test-4-dicts": true
+            },
+            {
+                "id": "60002915445c7545fd65398e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "convince",
+                "translation": "убеждать"
+            },
+            {
+                "id": "6000a416b097f37e593f13fe",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "cope",
+                "translation": "справляться"
+            },
+            {
+                "id": "6008674d2112eb321e7b5f28",
+                "lang": "ru-en",
+                "score": 0,
+                "text": "смак",
+                "translation": "relish"
+            },
+            {
+                "id": "6009848a0ad5c9dcba31f5c3",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "unexpectedly",
+                "translation": "неожиданно"
+            },
+            {
+                "id": "6009848a0ad5c9dcba31f5c4",
+                "lang": "ru-en",
+                "score": 0,
+                "text": "неожиданно",
+                "translation": "suddenly"
+            },
+            {
+                "id": "600ede8b5c5a921dfab26ddc",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "a matter of time",
+                "translation": "вопрос времени",
+                "test-idiom-article": true
+            },
+            {
+                "id": "60116736b2861392e62eb48c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "aftermath",
+                "translation": "последствия"
+            },
+            {
+                "id": "6048f028a48a2a0a9a0b1cd7",
+                "lang": "la-ru",
+                "score": 0,
+                "text": "Feci quod potui, faciant meliora potentes.",
+                "translation": "Я сделал всё, что мог, кто может, пусть сделает лучше.",
+                "test-la-ru": true
+            },
+            {
+                "id": "6048f028a48a2a0a9a0b1cd7",
+                "lang": "la-en",
+                "score": 0,
+                "text": "Feci quod potui, faciant meliora potentes.",
+                "translation": "I did what I could, may those who are able do better."
+            },
+            {
+                "id": "6048f028a48a2a0a9a0b1cd7",
+                "lang": "la-de",
+                "score": 0,
+                "text": "Feci quod potui, faciant meliora potentes.",
+                "translation": "Ich habe getan, was ich konnte, mögen diejenigen, die in der Lage sind, es besser machen."
+            },
+            {
+                "id": "6048f028a48a2a0a9a0b1cd7",
+                "lang": "la-it",
+                "score": 0,
+                "text": "Feci quod potui, faciant meliora potentes.",
+                "translation": "Ho fatto quello che potevo, chi è capace faccia meglio."
+            },
+            {
+                "id": "6048f028a48a2a0a9a0b1cd7",
+                "lang": "la-fr",
+                "score": 0,
+                "text": "Feci quod potui, faciant meliora potentes.",
+                "translation": "J'ai fait ce que j'ai pu, qui peut, le laisser faire mieux."
+            },
+            {
+                "id": "635d718c82a430e4f077b560",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "flaw",
+                "translation": "недостаток"
+            },
+            {
+                "id": "635d718c82a430e4f077b561",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fair enough",
+                "translation": "справедливо"
+            },
+            {
+                "id": "635d718c82a430e4f077b562",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "rehab",
+                "translation": "реабилитация"
+            },
+            {
+                "id": "635d718c82a430e4f077b563",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "goofy",
+                "translation": "бестолковый"
+            },
+            {
+                "id": "635d718c82a430e4f077b564",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "do-gooder",
+                "translation": "благодетель"
+            },
+            {
+                "id": "635d718c82a430e4f077b565",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "popsicle",
+                "translation": "фруктовое мороженое"
+            },
+            {
+                "id": "635d718c82a430e4f077b566",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "clueless",
+                "translation": "невежественный"
+            },
+            {
+                "id": "635d718c82a430e4f077b567",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "proposal",
+                "translation": "предложение"
+            },
+            {
+                "id": "635d718c82a430e4f077b569",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "per capita",
+                "translation": "на душу населения"
+            },
+            {
+                "id": "635d718c82a430e4f077b56a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "package deal",
+                "translation": "пакетное предложение"
+            },
+            {
+                "id": "635d718c82a430e4f077b56c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "doable",
+                "translation": "выполнимо"
+            },
+            {
+                "id": "635d718c82a430e4f077b570",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "vow",
+                "translation": "клятва"
+            },
+            {
+                "id": "635d718c82a430e4f077b571",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "scoff",
+                "translation": "высмеивать"
+            },
+            {
+                "id": "635d718c82a430e4f077b573",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "testify",
+                "translation": "свидетельствовать"
+            },
+            {
+                "id": "635d718c82a430e4f077b576",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "awesome",
+                "translation": "потрясающий"
+            },
+            {
+                "id": "635d718c82a430e4f077b578",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "destiny",
+                "translation": "судьба"
+            },
+            {
+                "id": "635d718c82a430e4f077b579",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fierce",
+                "translation": "свирепый"
+            },
+            {
+                "id": "635d718c82a430e4f077b57a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "rebel",
+                "translation": "бунтарь"
+            },
+            {
+                "id": "635d718c82a430e4f077b57b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "famine",
+                "translation": "голод"
+            },
+            {
+                "id": "635d718c82a430e4f077b57c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "felon",
+                "translation": "преступник"
+            },
+            {
+                "id": "635d718c82a430e4f077b57d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "gnat",
+                "translation": "комар"
+            },
+            {
+                "id": "635d718c82a430e4f077b57e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "precious",
+                "translation": "драгоценный"
+            },
+            {
+                "id": "635d718c82a430e4f077b57f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "chores",
+                "translation": "домашние дела"
+            },
+            {
+                "id": "635d718c82a430e4f077b582",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "flinch",
+                "translation": "вздрогнуть"
+            },
+            {
+                "id": "635d718c82a430e4f077b583",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "grab a drink",
+                "translation": "возьмите что-нибудь выпить"
+            },
+            {
+                "id": "635d718c82a430e4f077b584",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "in my book",
+                "translation": "в моей книге"
+            },
+            {
+                "id": "635d718c82a430e4f077b585",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "bail",
+                "translation": "поручительство"
+            },
+            {
+                "id": "635d718c82a430e4f077b586",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "silver lining",
+                "translation": "луч надежды"
+            },
+            {
+                "id": "635d718c82a430e4f077b587",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "urge",
+                "translation": "побуждать"
+            },
+            {
+                "id": "635d718c82a430e4f077b588",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "brittle",
+                "translation": "хрупкий"
+            },
+            {
+                "id": "635d718c82a430e4f077b58a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "no way",
+                "translation": "ни за что"
+            },
+            {
+                "id": "635d718c82a430e4f077b58b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "lukewarm",
+                "translation": "тепловатый"
+            },
+            {
+                "id": "635d718c82a430e4f077b58c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "riddance",
+                "translation": "избавление"
+            },
+            {
+                "id": "635d718c82a430e4f077b58d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "vanity",
+                "translation": "тщеславие"
+            },
+            {
+                "id": "635d718c82a430e4f077b58f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "loony",
+                "translation": "чокнутый"
+            },
+            {
+                "id": "635d718c82a430e4f077b590",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "edgy",
+                "translation": "острый"
+            },
+            {
+                "id": "635d718c82a430e4f077b592",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "vernacular",
+                "translation": "общеупотребительный"
+            },
+            {
+                "id": "635d718c82a430e4f077b595",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "tease",
+                "translation": "дразнить"
+            },
+            {
+                "id": "635d718c82a430e4f077b596",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "boarding school",
+                "translation": "школа-интернат"
+            },
+            {
+                "id": "635d718c82a430e4f077b597",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "mess",
+                "translation": "беспорядок"
+            },
+            {
+                "id": "635d718c82a430e4f077b598",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "good to knew",
+                "translation": "приятно знать"
+            },
+            {
+                "id": "635d718c82a430e4f077b599",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "pungent",
+                "translation": "едкий"
+            },
+            {
+                "id": "635d718c82a430e4f077b59a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "weirdo",
+                "translation": "чудак"
+            },
+            {
+                "id": "635d718c82a430e4f077b59c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "beverage",
+                "translation": "напиток"
+            },
+            {
+                "id": "635d718c82a430e4f077b59d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "attaboy",
+                "translation": "молодец"
+            },
+            {
+                "id": "635d718c82a430e4f077b5a0",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "pointless",
+                "translation": "бессмысленный"
+            },
+            {
+                "id": "635d718c82a430e4f077b5a1",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "weensy",
+                "translation": "крошечный"
+            },
+            {
+                "id": "635d718c82a430e4f077b5a2",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "naughty",
+                "translation": "непослушный"
+            },
+            {
+                "id": "635d718c82a430e4f077b5a4",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "foster home",
+                "translation": "приемный дом"
+            },
+            {
+                "id": "635d718c82a430e4f077b5aa",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "good call",
+                "translation": "хороший выбор"
+            },
+            {
+                "id": "635d718c82a430e4f077b5ab",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "what a life",
+                "translation": "что за жизнь"
+            },
+            {
+                "id": "635d718c82a430e4f077b5af",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "obsessing",
+                "translation": "одержимость"
+            },
+            {
+                "id": "635d718c82a430e4f077b5b1",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fueled",
+                "translation": "подпитываемый"
+            },
+            {
+                "id": "635d718c82a430e4f077b5b7",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "inventive",
+                "translation": "изобретательный"
+            },
+            {
+                "id": "635d718c82a430e4f077b5b8",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "loud and clear",
+                "translation": "громко и ясно"
+            },
+            {
+                "id": "635d718c82a430e4f077b5bc",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "ebbs and flows",
+                "translation": "приливы и отливы"
+            },
+            {
+                "id": "635d718c82a430e4f077b5be",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "way drunk",
+                "translation": "сильно пьян"
+            },
+            {
+                "id": "635d718c82a430e4f077b5c0",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "pod",
+                "translation": "стручок"
+            },
+            {
+                "id": "635d718c82a430e4f077b5c1",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "saucy",
+                "translation": "дерзкий"
+            },
+            {
+                "id": "635d718c82a430e4f077b5c2",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "smack",
+                "translation": "хлопать"
+            },
+            {
+                "id": "635d718c82a430e4f077b5c3",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "airtight",
+                "translation": "герметичный"
+            },
+            {
+                "id": "635d718c82a430e4f077b5c5",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "prowl",
+                "translation": "рыскать"
+            },
+            {
+                "id": "635d718c82a430e4f077b5c6",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "pert",
+                "translation": "дерзкий"
+            },
+            {
+                "id": "635d718c82a430e4f077b5c9",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "over and over",
+                "translation": "снова и снова"
+            },
+            {
+                "id": "635d718c82a430e4f077b5ca",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "my folks",
+                "translation": "мои родители"
+            },
+            {
+                "id": "635d718c82a430e4f077b5cb",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "mean to",
+                "translation": "имею в виду, чтобы"
+            },
+            {
+                "id": "635d718c82a430e4f077b5cd",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "I would love to",
+                "translation": "Я бы с удовольствием"
+            },
+            {
+                "id": "635d718c82a430e4f077b5d0",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "joyride",
+                "translation": "увеселительная прогулка"
+            },
+            {
+                "id": "635d718c82a430e4f077b5d3",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "suspense",
+                "translation": "неизвестность"
+            },
+            {
+                "id": "635d718c82a430e4f077b5d4",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "suspect",
+                "translation": "подозревать"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72b0",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "nunnery",
+                "translation": "женский монастырь"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72b4",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "butler",
+                "translation": "дворецкий"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72b5",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "servant",
+                "translation": "слуга"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72b6",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "enlightening",
+                "translation": "поучительный"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72b7",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "change of heart",
+                "translation": "изменение взглядов"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72b8",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "by all means",
+                "translation": "любыми средствами"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72ba",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "rivalry",
+                "translation": "соперничество"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72bb",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "check out",
+                "translation": "проверять"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72bc",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "inside out",
+                "translation": "наизнанку"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72be",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "excited about",
+                "translation": "взволнован по поводу"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72c0",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "I don't care",
+                "translation": "Мне все равно"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72c1",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "a waste of",
+                "translation": "пустая трата времени"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72c3",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "hiss at",
+                "translation": "шипеть на"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72c4",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "it's all relative",
+                "translation": "все относительно"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72c6",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "toss a coin",
+                "translation": "подбросьте монетку"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72d3",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "get rid of",
+                "translation": "избавляться от"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72d4",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "rile",
+                "translation": "раздражение"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72d5",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "to have something against",
+                "translation": "иметь что-то против"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72d7",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "it has something to do with",
+                "translation": "это как-то связано с"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72d8",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "what does it have to do with",
+                "translation": "какое это имеет отношение к"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72d9",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "imaginary",
+                "translation": "воображаемый"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72da",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "what is up with",
+                "translation": "что случилось с"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72db",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "kinda weird",
+                "translation": "немного странно"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72dc",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "mess up",
+                "translation": "испортить"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72dd",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "start all over",
+                "translation": "начать все сначала"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72de",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "sink in",
+                "translation": "погрузиться в"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72e0",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "murky",
+                "translation": "темный"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72e1",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "adamant",
+                "translation": "несокрушимый"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72e2",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "twist my arm",
+                "translation": "выкручивай мне руку"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72e8",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "I don't mind",
+                "translation": "Я не против"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72e9",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "framed somebody",
+                "translation": "подставил кого-то"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72eb",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "stay away",
+                "translation": "держаться подальше"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72ec",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "hidden meaning",
+                "translation": "скрытый смысл"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72ed",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "compelling",
+                "translation": "неотразимый"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72f2",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "rearrange",
+                "translation": "перестроить"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72f3",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "start from scratch",
+                "translation": "начните с нуля"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72f4",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "receive",
+                "translation": "получать"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72f5",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "salary",
+                "translation": "зарплата"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72f6",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "on time",
+                "translation": "вовремя"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72f7",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "doodle",
+                "translation": "болван"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72f8",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "lose daylight",
+                "translation": "потерять дневной свет"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72f9",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "encounter",
+                "translation": "столкновение"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72fa",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "get off on the wrong foot",
+                "translation": "встал не с той ноги"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72fb",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "point it out",
+                "translation": "укажи на это"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72fc",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "aren't you sweet",
+                "translation": "разве ты не прелесть"
+            },
+            {
+                "id": "63628ca350e2ccd3810a72fd",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "hostage",
+                "translation": "заложник"
+            },
+            {
+                "id": "6372a21b3334e7c15fa400f7",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "kiddo",
+                "translation": "малышка"
+            },
+            {
+                "id": "6372a21b3334e7c15fa400f8",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "feud",
+                "translation": "вражда"
+            },
+            {
+                "id": "6372a21b3334e7c15fa400f9",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "embezzle",
+                "translation": "присвоить"
+            },
+            {
+                "id": "6372a21b3334e7c15fa400fa",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "bachelor",
+                "translation": "бакалавр"
+            },
+            {
+                "id": "6372a21b3334e7c15fa400fb",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "windage",
+                "translation": "парусность"
+            },
+            {
+                "id": "6372a21b3334e7c15fa400fc",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "windowsill",
+                "translation": "подоконник"
+            },
+            {
+                "id": "6372a21b3334e7c15fa400fd",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "scorn",
+                "translation": "презрение"
+            },
+            {
+                "id": "6372a21b3334e7c15fa400fe",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "soulmate",
+                "translation": "родственная душа"
+            },
+            {
+                "id": "6372a21b3334e7c15fa400ff",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "chaperone",
+                "translation": "сопровождающий"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40100",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "stab",
+                "translation": "удар ножом"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40101",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "linchpin",
+                "translation": "стержень"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40102",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "whole time",
+                "translation": "все время"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40103",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "discreet",
+                "translation": "сдержанный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40104",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "by far",
+                "translation": "однозначно"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40105",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "hence",
+                "translation": "следовательно"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40106",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "frightening",
+                "translation": "пугающий"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40107",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "announcement",
+                "translation": "объявление"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40108",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "interested party",
+                "translation": "заинтересованная сторона"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40109",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "in one's mind",
+                "translation": "в чьем-то сознании"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4010a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "arch enemy",
+                "translation": "заклятый враг"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4010b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "association",
+                "translation": "ассоциация"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4010c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "that's none of your business",
+                "translation": "это не твое дело"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4010d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "meaningful",
+                "translation": "значимый"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4010e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "on a regular basis",
+                "translation": "на регулярной основе"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4010f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "to ease your way",
+                "translation": "чтобы облегчить ваш путь"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40110",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "indiscreet",
+                "translation": "нескромный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40111",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "up to something",
+                "translation": "замышляет что-то"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40112",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "don't mention it",
+                "translation": "не упоминать об этом"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40113",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "not to mention",
+                "translation": "не говоря уже о"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40114",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "don't bother",
+                "translation": "не беспокойтесь"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40115",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "trust issues",
+                "translation": "проблемы с доверием"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40116",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "issue",
+                "translation": "вопрос"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40117",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "figure",
+                "translation": "фигура"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40118",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "have already warned",
+                "translation": "уже предупредили"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40119",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "blunder",
+                "translation": "оплошность"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4011a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "steady",
+                "translation": "устойчивый"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4011b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "what's wrong with",
+                "translation": "что не так с"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4011c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "haunt",
+                "translation": "преследовать"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4011d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "haunted house",
+                "translation": "дом с привидениями"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4011e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "the wrong way around",
+                "translation": "неправильный путь вокруг"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4011f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fidelity",
+                "translation": "верность"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40120",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "in the wrong place at the wrong time",
+                "translation": "в неподходящем месте в неподходящее время"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40121",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "wear down",
+                "translation": "изнашиваться"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40122",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "race you",
+                "translation": "наперегонки с тобой"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40123",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "opportunity",
+                "translation": "возможность"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40124",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "hang on",
+                "translation": "Подожди"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40125",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "be raised",
+                "translation": "быть поднятым"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40126",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "go crazy",
+                "translation": "сходить с ума"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40127",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "freak out",
+                "translation": "психовать"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40128",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "get mad at",
+                "translation": "злиться на"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40129",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "mean",
+                "translation": "означать"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4012a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "the thing is",
+                "translation": "дело в том, что"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4012b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "have a thing about",
+                "translation": "есть что-то насчет"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4012c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "miserable",
+                "translation": "несчастный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4012d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "lecherous",
+                "translation": "развратный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4012e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "turf war",
+                "translation": "война за территорию"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4012f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "redemption",
+                "translation": "искупление"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40130",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "redhead",
+                "translation": "рыжеволосый"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40131",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "smirk",
+                "translation": "ухмылка"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40132",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "relatable",
+                "translation": "относительный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40133",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "out there",
+                "translation": "там"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40134",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "human being",
+                "translation": "человеческое существо"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40135",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "where are you going with this",
+                "translation": "к чему ты клонишь с этим"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40136",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "find out",
+                "translation": "выяснить"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40137",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "out of",
+                "translation": "снаружи"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40138",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "get deeper into",
+                "translation": "проникнуть глубже в"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40139",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "to a large extent",
+                "translation": "в значительной степени"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4013a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "set apart",
+                "translation": "отделенный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4013b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fulfill",
+                "translation": "выполнять"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4013c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "insecure",
+                "translation": "небезопасный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4013d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "work through",
+                "translation": "работать через"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4013e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "plot",
+                "translation": "сюжет"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4013f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "all about",
+                "translation": "все о"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40140",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "loosen up",
+                "translation": "расслабься"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40141",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "there is more to life",
+                "translation": "в жизни есть нечто большее"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40142",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "run out of",
+                "translation": "исчерпать"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40143",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "early on",
+                "translation": "на ранней стадии"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40144",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "lose way",
+                "translation": "потерять путь"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40145",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "sane",
+                "translation": "здравомыслящий"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40146",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "time is up",
+                "translation": "время вышло"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40147",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "entitle",
+                "translation": "давать право"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40148",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "allowance",
+                "translation": "пособие"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40149",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "bullion",
+                "translation": "слиток"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4014a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "irresistible",
+                "translation": "непреодолимый"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4014b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "into you",
+                "translation": "в тебя"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4014c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "help out",
+                "translation": "выручить"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4014d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "seamy",
+                "translation": "черненький"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4014e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "upset",
+                "translation": "расстроенный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4014f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "proud",
+                "translation": "гордый"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40150",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "watershed",
+                "translation": "водораздел"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40151",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "whatever happened",
+                "translation": "что бы ни случилось"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40152",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "classified",
+                "translation": "классификационный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40153",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "smooth",
+                "translation": "гладкий"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40154",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "hunch",
+                "translation": "предчувствие"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40155",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "mood disorder",
+                "translation": "расстройство настроения"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40156",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "squalor",
+                "translation": "убожество"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40157",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "tough cookie",
+                "translation": "крепкий орешек"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40158",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "demise",
+                "translation": "кончина"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40159",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "man-made",
+                "translation": "рукотворный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4015a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "leverage",
+                "translation": "рычаг"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4015b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "arson",
+                "translation": "поджог"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4015c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "sub-basement",
+                "translation": "цокольный этаж"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4015d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "debris",
+                "translation": "развалины"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4015e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "manslaughter",
+                "translation": "непредумышленное убийство"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4015f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "slaughter",
+                "translation": "убой"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40160",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "venue",
+                "translation": "место встречи"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40161",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "bottomless",
+                "translation": "бездонный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40162",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "letdown",
+                "translation": "разочарование"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40163",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "spook",
+                "translation": "пугать"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40164",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "deadbeat",
+                "translation": "бездельник"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40165",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "kennel",
+                "translation": "конура"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40166",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "crap",
+                "translation": "дерьмо"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40167",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "leash",
+                "translation": "поводок"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40168",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "gloat",
+                "translation": "злорадствовать"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40169",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "truce",
+                "translation": "передышка"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4016a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "out of hand",
+                "translation": "вышедший из-под контроля"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4016b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "catchphrase",
+                "translation": "ключевая фраза"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4016c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "commute",
+                "translation": "переключать"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4016d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "inside and out",
+                "translation": "внутри и снаружи"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4016e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "courtesy",
+                "translation": "вежливость"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4016f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "hellion",
+                "translation": "хеллион"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40170",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "prelim",
+                "translation": "предварительный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40171",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "frontier",
+                "translation": "граница"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40172",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "rethink",
+                "translation": "переосмысливать"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40173",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "workaholic",
+                "translation": "трудоголик"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40174",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "dummy",
+                "translation": "манекен"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40175",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "shelter",
+                "translation": "укрытие"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40176",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "reassure",
+                "translation": "заверить"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40177",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "reassuring",
+                "translation": "обнадёживающий"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40178",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "for later",
+                "translation": "на потом"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40179",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "gaze",
+                "translation": "пристальный взгляд"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4017a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "muzzle",
+                "translation": "морда"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4017b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "perch",
+                "translation": "жердь"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4017c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "herbivore",
+                "translation": "травоядное"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4017d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "tortoise",
+                "translation": "черепаха"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4017e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "lousy",
+                "translation": "паршивый"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4017f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "liable",
+                "translation": "ответственный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40180",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "liability",
+                "translation": "ответственность"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40181",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "shell casing",
+                "translation": "оболочка снаряда"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40182",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "bizzare",
+                "translation": "странный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40183",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "gait",
+                "translation": "походка"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40184",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "duffel",
+                "translation": "вещевой мешок"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40185",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "embezzlement",
+                "translation": "растрата"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40186",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "formidable",
+                "translation": "грозный"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40187",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "cautionary",
+                "translation": "предостерегающий"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40188",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "back then",
+                "translation": "тогда"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40189",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "have a go",
+                "translation": "попробуй"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4018a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "about as much",
+                "translation": "примерно столько же"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4018b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "backstage",
+                "translation": "за кулисами"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4018c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "establish",
+                "translation": "установить"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4018d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "prenup",
+                "translation": "брачный контракт"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4018e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "throw off",
+                "translation": "сбросить"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4018f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "outgoing",
+                "translation": "исходящий"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40190",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "lure",
+                "translation": "приманка"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40191",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "cop out",
+                "translation": "выкручиваться"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40192",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "trainee",
+                "translation": "стажер"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40193",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "get over it",
+                "translation": "смирись с этим"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40194",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "rat out",
+                "translation": "выдать"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40195",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "above all",
+                "translation": "превыше всего"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40196",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "so forth",
+                "translation": "и так далее"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40197",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "as for",
+                "translation": "что касается"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40198",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "such as",
+                "translation": "такие как"
+            },
+            {
+                "id": "6372a21b3334e7c15fa40199",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "on the contrary",
+                "translation": "с другой стороны"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4019a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "either way",
+                "translation": "в любом случае"
+            },
+            {
+                "id": "6372a21b3334e7c15fa4019b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "sulk",
+                "translation": "дуться"
+            },
+            {
+                "id": "6373d0220d9a72034acf87da",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "space out",
+                "translation": "пространство вне"
+            },
+            {
+                "id": "6373d0220d9a72034acf87db",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "insufficient funds",
+                "translation": "недостаточно средств"
+            },
+            {
+                "id": "6373d0220d9a72034acf87dc",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "decline",
+                "translation": "снижение"
+            },
+            {
+                "id": "6373d0220d9a72034acf87dd",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "let go of me",
+                "translation": "отпусти меня"
+            },
+            {
+                "id": "6374f25cddf08853e083dc08",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "plausible",
+                "translation": "правдоподобный"
+            },
+            {
+                "id": "6374f25cddf08853e083dc09",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "on my own",
+                "translation": "самостоятельно"
+            },
+            {
+                "id": "6374f25cddf08853e083dc0a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "my treat",
+                "translation": "я угощаю"
+            },
+            {
+                "id": "6374f25cddf08853e083dc0b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "cad",
+                "translation": "хам"
+            },
+            {
+                "id": "6374f25cddf08853e083dc0c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "getaway",
+                "translation": "бегство"
+            },
+            {
+                "id": "6374f25cddf08853e083dc0d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "dupe",
+                "translation": "простак"
+            },
+            {
+                "id": "6374f25cddf08853e083dc0e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "considerate",
+                "translation": "внимательный"
+            },
+            {
+                "id": "6374f25cddf08853e083dc0f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "cause",
+                "translation": "причина"
+            },
+            {
+                "id": "6374f25cddf08853e083dc10",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "perverse",
+                "translation": "извращенный"
+            },
+            {
+                "id": "6374f25cddf08853e083dc11",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "despite",
+                "translation": "несмотря на"
+            },
+            {
+                "id": "6374f25cddf08853e083dc12",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "be into",
+                "translation": "быть в"
+            },
+            {
+                "id": "6374f25cddf08853e083dc13",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "not give a shit",
+                "translation": "мне насрать"
+            },
+            {
+                "id": "6374f25cddf08853e083dc14",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "dignity",
+                "translation": "достоинство"
+            },
+            {
+                "id": "6374f25cddf08853e083dc15",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "indignity",
+                "translation": "унижение"
+            },
+            {
+                "id": "6378029884958b3a47b7c8b7",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "affection",
+                "translation": "привязанность"
+            },
+            {
+                "id": "6378029884958b3a47b7c8b8",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "incredible",
+                "translation": "невероятный"
+            },
+            {
+                "id": "6378029884958b3a47b7c8b9",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "sing along",
+                "translation": "подпевать"
+            },
+            {
+                "id": "6378029884958b3a47b7c8ba",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "trolley",
+                "translation": "тележка"
+            },
+            {
+                "id": "6378029884958b3a47b7c8bb",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "queue",
+                "translation": "очередь"
+            },
+            {
+                "id": "6378029884958b3a47b7c8bc",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "loan shark",
+                "translation": "ростовщик"
+            },
+            {
+                "id": "6378029884958b3a47b7c8bd",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "slip up",
+                "translation": "оступиться"
+            },
+            {
+                "id": "6378029884958b3a47b7c8be",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "precisely",
+                "translation": "точно"
+            },
+            {
+                "id": "6378029884958b3a47b7c8bf",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "decoy",
+                "translation": "приманка"
+            },
+            {
+                "id": "6378029884958b3a47b7c8c0",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fond",
+                "translation": "любящий"
+            },
+            {
+                "id": "6378029884958b3a47b7c8c1",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "this is why",
+                "translation": "вот почему"
+            },
+            {
+                "id": "6378029884958b3a47b7c8c2",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "maternity leave",
+                "translation": "декретный отпуск"
+            },
+            {
+                "id": "6378029884958b3a47b7c8c3",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "maintain",
+                "translation": "поддерживать"
+            },
+            {
+                "id": "6378029884958b3a47b7c8c4",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "skulk",
+                "translation": "скрываться"
+            },
+            {
+                "id": "6378029884958b3a47b7c8c5",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "chop",
+                "translation": "рубить"
+            },
+            {
+                "id": "6378029884958b3a47b7c8c6",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "intrude",
+                "translation": "вторгаться"
+            },
+            {
+                "id": "6378029884958b3a47b7c8c7",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "boiling hot",
+                "translation": "кипящий"
+            },
+            {
+                "id": "6378029884958b3a47b7c8c8",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "hail",
+                "translation": "град"
+            },
+            {
+                "id": "6378029884958b3a47b7c8c9",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "weird",
+                "translation": "странный"
+            },
+            {
+                "id": "6378029884958b3a47b7c8ca",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "handful",
+                "translation": "горсть"
+            },
+            {
+                "id": "6378029884958b3a47b7c8cb",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "revel",
+                "translation": "наслаждаться"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c22c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "treason",
+                "translation": "измена"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c22d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "resented",
+                "translation": "возмущался"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c22e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "sounding board",
+                "translation": "звуковая доска"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c22f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "thaw",
+                "translation": "оттепель"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c230",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "dew",
+                "translation": "роса"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c231",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "insole",
+                "translation": "стелька"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c232",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "filled with",
+                "translation": "наполненный"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c233",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "not nor",
+                "translation": "не ни"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c234",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "on and on",
+                "translation": "снова и снова"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c235",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "cellar",
+                "translation": "подвал"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c236",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "pantry",
+                "translation": "кладовая"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c237",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "gain",
+                "translation": "получать"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c238",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "grave mistake",
+                "translation": "серьезная ошибка"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c239",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "virtue",
+                "translation": "добродетель"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c23a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "crowbar",
+                "translation": "лом"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c23b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "coerce",
+                "translation": "принуждать"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c23c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "patsy",
+                "translation": "простофиля"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c23d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "appointment",
+                "translation": "назначение"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c23e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "runny nose",
+                "translation": "насморк"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c23f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "a load off",
+                "translation": "груз с плеч"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c240",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "pal",
+                "translation": "приятель"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c241",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "a matter of time",
+                "translation": "это вопрос времени"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c242",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "stubborn",
+                "translation": "упрямый"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c243",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "earful",
+                "translation": "внимательный"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c244",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "neighborhood",
+                "translation": "соседство"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c245",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "shakedown",
+                "translation": "вымогательство"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c246",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "glee",
+                "translation": "ликование"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c247",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "worth",
+                "translation": "значимость"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c248",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "swanky",
+                "translation": "шикарный"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c249",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "duly",
+                "translation": "должным образом"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c24a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "complain",
+                "translation": "жаловаться"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c24b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fracture",
+                "translation": "перелом"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c24c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "insomnia",
+                "translation": "бессонница"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c24d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "swollen",
+                "translation": "вздутый"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c24e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "disease",
+                "translation": "болезнь"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c24f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "overlook",
+                "translation": "упускать из виду"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c250",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "extort",
+                "translation": "вымогать"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c251",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "elope",
+                "translation": "сбежать"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c252",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "unwitting",
+                "translation": "невольный"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c253",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "gorge",
+                "translation": "ущелье"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c254",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "rely",
+                "translation": "полагаться"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c255",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "withdraw",
+                "translation": "вывести"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c256",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "spouse",
+                "translation": "супруг"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c257",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "foe",
+                "translation": "враг"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c258",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "pep",
+                "translation": "бодрость духа"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c259",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "moot",
+                "translation": "спорный"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c25a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "gibberish",
+                "translation": "тарабарщина"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c25b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "tissue",
+                "translation": "ткань"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c25c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "I'm fine with it",
+                "translation": "Меня это вполне устраивает"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c25d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "chagrin",
+                "translation": "огорчение"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c25e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "ply",
+                "translation": "курсировать"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c25f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "yell",
+                "translation": "кричать"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c260",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "ring a bell",
+                "translation": "позвони в колокольчик"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c261",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fortress",
+                "translation": "крепость"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c262",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "neat",
+                "translation": "аккуратный"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c263",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "I'll take a rain check",
+                "translation": "В другой раз"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c264",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "rain check",
+                "translation": "проверка в другой раз"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c265",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "crave",
+                "translation": "жаждать"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c266",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fraud",
+                "translation": "мошенничество"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c267",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "earn",
+                "translation": "зарабатывать"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c268",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "I'm fine",
+                "translation": "Я в порядке"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c269",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "happily ever after",
+                "translation": "долго и счастливо после"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c26a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "ever after",
+                "translation": "с тех пор"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c26b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "leap of faith",
+                "translation": "прыжок веры"
+            },
+            {
+                "id": "6399d3b773a7dc306a83c26c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "nothing else matters",
+                "translation": "остальное неважно"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b14",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "sharp cookie",
+                "translation": "острое печенье"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b15",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "be in the soup",
+                "translation": "быть в супе"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b16",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "know onions",
+                "translation": "знаете лук"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b17",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "cup of tea",
+                "translation": "чашка чая"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b18",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "buy a lemon",
+                "translation": "купи лимон"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b19",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "have bigger fish to fry",
+                "translation": "есть рыба покрупнее, которую можно пожарить"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b1a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "over-egg the pudding",
+                "translation": "взбейте пудинг с яйцом"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b1b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "bad apple",
+                "translation": "плохое яблоко"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b1c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "bad egg",
+                "translation": "тухлое яйцо"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b1d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "cool as cucumber",
+                "translation": "крутой, как огурец"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b1e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "top banana",
+                "translation": "верхний банан"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b1f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "big cheese",
+                "translation": "важная персона"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b20",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "cry over spilled milk",
+                "translation": "плакать из-за пролитого молока"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b21",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "take with a grain of salt",
+                "translation": "отнеситесь к этому с недоверием"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b22",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "easy as a pie",
+                "translation": "проще простого"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b23",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "spill the beans",
+                "translation": "проболтаться"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b24",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "go bananas",
+                "translation": "сходить с ума"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b25",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "butter up",
+                "translation": "намазать маслом"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b26",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "compare apples and oranges",
+                "translation": "сравните яблоки и апельсины"
+            },
+            {
+                "id": "639b4d1d3d66e5da8b0f6b27",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "sour grapes",
+                "translation": "кислый виноград"
+            },
+            {
+                "id": "63cfed91d7800adb4b96e011",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "run down",
+                "translation": "наезжать"
+            },
+            {
+                "id": "63cfed91d7800adb4b96e012",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "ineffable",
+                "translation": "невыразимый"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458ed",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "going through",
+                "translation": "проходя через"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458ee",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "commendation",
+                "translation": "благодарность"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458ef",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "bribery",
+                "translation": "взяточничество"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458f0",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "very",
+                "translation": "очень"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458f1",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "very few",
+                "translation": "очень мало"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458f2",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "engender",
+                "translation": "порождать"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458f3",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "lark",
+                "translation": "жаворонок"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458f4",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "squat",
+                "translation": "приземистый"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458f5",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "clock up",
+                "translation": "часы вверх"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458f6",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "correct on every count",
+                "translation": "правильно по всем пунктам"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458f7",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "vulnerable",
+                "translation": "уязвимый"
+            },
+            {
+                "id": "63d3d50c46308ec9d56458f8",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "unnecessary",
+                "translation": "ненужный"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f8b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "carrycot",
+                "translation": "люлька"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f8c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "shrubbery",
+                "translation": "кустарник"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f8d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "so-called",
+                "translation": "так называемый"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f8e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "abundantly",
+                "translation": "обильно"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f8f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "letting",
+                "translation": "сдача в аренду"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f90",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "put foot down",
+                "translation": "поставь ногу на землю"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f91",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "be quiet",
+                "translation": "быть тихим"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f92",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "newly born",
+                "translation": "новорожденный"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f94",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "for one thing",
+                "translation": "во-первых,"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f95",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "plunge",
+                "translation": "погружение"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f98",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "that's how it goes",
+                "translation": "вот как это происходит"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f9b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "under thumb",
+                "translation": "под каблуком"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f9c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "just as easily",
+                "translation": "так же легко"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f9e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "persuade",
+                "translation": "убеждать"
+            },
+            {
+                "id": "63d7e84c463a324aafb60f9f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "dead wrong",
+                "translation": "совершенно неправильно"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fa0",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "take up",
+                "translation": "принять"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fa1",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "under breath",
+                "translation": "под дыханием"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fa2",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "sooth",
+                "translation": "успокоить"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fa7",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "get it over with",
+                "translation": "закончить с чем-либо"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fa8",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "in a manner",
+                "translation": "в некотором роде"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fa9",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "glorious",
+                "translation": "славный"
+            },
+            {
+                "id": "63d7e84c463a324aafb60faa",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "hunted expression",
+                "translation": "затравленное выражение"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fab",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "scowl",
+                "translation": "хмуриться"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fac",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "mourn",
+                "translation": "горевать"
+            },
+            {
+                "id": "63d7e84c463a324aafb60faf",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "the powers that be",
+                "translation": "власть имущие"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fb0",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "tarnish",
+                "translation": "потускнение"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fb1",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "take out",
+                "translation": "вытащить"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fb2",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "furious",
+                "translation": "яростный"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fb3",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "conspiratorial",
+                "translation": "заговорщический"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fb4",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "deed",
+                "translation": "поступок"
+            },
+            {
+                "id": "63d7e84c463a324aafb60fb5",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "meaning",
+                "translation": "значение"
+            },
+            {
+                "id": "63dd011048223e521d69df0b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "carried away",
+                "translation": "унесенный прочь"
+            },
+            {
+                "id": "63dd011048223e521d69df0c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "bring up",
+                "translation": "воспитывать"
+            },
+            {
+                "id": "63dd011048223e521d69df0e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fast asleep",
+                "translation": "крепко уснуть"
+            },
+            {
+                "id": "63dd011048223e521d69df10",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "tickle",
+                "translation": "щекотать"
+            },
+            {
+                "id": "63dd011048223e521d69df11",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "flee",
+                "translation": "бежать"
+            },
+            {
+                "id": "63dd011048223e521d69df12",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "adversary",
+                "translation": "состязательный"
+            },
+            {
+                "id": "63dd011048223e521d69df13",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "sleight of hand",
+                "translation": "ловкость рук"
+            },
+            {
+                "id": "63dd011048223e521d69df14",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "loose change",
+                "translation": "мелочь"
+            },
+            {
+                "id": "63dd011048223e521d69df15",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "asset",
+                "translation": "актив"
+            },
+            {
+                "id": "63e0fcb3490e22829fd18cae",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "boilerplate",
+                "translation": "шаблонный"
+            },
+            {
+                "id": "63eeaa45c0ed870f344ddffd",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "cause of",
+                "translation": "причиной"
+            },
+            {
+                "id": "63eeaa45c0ed870f344ddfff",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "expose",
+                "translation": "разоблачать"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de000",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "stir",
+                "translation": "мешать"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de001",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fugitive",
+                "translation": "беглец"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de002",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "clumsy",
+                "translation": "неуклюжий"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de009",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "assemble",
+                "translation": "собирать"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de00a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "remain",
+                "translation": "оставаться"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de00b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "grab a bite",
+                "translation": "перекусите"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de00c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "lose weight",
+                "translation": "худеть"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de00e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "stymie",
+                "translation": "загонять в тупик"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de013",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "preoccupy",
+                "translation": "озабоченный"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de014",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "restrict",
+                "translation": "ограничивать"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de018",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "fret",
+                "translation": "размывать"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de01a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "faint",
+                "translation": "слабый"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de01b",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "unfold",
+                "translation": "раскрываться"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de01d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "moral fiber",
+                "translation": "моральные устои"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de01f",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "bequest",
+                "translation": "завещание"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de020",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "rejoice",
+                "translation": "ликовать"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de021",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "It can hardly be so",
+                "translation": "Вряд ли это может быть так"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de022",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "Shame on you",
+                "translation": "Позор тебе"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de023",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "Mind one's own business",
+                "translation": "Не лезь не в свое дело"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de024",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "That's the way to do it",
+                "translation": "Вот как это нужно делать"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de025",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "Thank you in advance",
+                "translation": "Заранее спасибо"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de026",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "I meant well",
+                "translation": "Я хотел как лучше"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de027",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "ambience",
+                "translation": "окружение"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de028",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "coax",
+                "translation": "уговаривать"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de029",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "lucid",
+                "translation": "ясный"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de02a",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "never chance",
+                "translation": "никогда не было шанса"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de02c",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "tied the knot",
+                "translation": "связал себя узами брака"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de02d",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "pushy",
+                "translation": "напористый"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de02e",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "create pain",
+                "translation": "причинять боль"
+            },
+            {
+                "id": "63eeaa45c0ed870f344de031",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "gung-ho",
+                "translation": "фанатичный"
+            },
+            {
+                "id": "63f7b774d8ef10a525689b92",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "at all costs",
+                "translation": "любой ценой"
+            },
+            {
+                "id": "63f7b774d8ef10a525689b93",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "go wrong",
+                "translation": "пойти не так, как надо"
+            },
+            {
+                "id": "63f7b774d8ef10a525689b94",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "infeasible",
+                "translation": "невыполнимый"
+            },
+            {
+                "id": "63f7b774d8ef10a525689b95",
+                "lang": "en-ru",
+                "score": 0,
+                "text": "long face",
+                "translation": "вытянутое лицо"
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d3",
+                "lang": "de-ru",
+                "score": 0,
+                "text": "auf Biegen und Brechen",
+                "translation": "любой ценой",
+                "test-1-de": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d4",
+                "lang": "de-ru",
+                "score": 0,
+                "text": "Alt und Jung",
+                "translation": "стар и млад",
+                "test-2-de": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d5",
+                "lang": "de-ru",
+                "score": 0,
+                "text": "Ins Blaue",
+                "translation": "куда глаза глядят",
+                "test-3-de": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d6",
+                "lang": "en-de",
+                "score": 0,
+                "text": "extremes meet",
+                "translation": "extreme treffen aufeinander"
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d6",
+                "lang": "fr-ru",
+                "score": 0,
+                "text": "l’appétit vient en mangeant",
+                "translation": "аппетит приходит во время еды",
+                "test-1-fr": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d6",
+                "lang": "fr-de",
+                "score": 0,
+                "text": "l’appétit vient en mangeant",
+                "translation": "Appetit kommt beim Essen"
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d6",
+                "lang": "fr-en",
+                "score": 0,
+                "text": "l’appétit vient en mangeant",
+                "translation": "appetite comes when eating"
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d6",
+                "lang": "fr-it",
+                "score": 0,
+                "text": "l’appétit vient en mangeant",
+                "translation": "l'appetito arriva quando si mangia"
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d7",
+                "lang": "fr-ru",
+                "score": 0,
+                "text": "c’est la vie",
+                "translation": "такова жизнь",
+                "test-2-fr": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d8",
+                "lang": "it-ru",
+                "score": 0,
+                "text": "la felicità è vicina!",
+                "translation": "счастье близко!",
+                "test-2-it": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d8",
+                "lang": "it-fr",
+                "score": 0,
+                "text": "la felicità è vicina!",
+                "translation": "le bonheur est proche!"
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d8",
+                "lang": "it-de",
+                "score": 0,
+                "text": "la felicità è vicina!",
+                "translation": "Glück ist nah!"
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d8",
+                "lang": "it-en",
+                "score": 0,
+                "text": "la felicità è vicina!",
+                "translation": "Happiness is near!"
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d9",
+                "lang": "it-ru",
+                "score": 0,
+                "text": "apprezzo il momento",
+                "translation": "цените момент",
+                "test-1-it": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2da",
+                "lang": "fr-ru",
+                "score": 0,
+                "text": "cherchez la femme",
+                "translation": "ищите женщину",
+                "test-3-fr": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2d",
+                "lang": "fr-ru",
+                "score": 0,
+                "text": "excusez-moi",
+                "translation": "извините",
+                "test-4-fr": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9be2",
+                "lang": "fr-ru",
+                "score": 0,
+                "text": "merci beaucoup",
+                "translation": "большое спасибо",
+                "test-5-fr": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9be",
+                "lang": "fr-ru",
+                "score": 0,
+                "text": "s'il vous plaît",
+                "translation": "пожалуйста",
+                "test-6-fr": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9b",
+                "lang": "fr-ru",
+                "score": 0,
+                "text": "bonsoir",
+                "translation": "добрый вечер",
+                "test-7-fr": true
+            },
+            {
+                "id": "63faa8f4eff672c10c9",
+                "lang": "fr-ru",
+                "score": 0,
+                "text": "bon matin",
+                "translation": "доброе утро",
+                "test-8-fr": true
+            },
+            {
+                "id": "63faa8f4eff672c10c",
+                "lang": "fr-ru",
+                "score": 0,
+                "text": "Je ne comprends pas",
+                "translation": "Я не понимаю",
+                "test-9-fr": true
+            },
+            {
+                "id": "63faa8f4eff672c10",
+                "lang": "fr-ru",
+                "score": 0,
+                "text": "général",
+                "translation": "общий",
+                "test-10-fr": true
+            },
+
+            {
+                "id": "63faa8f4eff62c10c9be2d",
+                "lang": "de-ru",
+                "score": 0,
+                "text": "willkommen",
+                "translation": "добро пожаловать",
+                "test-4-de": true
+            },
+            {
+                "id": "63faa8feff672c10cbe2da",
+                "lang": "de-ru",
+                "score": 0,
+                "text": "Innengestaltung",
+                "translation": "внутреннее оформление",
+                "test-5-de": true
+            }
+
+        ]
+    }
+}

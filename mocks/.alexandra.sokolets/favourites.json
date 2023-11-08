@@ -1,0 +1,182 @@
+{
+  "collectionAction": {
+      "action": 3,
+      "changedAttributes": {
+          "version": 3
+      },
+      "id": "5fe49be8fe5419e654498be0",
+      "recordsActions": [
+          {
+              "action": 1,
+              "creationTimestamp": 1595019426.974,
+              "id": "5fe49be9b097f33d1592bacd",
+              "lang": "la-ru",
+              "modificationTimestamp": 1595019426.974,
+              "score": 0,
+              "text": "Feci quod potui, faciant meliora potentes.",
+              "translation": "Я сделал всё, что мог, кто может, пусть сделает лучше."
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1611587254.843,
+              "id": "604390ba1306c8f1e4d06469",
+              "lang": "en-ru",
+              "modificationTimestamp": 1611587254.843,
+              "score": 0,
+              "text": "aftermath",
+              "translation": "последствия"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1611586679.878,
+              "id": "604390ba1306c8f1e4d0646a",
+              "lang": "en-ru",
+              "modificationTimestamp": 1611586679.878,
+              "score": 0,
+              "text": "a matter of time",
+              "translation": "вопрос времени"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1611234770.311,
+              "id": "604390ba1306c8f1e4d0646b",
+              "lang": "en-ru",
+              "modificationTimestamp": 1611234770.311,
+              "score": 0,
+              "text": "envy",
+              "translation": "зависть"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1611147878.163,
+              "id": "604390ba1306c8f1e4d0646c",
+              "lang": "en-ru",
+              "modificationTimestamp": 1611147878.163,
+              "score": 0,
+              "text": "unexpectedly",
+              "translation": "неожиданно"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1611147860.57,
+              "id": "604390ba1306c8f1e4d0646d",
+              "lang": "ru-en",
+              "modificationTimestamp": 1611147860.57,
+              "score": 0,
+              "text": "неожиданно",
+              "translation": "suddenly"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1611002921.26,
+              "id": "604390ba1306c8f1e4d0646e",
+              "lang": "ru-en",
+              "modificationTimestamp": 1611002921.26,
+              "score": 0,
+              "text": "смак",
+              "translation": "relish"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1610829049.01,
+              "id": "604390ba1306c8f1e4d0646f",
+              "lang": "en-ru",
+              "modificationTimestamp": 1610829049.01,
+              "score": 0,
+              "text": "imagine",
+              "translation": "воображать"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1610650593.72,
+              "id": "604390ba1306c8f1e4d06470",
+              "lang": "en-ru",
+              "modificationTimestamp": 1677272496.935,
+              "score": 0,
+              "text": "cope",
+              "translation": "справляться"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1610650424.464,
+              "id": "604390ba1306c8f1e4d06471",
+              "lang": "en-ru",
+              "modificationTimestamp": 1610650424.464,
+              "score": 0,
+              "text": "warm",
+              "translation": "теплый"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1610623250.167,
+              "id": "604390ba1306c8f1e4d06472",
+              "lang": "en-ru",
+              "modificationTimestamp": 1610623250.167,
+              "score": 0,
+              "text": "convince",
+              "translation": "убеждать"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1610568881.806,
+              "id": "604390ba1306c8f1e4d06473",
+              "lang": "en-ru",
+              "modificationTimestamp": 1677272377.632,
+              "score": 0,
+              "text": "adapt",
+              "translation": "приспособиться"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1610565248.798,
+              "id": "604390ba1306c8f1e4d06474",
+              "lang": "en-ru",
+              "modificationTimestamp": 1610565248.798,
+              "score": 0,
+              "text": "exactly",
+              "translation": "именно так"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1610563136.093,
+              "id": "604390ba1306c8f1e4d06475",
+              "lang": "ru-en",
+              "modificationTimestamp": 1610563136.093,
+              "score": 0,
+              "text": "разочаровать",
+              "translation": "disappoint"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1610562159.462,
+              "id": "604390ba1306c8f1e4d06476",
+              "lang": "en-ru",
+              "modificationTimestamp": 1610562175.084,
+              "score": 0,
+              "text": "appreciate",
+              "translation": "ценить"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1610562075.501,
+              "id": "604390ba1306c8f1e4d06477",
+              "lang": "en-ru",
+              "modificationTimestamp": 1610562175.083,
+              "score": 1,
+              "text": "depend on",
+              "translation": "зависит от"
+          },
+          {
+              "action": 1,
+              "creationTimestamp": 1677272364.256,
+              "id": "63f92690161558300eb7c1d3",
+              "lang": "en-ru",
+              "modificationTimestamp": 1677272364.256,
+              "score": 0,
+              "text": "fair enough",
+              "translation": "справедливо"
+          }
+      ],
+      "tmpId": "dgyv8CKGTqgQXZ"
+  }
+}

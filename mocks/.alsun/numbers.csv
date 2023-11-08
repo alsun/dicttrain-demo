@@ -1,0 +1,132 @@
+,translation,native,text,lang,transcription
+0,ноль,ru,零,zh,líng
+1,один,ru,一个,zh,yī gè
+2,два,ru,二,zh,èr
+3,три,ru,三,zh,sān
+4,четыре,ru,四,zh,sì
+5,пять,ru,五,zh,wǔ
+6,шесть,ru,六,zh,liù
+7,семь,ru,七,zh,qī
+8,восемь,ru,八,zh,bā
+9,девять,ru,九,zh,jiǔ
+,,,,,
+0,ноль ,ru,zero,en,ˈzɪərəʊ
+1,один,ru,one,en,wʌn
+2,два,ru,two,en,tuː
+3,три,ru,three,en,θriː
+4,четыре,ru,four,en,fɔː
+5,пять,ru,five,en,faɪv
+6,шесть,ru,six,en,sɪks
+7,семь,ru,seven,en,sevn
+8,восемь,ru,eight,en,eɪt
+9,девять,ru,nine,en,naɪn
+,,,,,
+0,ноль ,ru,zero ,it,ˈdzɛro
+1,один,ru,uno,it,ˈuno
+2,два,ru,due,it,ˈdue
+3,три,ru,tre,it,ˈtre
+4,четыре,ru,quattro,it,ˈkwattro
+5,пять,ru,cinque,it,ˈʧinkwe
+6,шесть,ru,sei,it,ˈsɛj
+7,семь,ru,sette,it,ˈsɛtte
+8,восемь,ru,otto,it,ˈɔtto
+9,девять,ru,nove,it,ˈnɔve
+,,,,,
+0,ноль ,ru,cero ,es,ˈθeɾo
+1,один,ru,uno,es,ˈuno
+2,два,ru,dos,es,dos
+3,три,ru,tres,es,tɾes
+4,четыре,ru,cuatro,es,ˈkwatɾo
+5,пять,ru,cinco,es,ˈθiŋko
+6,шесть,ru,seis,es,seis
+7,семь,ru,siete,es,ˈsjete
+8,восемь,ru,ocho,es,ˈot͡ʃo
+9,девять,ru,nueve,es,ˈnweβe
+,,,,,
+0,ноль ,ru,zéro ,fr,zeʁo
+1,один,ru,un,fr,œ̃
+2,два,ru,deux,fr,dø
+3,три,ru,trois,fr,tʁwɑ
+4,четыре,ru,quatre,fr,katʁ
+5,пять,ru,cinq,fr,sɛ̃k
+6,шесть,ru,six,fr,sis
+7,семь,ru,sept,fr,"sɛpt, sɛt"
+8,восемь,ru,huit,fr,"ɥi, ɥit"
+9,девять,ru,neuf,fr,nœf
+,,,,,
+0,ноль ,ru,null,de,nʊl
+1,один,ru,einer,de,ˈaɪ̯nɐ
+2,два,ru,zwei,de,ʦvaɪ̯
+3,три,ru,drei,de,dʁaɪ̯
+4,четыре,ru,vier,de,fiːɐ̯
+5,пять,ru,fünf,de,fʏnf
+6,шесть,ru,sechs,de,zɛks
+7,семь,ru,sieben,de,ˈziːbn̩
+8,восемь,ru,acht,de,aχt
+9,девять,ru,neun,de,nɔɪ̯n
+,,,,,
+0,zero,en,零,zh,líng
+1,one,en,一个,zh,yī gè
+2,two,en,二,zh,èr
+3,three,en,三,zh,sān
+4,four,en,四,zh,sì
+5,five,en,五,zh,wǔ
+6,six,en,六,zh,liù
+7,seven,en,七,zh,qī
+8,eight,en,八,zh,bā
+9,nine,en,九,zh,jiǔ
+,,,,,
+0,zero,en,ноль ,ru,nul'
+1,one,en,один,ru,odin
+2,two,en,два,ru,dva
+3,three,en,три,ru,tri
+4,four,en,четыре,ru,chetyre
+5,five,en,пять,ru,pyat'
+6,six,en,шесть,ru,shest'
+7,seven,en,семь,ru,sem'
+8,eight,en,восемь,ru,vosem'
+9,nine,en,девять,ru,devyat'
+,,,,,
+0,zero,en,zero ,it,ˈdzɛro
+1,one,en,uno,it,ˈuno
+2,two,en,due,it,ˈdue
+3,three,en,tre,it,ˈtre
+4,four,en,quattro,it,ˈkwattro
+5,five,en,cinque,it,ˈʧinkwe
+6,six,en,sei,it,ˈsɛj
+7,seven,en,sette,it,ˈsɛtte
+8,eight,en,otto,it,ˈɔtto
+9,nine,en,nove,it,ˈnɔve
+,,,,,
+0,zero,en,cero ,es,ˈθeɾo
+1,one,en,uno,es,ˈuno
+2,two,en,dos,es,dos
+3,three,en,tres,es,tɾes
+4,four,en,cuatro,es,ˈkwatɾo
+5,five,en,cinco,es,ˈθiŋko
+6,six,en,seis,es,seis
+7,seven,en,siete,es,ˈsjete
+8,eight,en,ocho,es,ˈot͡ʃo
+9,nine,en,nueve,es,ˈnweβe
+,,,,,
+0,zero,en,zéro ,fr,zeʁo
+1,one,en,un,fr,œ̃
+2,two,en,deux,fr,dø
+3,three,en,trois,fr,tʁwɑ
+4,four,en,quatre,fr,katʁ
+5,five,en,cinq,fr,sɛ̃k
+6,six,en,six,fr,sis
+7,seven,en,sept,fr,"sɛpt, sɛt"
+8,eight,en,huit,fr,"ɥi, ɥit"
+9,nine,en,neuf,fr,nœf
+,,,,,
+0,zero,en,null,de,nʊl
+1,one,en,einer,de,ˈaɪ̯nɐ
+2,two,en,zwei,de,ʦvaɪ̯
+3,three,en,drei,de,dʁaɪ̯
+4,four,en,vier,de,fiːɐ̯
+5,five,en,fünf,de,fʏnf
+6,six,en,sechs,de,zɛks
+7,seven,en,sieben,de,ˈziːbn̩
+8,eight,en,acht,de,aχt
+9,nine,en,neun,de,nɔɪ̯n

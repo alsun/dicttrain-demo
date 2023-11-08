@@ -1,0 +1,1352 @@
+{
+  "collectionAction": {
+    "id": "short-phrasebook",
+    "recordsActions": [
+      {
+        "text": "goodbye",
+        "translation": "до свидания",
+        "transcription": "gʊdˈbaɪ",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533533
+      },
+      {
+        "text": "good morning",
+        "translation": "доброе утро",
+        "transcription": "ɡʊd ˈmɔːnɪŋ",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533532
+      },
+      {
+        "text": "good evening",
+        "translation": "добрый вечер",
+        "transcription": "gʊd ˈiːvnɪŋ",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533531
+      },
+      {
+        "text": "good afternoon",
+        "translation": "добрый день",
+        "transcription": "gʊd ɑːftəˈnuːn",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533530
+      },
+      {
+        "text": "expensive",
+        "translation": "дорого",
+        "transcription": "ɪksˈpensɪv",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533529
+      },
+      {
+        "text": "hello",
+        "translation": "здравствуйте",
+        "transcription": "həˈləʊ",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533528
+      },
+      {
+        "text": "excuse me",
+        "translation": "извините",
+        "transcription": "ɪksˈkjuːs miː",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533527
+      },
+      {
+        "text": "please",
+        "translation": "пожалуйста",
+        "transcription": "pliːz",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533526
+      },
+      {
+        "text": "I'm sorry",
+        "translation": "простите",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533525
+      },
+      {
+        "text": "size",
+        "translation": "размер",
+        "transcription": "saɪz",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533524
+      },
+      {
+        "text": "how much does it cost",
+        "translation": "сколько это стоит",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533523
+      },
+      {
+        "text": "too large",
+        "translation": "слишком большой",
+        "transcription": "tuː lɑːʤ",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533522
+      },
+      {
+        "text": "too small",
+        "translation": "слишком маленький",
+        "transcription": "tuː smɔːl",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533521
+      },
+      {
+        "text": "thank you",
+        "translation": "спасибо",
+        "transcription": "θæŋk juː",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533520
+      },
+      {
+        "text": "I do not understand",
+        "translation": "я не понимаю",
+        "lang": "en",
+        "native": "ru",
+        "id": -2129533519
+      },
+      {
+        "text": "auf wiedersehen",
+        "translation": "до свидания",
+        "transcription": "aʊ̯f ˈviːdɐˌzeːən",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533517
+      },
+      {
+        "text": "guten Abend",
+        "translation": "добрый вечер",
+        "transcription": "ˈɡuːtn̩ ˈaːbn̩t",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533515
+      },
+      {
+        "text": "guten Tag",
+        "translation": "добрый день",
+        "transcription": "ˈɡuːtn̩ taːk",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533514
+      },
+      {
+        "text": "teuer",
+        "translation": "дорого",
+        "transcription": "ˈtɔɪ̯ɐ",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533513
+      },
+      {
+        "text": "entschuldigen",
+        "translation": "извините",
+        "transcription": "ɛntˈʃʊldɪɡn̩",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533511
+      },
+      {
+        "text": "bitte",
+        "translation": "пожалуйста",
+        "transcription": "ˈbɪtə",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533510
+      },
+      {
+        "text": "entschuldigung",
+        "translation": "простите",
+        "transcription": "ɛntˈʃʊldɪɡʊŋ",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533509
+      },
+      {
+        "text": "Größe",
+        "translation": "размер",
+        "transcription": "ˈɡʁøːsə",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533508
+      },
+      {
+        "text": "wie viel kostet es",
+        "translation": "сколько это стоит",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533507
+      },
+      {
+        "text": "zu groß",
+        "translation": "слишком большой",
+        "transcription": "ʦuː ɡʁoːs",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533506
+      },
+      {
+        "text": "zu kleine",
+        "translation": "слишком маленький",
+        "transcription": "ʦuː ˈklaɪ̯nə",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533505
+      },
+      {
+        "text": "danke",
+        "translation": "спасибо",
+        "transcription": "ˈdaŋkə",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533504
+      },
+      {
+        "text": "Ich verstehe nicht",
+        "translation": "я не понимаю",
+        "transcription": "ɪç fɛɐ̯ˈʃteːən nɪçt",
+        "lang": "de",
+        "native": "ru",
+        "id": -2129533503
+      },
+      {
+        "text": "au revoir",
+        "translation": "до свидания",
+        "transcription": "o ʁəvwaʁ, ɔʁvwaʁ",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533501
+      },
+      {
+        "text": "coûteux",
+        "translation": "дорого",
+        "transcription": "kutø",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533497
+      },
+      {
+        "text": "bonjour",
+        "translation": "здравствуйте",
+        "transcription": "bɔ̃ʒuʁ",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533496
+      },
+      {
+        "text": "excusez-moi",
+        "translation": "извините",
+        "transcription": "ɛkskyze mwa",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533495
+      },
+      {
+        "text": "s'il vous plaît",
+        "translation": "пожалуйста",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533494
+      },
+      {
+        "text": "pardonnez-moi",
+        "translation": "простите",
+        "transcription": "paʁdɔne mwa",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533493
+      },
+      {
+        "text": "taille",
+        "translation": "размер",
+        "transcription": "taj, tɑj",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533492
+      },
+      {
+        "text": "combien ça coûte",
+        "translation": "сколько это стоит",
+        "transcription": "kɔ̃bjɛ̃ sa kute",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533491
+      },
+      {
+        "text": "trop grande",
+        "translation": "слишком большой",
+        "transcription": "tʁo ɡʁɑ̃",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533490
+      },
+      {
+        "text": "trop petite",
+        "translation": "слишком маленький",
+        "transcription": "tʁo pəti",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533489
+      },
+      {
+        "text": "merci",
+        "translation": "спасибо",
+        "transcription": "mɛʁsi",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533488
+      },
+      {
+        "text": "je ne comprends pas",
+        "translation": "я не понимаю",
+        "lang": "fr",
+        "native": "ru",
+        "id": -2129533487
+      },
+      {
+        "text": "arrivederci",
+        "translation": "до свидания",
+        "transcription": "arriveˈderʧi",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533485
+      },
+      {
+        "text": "buongiorno",
+        "translation": "доброе утро",
+        "transcription": "bwɔnˈʤorno",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533484
+      },
+      {
+        "text": "buona sera",
+        "translation": "добрый вечер",
+        "transcription": "ˈbwɔno ˈsera",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533483
+      },
+      {
+        "text": "buon giorno",
+        "translation": "добрый день",
+        "transcription": "ˈbwɔn ˈʤorno",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533482
+      },
+      {
+        "text": "costoso",
+        "translation": "дорого",
+        "transcription": "kosˈtoso, kosˈtozo",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533481
+      },
+      {
+        "text": "salve",
+        "translation": "здравствуйте",
+        "transcription": "ˈsalve",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533480
+      },
+      {
+        "text": "scusami",
+        "translation": "извините",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533479
+      },
+      {
+        "text": "prego",
+        "translation": "пожалуйста",
+        "transcription": "ˈprɛɡo",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533478
+      },
+      {
+        "text": "mi dispiace",
+        "translation": "простите",
+        "transcription": "ˈmi dispjaˈʧere",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533477
+      },
+      {
+        "text": "dimensione",
+        "translation": "размер",
+        "transcription": "dimenˈsjone",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533476
+      },
+      {
+        "text": "quanto costa",
+        "translation": "сколько это стоит",
+        "transcription": "ˈkwanto ˈkɔsta",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533475
+      },
+      {
+        "text": "troppo grande",
+        "translation": "слишком большой",
+        "transcription": "ˈtroppo ˈɡrande",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533474
+      },
+      {
+        "text": "troppo piccole",
+        "translation": "слишком маленький",
+        "transcription": "ˈtroppo ˈpikkolo",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533473
+      },
+      {
+        "text": "ringraziamento",
+        "translation": "спасибо",
+        "transcription": "rinɡrattsjaˈmento",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533472
+      },
+      {
+        "text": "non capisco",
+        "translation": "я не понимаю",
+        "lang": "it",
+        "native": "ru",
+        "id": -2129533471
+      },
+      {
+        "text": "hasta la vista",
+        "translation": "до свидания",
+        "transcription": "ˈasta la ˈbista",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533469
+      },
+      {
+        "text": "buenos días",
+        "translation": "доброе утро",
+        "transcription": "ˈbweno ˈdias",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533468
+      },
+      {
+        "text": "buenas noches",
+        "translation": "добрый вечер",
+        "transcription": "ˈbwenas ˈnot͡ʃe",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533467
+      },
+      {
+        "text": "buenas tardes",
+        "translation": "добрый день",
+        "transcription": "ˈbwenas ˈtaɾdes",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533466
+      },
+      {
+        "text": "costoso",
+        "translation": "дорого",
+        "transcription": "kosˈtoso",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533465
+      },
+      {
+        "text": "salve",
+        "translation": "здравствуйте",
+        "transcription": "salˈβaɾ",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533464
+      },
+      {
+        "text": "con permiso",
+        "translation": "извините",
+        "transcription": "kon peɾˈmiso",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533463
+      },
+      {
+        "text": "por favor",
+        "translation": "пожалуйста",
+        "transcription": "poɾ faˈβoɾ",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533462
+      },
+      {
+        "text": "perdón",
+        "translation": "простите",
+        "transcription": "peɾˈdon",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533461
+      },
+      {
+        "text": "tamaño",
+        "translation": "размер",
+        "transcription": "taˈmaɲo",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533460
+      },
+      {
+        "text": "cuánto cuesta",
+        "translation": "сколько это стоит",
+        "transcription": "ˈkwanto ˈkwesta",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533459
+      },
+      {
+        "text": "demasiado grande",
+        "translation": "слишком большой",
+        "transcription": "demaˈsjaðo ˈɡɾande",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533458
+      },
+      {
+        "text": "demasiado pequeño",
+        "translation": "слишком маленький",
+        "transcription": "demaˈsjaðo peˈkeɲo",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533457
+      },
+      {
+        "text": "gracias",
+        "translation": "спасибо",
+        "transcription": "ˈɡɾaθjas",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533456
+      },
+      {
+        "text": "no entiendo",
+        "translation": "я не понимаю",
+        "lang": "es",
+        "native": "ru",
+        "id": -2129533455
+      },
+      {
+        "text": "再会",
+        "translation": "до свидания",
+        "transcription": "zàihuì",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533453
+      },
+      {
+        "text": "早上好",
+        "translation": "доброе утро",
+        "transcription": "zǎoshàng hǎo",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533452
+      },
+      {
+        "text": "晚上好",
+        "translation": "добрый вечер",
+        "transcription": "wǎnshàng hǎo",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533451
+      },
+      {
+        "text": "午安",
+        "translation": "добрый день",
+        "transcription": "wǔ ān",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533450
+      },
+      {
+        "text": "昂贵",
+        "translation": "дорого",
+        "transcription": "ángguì",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533449
+      },
+      {
+        "text": "您好",
+        "translation": "здравствуйте",
+        "transcription": "nín hǎo",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533448
+      },
+      {
+        "text": "不好意思",
+        "translation": "извините",
+        "transcription": "bùhǎoyìsī",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533447
+      },
+      {
+        "text": "请",
+        "translation": "пожалуйста",
+        "transcription": "qǐng",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533446
+      },
+      {
+        "text": "对不起",
+        "translation": "простите",
+        "transcription": "duìbùqǐ",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533445
+      },
+      {
+        "text": "大小",
+        "translation": "размер",
+        "transcription": "dàxiǎo",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533444
+      },
+      {
+        "text": "要多少钱",
+        "translation": "сколько это стоит",
+        "transcription": "yào duōshǎo qián",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533443
+      },
+      {
+        "text": "太大了",
+        "translation": "слишком большой",
+        "transcription": "tài dà liǎo",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533442
+      },
+      {
+        "text": "太小了",
+        "translation": "слишком маленький",
+        "transcription": "tài xiǎo liǎo",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533441
+      },
+      {
+        "text": "谢谢",
+        "translation": "спасибо",
+        "transcription": "xièxiè",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533440
+      },
+      {
+        "text": "我不明白",
+        "translation": "я не понимаю",
+        "transcription": "wǒ bù míngbái",
+        "lang": "zh",
+        "native": "ru",
+        "id": -2129533439
+      },
+      {
+        "text": "до свидания",
+        "translation": "goodbye",
+        "transcription": "do svidaniya",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533437
+      },
+      {
+        "text": "доброе утро",
+        "translation": "good morning",
+        "transcription": "dobroye utro",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533436
+      },
+      {
+        "text": "добрый вечер",
+        "translation": "good evening",
+        "transcription": "dobryy vecher",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533435
+      },
+      {
+        "text": "добрый день",
+        "translation": "good afternoon",
+        "transcription": "dobryy den'",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533434
+      },
+      {
+        "text": "дорого",
+        "translation": "expensive",
+        "transcription": "dorogo",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533433
+      },
+      {
+        "text": "здравствуйте",
+        "translation": "hello",
+        "transcription": "zdravstvuyte",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533432
+      },
+      {
+        "text": "извините",
+        "translation": "excuse me",
+        "transcription": "izvinite",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533431
+      },
+      {
+        "text": "пожалуйста",
+        "translation": "please",
+        "transcription": "pozhaluysta",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533430
+      },
+      {
+        "text": "простите",
+        "translation": "I'm sorry",
+        "transcription": "prostite",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533429
+      },
+      {
+        "text": "размер",
+        "translation": "size",
+        "transcription": "razmer",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533428
+      },
+      {
+        "text": "сколько это стоит",
+        "translation": "how much does it cost",
+        "transcription": "skol'ko eto stoit",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533427
+      },
+      {
+        "text": "слишком большой",
+        "translation": "too large",
+        "transcription": "slishkom bol'shoy",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533426
+      },
+      {
+        "text": "слишком маленький",
+        "translation": "too small",
+        "transcription": "slishkom malen'kiy",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533425
+      },
+      {
+        "text": "спасибо",
+        "translation": "thank you",
+        "transcription": "spasibo",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533424
+      },
+      {
+        "text": "я не понимаю",
+        "translation": "I do not understand",
+        "transcription": "ya ne ponimayu",
+        "lang": "ru",
+        "native": "en",
+        "id": -2129533423
+      },
+      {
+        "text": "auf wiedersehen",
+        "translation": "goodbye",
+        "transcription": "aʊ̯f ˈviːdɐˌzeːən",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533421
+      },
+      {
+        "text": "guten Abend",
+        "translation": "good evening",
+        "transcription": "ˈɡuːtn̩ ˈaːbn̩t",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533419
+      },
+      {
+        "text": "guten Tag",
+        "translation": "good afternoon",
+        "transcription": "ˈɡuːtn̩ taːk",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533418
+      },
+      {
+        "text": "teuer",
+        "translation": "expensive",
+        "transcription": "ˈtɔɪ̯ɐ",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533417
+      },
+      {
+        "text": "entschuldigen",
+        "translation": "excuse me",
+        "transcription": "ɛntˈʃʊldɪɡn̩",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533415
+      },
+      {
+        "text": "bitte",
+        "translation": "please",
+        "transcription": "ˈbɪtə",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533414
+      },
+      {
+        "text": "entschuldigung",
+        "translation": "I'm sorry",
+        "transcription": "ɛntˈʃʊldɪɡʊŋ",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533413
+      },
+      {
+        "text": "Größe",
+        "translation": "size",
+        "transcription": "ˈɡʁøːsə",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533412
+      },
+      {
+        "text": "wie viel kostet es",
+        "translation": "how much does it cost",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533411
+      },
+      {
+        "text": "zu groß",
+        "translation": "too large",
+        "transcription": "ʦuː ɡʁoːs",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533410
+      },
+      {
+        "text": "zu kleine",
+        "translation": "too small",
+        "transcription": "ʦuː ˈklaɪ̯nə",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533409
+      },
+      {
+        "text": "danke",
+        "translation": "thank you",
+        "transcription": "ˈdaŋkə",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533408
+      },
+      {
+        "text": "Ich verstehe nicht",
+        "translation": "I do not understand",
+        "transcription": "ɪç fɛɐ̯ˈʃteːən nɪçt",
+        "lang": "de",
+        "native": "en",
+        "id": -2129533407
+      },
+      {
+        "text": "au revoir",
+        "translation": "goodbye",
+        "transcription": "o ʁəvwaʁ, ɔʁvwaʁ",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533405
+      },
+      {
+        "text": "coûteux",
+        "translation": "expensive",
+        "transcription": "kutø",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533401
+      },
+      {
+        "text": "bonjour",
+        "translation": "hello",
+        "transcription": "bɔ̃ʒuʁ",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533400
+      },
+      {
+        "text": "excusez-moi",
+        "translation": "excuse me",
+        "transcription": "ɛkskyze mwa",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533399
+      },
+      {
+        "text": "s'il vous plaît",
+        "translation": "please",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533398
+      },
+      {
+        "text": "pardonnez-moi",
+        "translation": "I'm sorry",
+        "transcription": "paʁdɔne mwa",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533397
+      },
+      {
+        "text": "taille",
+        "translation": "size",
+        "transcription": "taj, tɑj",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533396
+      },
+      {
+        "text": "combien ça coûte",
+        "translation": "how much does it cost",
+        "transcription": "kɔ̃bjɛ̃ sa kute",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533395
+      },
+      {
+        "text": "trop grande",
+        "translation": "too large",
+        "transcription": "tʁo ɡʁɑ̃",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533394
+      },
+      {
+        "text": "trop petite",
+        "translation": "too small",
+        "transcription": "tʁo pəti",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533393
+      },
+      {
+        "text": "merci",
+        "translation": "thank you",
+        "transcription": "mɛʁsi",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533392
+      },
+      {
+        "text": "je ne comprends pas",
+        "translation": "I do not understand",
+        "lang": "fr",
+        "native": "en",
+        "id": -2129533391
+      },
+      {
+        "text": "arrivederci",
+        "translation": "goodbye",
+        "transcription": "arriveˈderʧi",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533389
+      },
+      {
+        "text": "buongiorno",
+        "translation": "good morning",
+        "transcription": "bwɔnˈʤorno",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533388
+      },
+      {
+        "text": "buona sera",
+        "translation": "good evening",
+        "transcription": "ˈbwɔno ˈsera",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533387
+      },
+      {
+        "text": "buon giorno",
+        "translation": "good afternoon",
+        "transcription": "ˈbwɔn ˈʤorno",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533386
+      },
+      {
+        "text": "costoso",
+        "translation": "expensive",
+        "transcription": "kosˈtoso, kosˈtozo",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533385
+      },
+      {
+        "text": "salve",
+        "translation": "hello",
+        "transcription": "ˈsalve",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533384
+      },
+      {
+        "text": "scusami",
+        "translation": "excuse me",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533383
+      },
+      {
+        "text": "prego",
+        "translation": "please",
+        "transcription": "ˈprɛɡo",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533382
+      },
+      {
+        "text": "mi dispiace",
+        "translation": "I'm sorry",
+        "transcription": "ˈmi dispjaˈʧere",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533381
+      },
+      {
+        "text": "dimensione",
+        "translation": "size",
+        "transcription": "dimenˈsjone",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533380
+      },
+      {
+        "text": "quanto costa",
+        "translation": "how much does it cost",
+        "transcription": "ˈkwanto ˈkɔsta",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533379
+      },
+      {
+        "text": "troppo grande",
+        "translation": "too large",
+        "transcription": "ˈtroppo ˈɡrande",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533378
+      },
+      {
+        "text": "troppo piccole",
+        "translation": "too small",
+        "transcription": "ˈtroppo ˈpikkolo",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533377
+      },
+      {
+        "text": "ringraziamento",
+        "translation": "thank you",
+        "transcription": "rinɡrattsjaˈmento",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533376
+      },
+      {
+        "text": "non capisco",
+        "translation": "I do not understand",
+        "lang": "it",
+        "native": "en",
+        "id": -2129533375
+      },
+      {
+        "text": "hasta la vista",
+        "translation": "goodbye",
+        "transcription": "ˈasta la ˈbista",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533373
+      },
+      {
+        "text": "buenos días",
+        "translation": "good morning",
+        "transcription": "ˈbweno ˈdias",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533372
+      },
+      {
+        "text": "buenas noches",
+        "translation": "good evening",
+        "transcription": "ˈbwenas ˈnot͡ʃe",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533371
+      },
+      {
+        "text": "buenas tardes",
+        "translation": "good afternoon",
+        "transcription": "ˈbwenas ˈtaɾdes",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533370
+      },
+      {
+        "text": "costoso",
+        "translation": "expensive",
+        "transcription": "kosˈtoso",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533369
+      },
+      {
+        "text": "salve",
+        "translation": "hello",
+        "transcription": "salˈβaɾ",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533368
+      },
+      {
+        "text": "con permiso",
+        "translation": "excuse me",
+        "transcription": "kon peɾˈmiso",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533367
+      },
+      {
+        "text": "por favor",
+        "translation": "please",
+        "transcription": "poɾ faˈβoɾ",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533366
+      },
+      {
+        "text": "perdón",
+        "translation": "I'm sorry",
+        "transcription": "peɾˈdon",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533365
+      },
+      {
+        "text": "tamaño",
+        "translation": "size",
+        "transcription": "taˈmaɲo",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533364
+      },
+      {
+        "text": "cuánto cuesta",
+        "translation": "how much does it cost",
+        "transcription": "ˈkwanto ˈkwesta",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533363
+      },
+      {
+        "text": "demasiado grande",
+        "translation": "too large",
+        "transcription": "demaˈsjaðo ˈɡɾande",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533362
+      },
+      {
+        "text": "demasiado pequeño",
+        "translation": "too small",
+        "transcription": "demaˈsjaðo peˈkeɲo",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533361
+      },
+      {
+        "text": "gracias",
+        "translation": "thank you",
+        "transcription": "ˈɡɾaθjas",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533360
+      },
+      {
+        "text": "no entiendo",
+        "translation": "I do not understand",
+        "lang": "es",
+        "native": "en",
+        "id": -2129533359
+      },
+      {
+        "text": "再会",
+        "translation": "goodbye",
+        "transcription": "zàihuì",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533357
+      },
+      {
+        "text": "早上好",
+        "translation": "good morning",
+        "transcription": "zǎoshàng hǎo",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533356
+      },
+      {
+        "text": "晚上好",
+        "translation": "good evening",
+        "transcription": "wǎnshàng hǎo",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533355
+      },
+      {
+        "text": "午安",
+        "translation": "good afternoon",
+        "transcription": "wǔ ān",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533354
+      },
+      {
+        "text": "昂贵",
+        "translation": "expensive",
+        "transcription": "ángguì",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533353
+      },
+      {
+        "text": "您好",
+        "translation": "hello",
+        "transcription": "nín hǎo",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533352
+      },
+      {
+        "text": "不好意思",
+        "translation": "excuse me",
+        "transcription": "bùhǎoyìsī",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533351
+      },
+      {
+        "text": "请",
+        "translation": "please",
+        "transcription": "qǐng",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533350
+      },
+      {
+        "text": "对不起",
+        "translation": "I'm sorry",
+        "transcription": "duìbùqǐ",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533349
+      },
+      {
+        "text": "大小",
+        "translation": "size",
+        "transcription": "dàxiǎo",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533348
+      },
+      {
+        "text": "要多少钱",
+        "translation": "how much does it cost",
+        "transcription": "yào duōshǎo qián",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533347
+      },
+      {
+        "text": "太大了",
+        "translation": "too large",
+        "transcription": "tài dà liǎo",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533346
+      },
+      {
+        "text": "太小了",
+        "translation": "too small",
+        "transcription": "tài xiǎo liǎo",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533345
+      },
+      {
+        "text": "谢谢",
+        "translation": "thank you",
+        "transcription": "xièxiè",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533344
+      },
+      {
+        "text": "我不明白",
+        "translation": "I do not understand",
+        "transcription": "wǒ bù míngbái",
+        "lang": "zh",
+        "native": "en",
+        "id": -2129533343
+      }
+    ]
+  }
+}

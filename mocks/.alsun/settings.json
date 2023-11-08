@@ -1,0 +1,22 @@
+{
+  "updated": 0,
+  "training": {
+    "count": 5,
+    "lang": "en",
+    "type": "docking",
+    "updated": 0,
+    "textType": null,
+    "goalPerDay": 50,
+    "complexity": {}
+  },
+  "speak": {
+    "enabled": true,
+    "autoplay": true,
+    "examples": {
+      "en": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, \"and what is the use of a book,\" thought Alice \"without pictures or conversations?\"",
+      "de": "Herr! Diejenigen tun sehr unrecht, welche glauben, es habe nur zu Zeiten Haruns Al-Raschid, des Beherrschers von Bagdad, Feen und Zauberer gegeben , oder die gar behaupten, jene Berichte von dem Treiben der Genien und ihrer Fürsten , welche man von den Erzählern auf den Märkten der Stadt hört, seien unwahr.",
+      "it": "Viveva centinaia di anni fa, nella lontana città di Pietramala, unuomo chiamato Mastro Gergerio, che era espertissimo in due arti. Di giorno esercitava l'arte della sartoria, tanto bene che andavano a farsi cucire gli abiti da lui i nobili e i migliori mercanti della città, di notte praticava in segreto la magia e la negromanzia.",
+      "fr": "Il était une fois un gentilhomme qui épousa en secondes noces une femme, la plus hautaine et la plus fière qu'on eût jamais vue. Elle avait deux filles de son humeur, et qui lui ressemblaient en toutes choses. Le mari avait de son côté une jeune fille, mais d'une douceur et d'une bonté sans exemple; elle tenait cela de sa mère, qui était la meilleure femme du monde."
+    }
+  }
+}

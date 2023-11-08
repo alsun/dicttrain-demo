@@ -1,0 +1,25 @@
+{
+  "collections": [
+    {
+      "attributesTimestamp": 1535387207.804,
+      "creationTimestamp": 1532965981.134,
+      "id": "favourites",
+      "path2sync": ".alsun/dictionary.favourites.json"
+    },
+    {
+      "attributesTimestamp": 1538038229.149,
+      "creationTimestamp": 1538038229.149,
+      "id": "default",
+      "name": "Набор для демонстрации",
+      "path2sync": "dictionary.default.json"
+    },
+    {
+      "id": "demo-empty",
+      "name": "Демо пустого словаря"
+    },
+    {
+      "id": "short-phrasebook",
+      "path2sync": "short-phrasebook.default.json"
+    }
+  ]
+}

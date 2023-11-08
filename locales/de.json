@@ -1,0 +1,365 @@
+{
+  "autotranslated": "Automatisch übersetzt",
+  "global": {
+    "title": "Wörterbuch-Schulung",
+    "about": "Über",
+    "yadict": {
+      "text": "Angetrieben von {link}",
+      "href": "http://api.yandex.com/dictionary",
+      "title": "Yandex.Wörterbuch"
+    }
+  },
+  "settings": {
+    "name": "Einstellungen",
+    "collections": "Wörterbuch",
+    "addDictionary": "Laden Sie Ihr Wörterbuch hoch",
+    "count": "Anzahl der Texte in einer Lektion",
+    "type": "Standardmäßig",
+    "native": "Muttersprache",
+    "lang": "Zweitsprache",
+    "useReverseTranslation": "Umgekehrte Übersetzung verwenden",
+    "allLangs": "Alle",
+    "allItems": "Alle",
+    "textTypes": {
+      "title": "Nur Zug",
+      "info": "Diese Trennung ist an Bedingungen geknüpft",
+      "all": "Alle",
+      "type": {
+        "word": "Wörter",
+        "phrase": "Phrasen",
+        "sentence": "Sätze"
+      }
+    },
+    "training": {
+      "title": "Ausbildung",
+      "complexity": "Kompliziertheit"
+    },
+    "speak": {
+      "title": "Rede",
+      "notice": "browser-spezifisch",
+      "voice": "Sprache & Stimme",
+      "rate": "Sprechgeschwindigkeit",
+      "enabled": "Sprache zulassen",
+      "autoplay": "Automatische Wiedergabe zulassen"
+    },
+    "ui": {
+      "title": "Schnittstelle",
+      "locale": "Sprache"
+    }
+  },
+  "buttons": {
+    "results": "Befund",
+    "continue": "Fortsetzen",
+    "skip": "Hüpfen",
+    "restart": "Mehr Training!",
+    "check": "Prüfen",
+    "correct": "Ich weiß",
+    "incorrect": "Ich weiß es nicht",
+    "close": "Schließen"
+  },
+  "actions": {
+    "name": "Aktionen",
+    "title": {
+      "score": "Kenntnisstand des Textes",
+      "article": "Wörterbuchartikel zum Text",
+      "card": "Text-Übersetzungskarte",
+      "docking": "Buchstabieren des Textes",
+      "writing": "Schreiben Sie den Text",
+      "picking": "Wählen Sie Text aus mehreren Optionen aus"
+    }
+  },
+  "dictionary": {
+    "name": "Wörterbuch",
+    "title": "Wörterbuch-{name}",
+    "text": "Text",
+    "translation": "Übersetzung",
+    "article": "@:article.name",
+    "native": "Alle",
+    "lang": "Alle",
+    "score": "Punktzahl",
+    "idiom": "Idiom",
+    "names": {
+      "regular": "Wörterbuch",
+      "syn": "Synonyme",
+      "ant": "Antonyme",
+      "deriv": "Abgeleitet",
+      "def": "Wörterbuch-Artikel"
+    }
+  },
+  "collections": {
+    "name": {
+      "favourites": "Favoriten",
+      "default": "Demo",
+      "short-phrasebook": "Kurzer Sprachführer"
+    }
+  },
+  "alert": {
+    "noneNetwork": {
+      "title": "Dienst nicht verfügbar",
+      "text": "Es gibt keinen Zugriff auf die {url}. \nEs ist möglich, dass die Internetverbindung verschwunden ist."
+    },
+    "noneItems": {
+      "title": "Keine Texte zum Trainieren",
+      "text": "Möglicherweise haben Sie in den Einstellungen zu restriktive Filterbedingungen ausgewählt"
+    },
+    "nonePicking": {
+      "title": "Es gibt nicht genügend Texte zum Trainieren",
+      "text": "@:alert.noneItems.text oder \nDas Wörterbuch enthält nicht genügend Texte für die ausgewählte Art des Trainings"
+    },
+    "noneArticle": {
+      "title": "«{text}»",
+      "text": "Es gibt keinen Artikel zu diesem Text"
+    },
+    "emptyCollection": {
+      "title": "Wörterbuch nicht gefunden",
+      "text": "Das \"{name}\"-Wörterbuch ist leer oder fehlt. \nVersuchen Sie, ein anderes Wörterbuch in den Einstellungen auszuwählen"
+    }
+  },
+  "training": {
+    "name": "Ausbildung",
+    "title": "Schulung {translation}"
+  },
+  "article": {
+    "name": "Artikel",
+    "title": "Wörterbuchartikel \"{text}\"",
+    "lookup": "Bedeutung",
+    "query-corpus": "Beispiele",
+    "source": {
+      "title": "Quelle",
+      "type": {
+        "book": "Buch",
+        "sites": "Platz",
+        "news": "Nachrichten",
+        "series": "seriell",
+        "movie": "Film",
+        "idiom": "Idiom",
+        "IT": "Stapelüberlauf"
+      },
+      "field": {
+        "author": "Verfasser",
+        "title": "Titel",
+        "year": "Jahr",
+        "translator": "Translator",
+        "url": "URL",
+        "imdb": "IMDB (Englisch)",
+        "director": "Regisseur",
+        "orig_title": "Ursprünglicher Titel"
+      }
+    }
+  },
+  "info": {
+    "title": "Info",
+    "sections": {
+      "history": {
+        "nav": "Warum",
+        "title": "Einmal, vor ein paar Jahren:"
+      },
+      "features": {
+        "nav": "Was",
+        "title": "Das Herz begehrte:",
+        "list": [
+          "Ein Service für effektives Auswendiglernen von Wörterbüchern.",
+          "Die Möglichkeit, die Tastatur zu verwenden.",
+          "Sie müssen sich nicht ablenken lassen und auf der Suche nach Tasten auf dem Bildschirm herumfummeln.",
+          "Die Möglichkeit, schnell zusätzliche Informationen zu einem Wort anzuzeigen, idealerweise mit Anwendungsbeispielen.",
+          "Sprachausgabe mit der Möglichkeit, die Sprachgeschwindigkeit zu wählen.",
+          "Ein Wörterbuch, das für den Übersetzungsdienst freigegeben wurde."
+        ],
+        "done": "Was dabei herauskam:",
+        "text": [
+          "Hotkeys auf den Grundtasten: {ESC} und {Enter}. Beim Tippen aus Blöcken: Ein Block kann entweder angeklickt oder gezogen oder durch den ersten Buchstaben der Tastatur ausgewählt werden. Sie können den ausgewählten Block entfernen, indem Sie {BackSpace} drücken.",
+          "Beim Lernen von Wörtern, Phrasen oder Sätzen, die nicht übermäßig lang sind, bleiben die Tasten an Ort und Stelle.",
+          "Es ist möglich, einen Wörterbuchartikel von Yandex.Dictionaries anzuzeigen.",
+          "Die Sprachausgabe funktioniert mit der standardmäßigen browserbasierten Web-Sprach-API, die von den meisten modernen Browsern unterstützt wird. Wenn der Browser es zulässt, im Artikelmodus oder nach einem erfolgreichen Training, erscheint eine Schaltfläche mit Voiceover im Titel. Auch Texte werden automatisch gesprochen, was in den Einstellungen abgeschaltet werden kann. Die Sprachausgabe kann durch einen Doppelklick auf die Seite gestoppt werden.",
+          "Viele Einstellungen mit Filtern nach Sprache, Textlänge, Anzahl der Wörter im Trainingszyklus usw.",
+          "Mehrere Komplexitätsstufen für das Training.",
+          "Normalerweise verwende ich Yandex oder Google Translator. Beide ermöglichen es, ein Wort oder eine Phrase zu speichern. Keiner von ihnen ermöglicht jedoch ein benutzerfreundliches Auswendiglernen von Übersetzungen oder die Nutzung des Wörterbuchs durch andere Dienste. Mit Google Translate können Sie nur gespeicherte Übersetzungen in CSV hochladen. \nDieses oder Ihre anderen Wörterbücher im CSV- und JSON-Format können in {uploadLink} hochgeladen werden.",
+          "Benutzerdaten (Einstellungen, Fortschritt, hochgeladene Wörterbücher) werden lokal im Browser (IndexedDB) gespeichert. \nBenutzerwörterbücher werden auch lokal (über die Datei-API) analysiert."
+        ],
+        "upload-link": "Seite",
+        "keys": {
+          "esc": "ESC",
+          "enter": "Eintreten",
+          "backspace": "Backspace"
+        }
+      },
+      "about": {
+        "nav": "Wie",
+        "title": "In der Tiefe:",
+        "parts": {
+          "ui": "BENUTZEROBERFLÄCHE",
+          "tests": "Testen",
+          "tools": "Sonstige Werkzeuge",
+          "comics": "Comics"
+        },
+        "packages": {
+          "mololab/json-translator": "Benutzeroberfläche für automatische Übersetzung"
+        }
+      }
+    }
+  },
+  "comics": {
+    "1": "Als ich einen Online-Dienst zum Erlernen von Fremdsprachen abonniert hatte, mit einer gut organisierten Benutzeroberfläche, auf der alles zur Hand ist, und mit Hotkeys!",
+    "2": "Als sie einen Monat später eine neue Benutzeroberfläche einführten... Ohne Hotkeys und mit Schaltflächen, die von Seite zu Seite über den Bildschirm springen!",
+    "3": "Als sie ein paar Monate später die Arbeit mit Wörterbüchern unterbrachen...",
+    "4": "Als ich eine Antwort vom Support bekommen hatte: Das Reparieren von Wörterbüchern ist nicht in den aktuellen Prioritäten enthalten.",
+    "5": "Die Korrektur von Wörterbüchern gehört nicht zu den Prioritäten des Fremdsprachenlerndienstes!! 🤯🤬",
+    "6": "Ich bin Webentwickler! Ich werde mein eigenes Ding schreiben, um ein Wörterbuch mit Hotkeys und Katzen auswendig zu lernen!"
+  },
+  "addDictionary": {
+    "title": "Hochladen des Wörterbuchs des Benutzers",
+    "input": "Wählen Sie eine *.json- oder *.scv-Datei aus",
+    "csvFormat": {
+      "text": "Dieses Format eignet sich für importierte \"Saved\" aus {Google}. Wählen Sie dazu nach dem Exportieren in Google Tabellen {path} aus. \nDie Übereinstimmung der Spalten und Felder der CSV-Datei wird nach dem Parsen in einem folgenden Formular festgelegt. Wenn die erste Zeile der Datei Spaltenüberschriften enthält, aktivieren Sie ein spezielles Kontrollkästchen im Formular.",
+      "google": "Google Übersetzer",
+      "path": [
+        "Datei",
+        "Herunterladen",
+        "CSV-Format"
+      ]
+    },
+    "jsonFormat": {
+      "text": "JSON-Dateien im folgenden Format eignen sich für die Analyse: {list}",
+      "yandex": "Yandex.Übersetzen",
+      "list": [
+        "\"Favoriten\" von {yandex} (wenn du sie in die Finger 👩🏻 🔧 bekommst),",
+        "Enthält ein Array von Objekten mit erforderlichen Feldern: {text}, {translation}, {lang} (oder [1] im Format eines Paares mit \"-\", wobei der erste Teil die Sprache des Textfelds und der zweite {locale} ist - die Sprache für das Übersetzungsfeld; oder [2] mit einem speziellen nativen Feld) und optionale Felder: {id}, {transcription}."
+      ]
+    },
+    "firstLineIsHead": "Die erste Zeile sind die Spaltenüberschriften",
+    "setFields": "Feldabgleich einrichten",
+    "dictionaryName": "Wählen Sie einen Namen für das Wörterbuch",
+    "idGenered": "Automatisch",
+    "dictionaryAdded": "Das Wörterbuch \"{name}\" wurde hinzugefügt. \n{link} ein anderes Wörterbuch?",
+    "add": "Hinzufügen",
+    "save": "Retten",
+    "field": {
+      "ignore": "ignorieren",
+      "or": "oder",
+      "id": "ID",
+      "lang": "Zweitsprache",
+      "native": "Muttersprache",
+      "text": "Schulungstext",
+      "translation": "Übersetzung",
+      "transcription": "Transkription"
+    },
+    "fileParsed": "Das Dateiformat wurde analysiert.",
+    "countRecords": "Es wurden keine Datensätze gefunden. | {count} Datensatz gefunden. | {count} Datensätze gefunden.",
+    "error": {
+      "read": "Datei konnte nicht gelesen werden",
+      "parse": "Das Wörterbuchformat in der {type}Datei konnte nicht analysiert werden",
+      "unknown": "Ungültiges Dateiformat. Akzeptierte Formate: json, csv.",
+      "collectionExists": "Ein Wörterbuch mit diesem Namen existiert bereits, bitte wählen Sie einen anderen Namen",
+      "collectionAdd": "Das Wörterbuch konnte nicht hinzugefügt werden. Versuchen Sie, die Seite neu zu laden, und wiederholen Sie Ihre Schritte."
+    }
+  },
+  "auth": {
+    "title": "Ermächtigung",
+    "yandex": "Yandex",
+    "login": "Melden Sie sich an mit",
+    "logout": "Ausgang",
+    "info": "Eine Autorisierung wäre sinnvoll, wenn Yandex.Translate authentifizierten Benutzern Zugriff auf Favoriten gewähren würde. \nAber leider ist dies nur eine Demo."
+  },
+  "langs": {
+    "af": "Afrikaans",
+    "sq": "Albanisch",
+    "am": "Amharisch",
+    "ar": "Arabisch",
+    "hy": "Armenisch",
+    "az": "Aserbaidschanisch",
+    "ba": "Baschkirisch",
+    "eu": "Baskisch",
+    "be": "Belarussisch",
+    "bn": "Bengali",
+    "bs": "Bosnisch",
+    "bg": "Bulgarisch",
+    "my": "Burmesisch",
+    "ca": "Katalanisch",
+    "ceb": "Cebuano",
+    "zh": "Chinesisch",
+    "cv": "Tschuwaschisch",
+    "hr": "Kroatisch",
+    "cs": "Tschechisch",
+    "da": "Dänisch",
+    "nl": "Holländisch",
+    "sjn": "Elbisch (Sindarin)",
+    "emj": "Emoji",
+    "en": "Englisch",
+    "eo": "Esperanto",
+    "et": "Estnisch",
+    "fi": "Finnisch",
+    "fr": "Französisch",
+    "gl": "Galizisch",
+    "ka": "Georgisch",
+    "de": "Deutsch",
+    "el": "Griechisch",
+    "gu": "Gujarati",
+    "ht": "Haitianisch",
+    "he": "Hebräisch",
+    "mrj": "Hügel Mari",
+    "hi": "Hindi",
+    "hu": "Ungarisch",
+    "is": "Isländisch",
+    "id": "Indonesisch",
+    "ga": "Irisch",
+    "it": "Italienisch",
+    "ja": "Japanisch",
+    "jv": "Javanisch",
+    "kn": "Kannada",
+    "kk": "Kasachisch",
+    "kazlat": "Kasachisch (Lateinisch)",
+    "km": "Khmer",
+    "ko": "Koreanisch",
+    "ky": "Kirgisisch",
+    "lo": "Laotisch",
+    "la": "Latein",
+    "lv": "Lettisch",
+    "lt": "Litauisch",
+    "lb": "Luxemburgisch",
+    "mk": "Mazedonisch",
+    "mg": "Madagassisch",
+    "ms": "Malaiisch",
+    "ml": "Malayalam",
+    "mt": "Maltesisch",
+    "mi": "Maori",
+    "mr": "Marathi",
+    "mhr": "Mari",
+    "mn": "Mongolisch",
+    "ne": "Nepalesisch",
+    "no": "Norwegisch",
+    "pap": "Papiamentu",
+    "fa": "Persisch",
+    "pl": "Polnisch",
+    "pt": "Portugiesisch",
+    "pa": "Punjabi",
+    "ro": "Rumänisch",
+    "ru": "Russisch",
+    "gd": "Schottisch-Gälisch",
+    "sr": "Serbisch",
+    "si": "Singhalesisch",
+    "sk": "Slowakisch",
+    "sl": "Slowenisch",
+    "es": "Spanisch",
+    "su": "Sundanesisch",
+    "sw": "Swahili",
+    "sv": "Schwedisch",
+    "tl": "Tagalog",
+    "tg": "Tadschikisch",
+    "ta": "Tamil",
+    "tt": "Tatarisch",
+    "te": "Telugu",
+    "th": "Thailändisch",
+    "tr": "Türkisch",
+    "udm": "Udmurtisch",
+    "uk": "Ukrainisch",
+    "ur": "Urdu",
+    "uz": "Usbekisch",
+    "uzbcyr": "Usbekisch (Kyrillisch)",
+    "vi": "Vietnamesisch",
+    "cy": "Walisisch",
+    "xh": "Xhosa",
+    "sah": "Jakutisch",
+    "yi": "Jiddisch",
+    "zu": "Zulu"
+  }
+}

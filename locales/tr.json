@@ -1,0 +1,365 @@
+{
+  "autotranslated": "Otomatik Çevrildi",
+  "global": {
+    "title": "Sözlük eğitimi",
+    "about": "Hakkında",
+    "yadict": {
+      "text": "{link} tarafından desteklenmektedir",
+      "href": "http://api.yandex.com/dictionary",
+      "title": "Yandex.Sözlük"
+    }
+  },
+  "settings": {
+    "name": "Ayarlar",
+    "collections": "Sözlük",
+    "addDictionary": "Sözlüğünüzü yükleyin",
+    "count": "Bir dersteki metin sayısı",
+    "type": "Varsayılan olarak",
+    "native": "Ana dili",
+    "lang": "İkinci dil",
+    "useReverseTranslation": "Ters çeviriyi kullan",
+    "allLangs": "Tüm",
+    "allItems": "Tüm",
+    "textTypes": {
+      "title": "Sadece Tren",
+      "info": "Bu ayrılık şarta bağlıdır",
+      "all": "Tüm",
+      "type": {
+        "word": "Kelime",
+        "phrase": "Ifa -de",
+        "sentence": "Cümle"
+      }
+    },
+    "training": {
+      "title": "Antrenman",
+      "complexity": "Karmaşıklık"
+    },
+    "speak": {
+      "title": "Konuşma",
+      "notice": "Tarayıcıya özel",
+      "voice": "Dil ve Ses",
+      "rate": "Konuşma hızı",
+      "enabled": "Konuşmaya izin ver",
+      "autoplay": "Otomatik oynatmaya izin ver"
+    },
+    "ui": {
+      "title": "Arayüz",
+      "locale": "Dil"
+    }
+  },
+  "buttons": {
+    "results": "Sonuç -ları",
+    "continue": "Devam etmek",
+    "skip": "Atlamak",
+    "restart": "Daha fazla eğitim!",
+    "check": "Çek",
+    "correct": "Biliyorum",
+    "incorrect": "Bilmiyorum",
+    "close": "Kapatmak"
+  },
+  "actions": {
+    "name": "Eylemler",
+    "title": {
+      "score": "Metin hakkında bilgi düzeyi",
+      "article": "Metinle ilgili sözlük makalesi",
+      "card": "Metin-Çeviri Kartı",
+      "docking": "Metni heceleyin",
+      "writing": "Metni yaz",
+      "picking": "Çeşitli seçenekler arasından Metin'i seçin"
+    }
+  },
+  "dictionary": {
+    "name": "Sözlük",
+    "title": "Sözlük {name}",
+    "text": "Metin",
+    "translation": "Çeviri",
+    "article": "@:article.name",
+    "native": "Tüm",
+    "lang": "Tüm",
+    "score": "Puan",
+    "idiom": "Deyim",
+    "names": {
+      "regular": "Sözlük",
+      "syn": "Eşanlamlı",
+      "ant": "Zıt",
+      "deriv": "Türetilmiş",
+      "def": "Sözlük makaleleri"
+    }
+  },
+  "collections": {
+    "name": {
+      "favourites": "Favoriler",
+      "default": "Demo",
+      "short-phrasebook": "Kısa Konuşma Kılavuzu"
+    }
+  },
+  "alert": {
+    "noneNetwork": {
+      "title": "Hizmet Kullanılamıyor",
+      "text": "{url} erişim yok. \nİnternet bağlantısının kaybolması mümkündür."
+    },
+    "noneItems": {
+      "title": "Eğitilecek metin yok",
+      "text": "Ayarlar'da çok kısıtlayıcı filtre koşulları seçmiş olabilirsiniz"
+    },
+    "nonePicking": {
+      "title": "Eğitmek için yeterli metin yok",
+      "text": "@:alert.noneItems.text veya \nSözlük, seçilen Eğitim türü için yeterli metin içermiyor"
+    },
+    "noneArticle": {
+      "title": "«{text}»",
+      "text": "Bu metin hakkında herhangi bir makale bulunmamaktadır"
+    },
+    "emptyCollection": {
+      "title": "Sözlük bulunamadı",
+      "text": "\"{name}\" sözlüğü boş veya eksik. \nAyarlar'da başka bir Sözlük seçmeyi deneyin"
+    }
+  },
+  "training": {
+    "name": "Antrenman",
+    "title": "Eğitim {translation}"
+  },
+  "article": {
+    "name": "Makale",
+    "title": "Sözlük makalesi \"{text}\"",
+    "lookup": "Anlam",
+    "query-corpus": "Örnekler",
+    "source": {
+      "title": "Kaynak",
+      "type": {
+        "book": "kitap",
+        "sites": "site",
+        "news": "haberler",
+        "series": "Seri",
+        "movie": "Film",
+        "idiom": "deyim",
+        "IT": "Yığın Taşması"
+      },
+      "field": {
+        "author": "yaratıcı",
+        "title": "başlık",
+        "year": "yıl",
+        "translator": "Translator",
+        "url": "URL",
+        "imdb": "IMDB Sertifikası",
+        "director": "yönetmen",
+        "orig_title": "Orjinal Başlık"
+      }
+    }
+  },
+  "info": {
+    "title": "Bilgi",
+    "sections": {
+      "history": {
+        "nav": "Neden",
+        "title": "Bir keresinde, birkaç yıl önce:"
+      },
+      "features": {
+        "nav": "Ne",
+        "title": "Kalp arzu etti:",
+        "list": [
+          "Etkili sözlük ezberleme hizmeti.",
+          "Klavyeyi kullanma yeteneği.",
+          "Düğmeleri aramak için dikkatinizin dağılmasına ve ekranda dolaşmanıza gerek yok.",
+          "İdeal olarak kullanım örnekleriyle bir kelime hakkında ek bilgileri hızlı bir şekilde görüntüleme yeteneği.",
+          "Konuşma hızını seçme yeteneği ile seslendirme.",
+          "Çeviri hizmetiyle paylaşılan bir sözlük."
+        ],
+        "done": "Bundan ne çıktı:",
+        "text": [
+          "Temel düğmelerdeki kısayol tuşları: {ESC} ve {Enter}. Bloklardan yazarken: bir blok tıklanabilir veya sürüklenebilir ya da klavyeden ilk harfle seçilebilir. Seçilen bloğu {BackSpace} basarak kaldırabilirsiniz.",
+          "Aşırı uzunlukta olmayan kelimeleri, cümleleri veya cümleleri incelerken, düğmeler sahiplerin yerinde kalır.",
+          "Yandex.Sözlükler'den bir sözlük makalesi görüntülemek mümkündür.",
+          "Seslendirme, çoğu modern tarayıcı tarafından desteklenen standart tarayıcı tabanlı Web Konuşma API'si ile çalışır. Tarayıcı izin verdiğinde, makale modunda veya başarılı bir antrenmandan sonra, başlıkta seslendirme içeren bir düğme görünür. Metinler de otomatik olarak konuşulur ve ayarlardan kapatılabilir. Seslendirme, sayfaya çift tıklanarak durdurulabilir.",
+          "Dile, metin uzunluğuna, eğitim döngüsündeki kelime sayısına vb. göre filtreli birçok ayar.",
+          "Eğitim için çeşitli karmaşıklık düzeyleri.",
+          "Genellikle Yandex veya Google Translator kullanıyorum. Her ikisi de bir kelimeyi veya cümleyi kaydetmeyi mümkün kılar. Ancak bunların hiçbiri çevirilerin kullanıcı dostu bir şekilde ezberlenmesini veya sözlüğün diğer hizmetler tarafından kullanılmasını mümkün kılmaz. Google Çeviri, yalnızca Kayıtlı çevirileri CSV'ye yüklemenize izin verir. \nCSV ve JSON formatındaki bu veya diğer sözlükleriniz {uploadLink}'a yüklenebilir.",
+          "Kullanıcı verileri (ayarlar, ilerleme, yüklenen sözlükler) tarayıcıda (IndexedDB) yerel olarak depolanır. \nKullanıcı sözlükleri de yerel olarak ayrıştırılır (Dosya API'si tarafından)."
+        ],
+        "upload-link": "sayfa",
+        "keys": {
+          "esc": "ESC",
+          "enter": "Girmek",
+          "backspace": "Geri tuşu"
+        }
+      },
+      "about": {
+        "nav": "Nasıl",
+        "title": "Derinliklerde:",
+        "parts": {
+          "ui": "UI",
+          "tests": "Test etme",
+          "tools": "Diğer araçlar",
+          "comics": "Çizgi roman"
+        },
+        "packages": {
+          "mololab/json-translator": "otomatik çeviri kullanıcı arayüzü"
+        }
+      }
+    }
+  },
+  "comics": {
+    "1": "Yabancı dil öğrenmek için çevrimiçi bir hizmete abone olduğumda, iyi organize edilmiş bir arayüze sahip, her şeyin elinizin altında olduğu ve kısayol tuşlarıyla!",
+    "2": "Bir ay sonra yeni bir arayüz çıkardıklarında... Kısayol tuşları olmadan ve ekranda sayfadan sayfaya atlayan düğmelerle!",
+    "3": "Birkaç ay sonra sözlüklerle işi bozduklarında...",
+    "4": "Destekten bir yanıt aldığımda: sözlükleri düzeltmek mevcut öncelikler arasında yer almıyor.",
+    "5": "Sözlüklerin düzeltilmesi yabancı dil öğrenme servisinin öncelikleri arasında yer almamaktadır!! 🤯🤬",
+    "6": "Ben bir web geliştiricisiyim! Kısayol tuşları ve kedilerle bir sözlüğü ezberlemek için kendi şeyimi yazacağım!"
+  },
+  "addDictionary": {
+    "title": "Kullanıcının sözlüğünü yükleme",
+    "input": "Bir *.json veya *.scv dosyası seçin",
+    "csvFormat": {
+      "text": "Bu biçim, {Google}'dan içe aktarılan \"Kaydedildi\" için uygundur. Bunu yapmak için, Google E-Tablolar'a aktardıktan sonra {path}'yi seçin. \nCsv dosyası sütunlarının ve alanlarının eşleşmesi, aşağıdaki biçimde ayrıştırıldıktan sonra ayarlanır. Dosyanın ilk satırı sütun başlıkları içeriyorsa, formda özel bir onay kutusu seçin.",
+      "google": "Google Çeviri",
+      "path": [
+        "Dosya",
+        "İndirmek",
+        "CSV Biçimi"
+      ]
+    },
+    "jsonFormat": {
+      "text": "Aşağıdaki biçimdeki json dosyaları ayrıştırma için uygundur: {list}",
+      "yandex": "Yandex.Çeviri:",
+      "list": [
+        "{yandex}'den \"Sık Kullanılanlar\" (eğer elinize 👩🏻 🔧 alabilirseniz),",
+        "Gerekli alanlara sahip bir dizi nesne içerir: {text}, {translation}, {lang} (veya [1] \"-\" ile bir çift biçiminde, burada ilk kısım metin alanının dili, ikincisi ise {locale} - çeviri alanının dili; veya [2] özel bir yerel alanla) ve isteğe bağlı alanlar: {id}, {transcription}."
+      ]
+    },
+    "firstLineIsHead": "İlk satır sütun başlıklarıdır",
+    "setFields": "Alan eşleştirmeyi ayarlama",
+    "dictionaryName": "Sözlük için bir ad seçin",
+    "idGenered": "Otomatik olarak",
+    "dictionaryAdded": "\"{name}\" sözlüğü eklendi. \nBaşka bir sözlüğe {link}?",
+    "add": "Eklemek",
+    "save": "Kurtarmak",
+    "field": {
+      "ignore": "yok saymak",
+      "or": "veya",
+      "id": "KİMLİĞİ",
+      "lang": "İkinci dil",
+      "native": "Ana dili",
+      "text": "Eğitim metni",
+      "translation": "Çeviri",
+      "transcription": "Transkripsiyon"
+    },
+    "fileParsed": "Dosya biçimi ayrıştırıldı.",
+    "countRecords": "Kayıt bulunamadı. | {count} kayıt bulundu. | {count} kayıtları bulundu.",
+    "error": {
+      "read": "Dosya okunamadı",
+      "parse": "{type} dosyasındaki sözlük biçimi ayrıştırılamadı",
+      "unknown": "Geçersiz dosya biçimi. Kabul edilen biçimler: json, csv.",
+      "collectionExists": "Bu isimde bir sözlük zaten var, lütfen başka bir isim seçin",
+      "collectionAdd": "Sözlük eklenemedi. Sayfayı yeniden yüklemeyi deneyin ve adımlarınızı tekrarlayın."
+    }
+  },
+  "auth": {
+    "title": "İzin",
+    "yandex": "Yandex",
+    "login": "Şununla giriş yap",
+    "logout": "Çıkış",
+    "info": "Yandex.Çeviri'nin kimliği doğrulanmış kullanıcılar için Sık Kullanılanlar'a erişim sağlaması durumunda yetkilendirme mantıklı olacaktır. \nAma ne yazık ki, bu sadece bir Demo."
+  },
+  "langs": {
+    "af": "Afrikaner",
+    "sq": "Arnavutça",
+    "am": "Amharca",
+    "ar": "Arapça",
+    "hy": "Ermenice",
+    "az": "Azerice",
+    "ba": "Başkurtça",
+    "eu": "Bask dili",
+    "be": "Beyaz Rusça",
+    "bn": "Bengali",
+    "bs": "Boşnakça",
+    "bg": "Bulgarca",
+    "my": "Birmanya",
+    "ca": "Katalanca",
+    "ceb": "Cebuano Belediyesi",
+    "zh": "Çince",
+    "cv": "Çuvaşça",
+    "hr": "Hırvatça",
+    "cs": "Çekçe",
+    "da": "Danca",
+    "nl": "Hollanda dili",
+    "sjn": "Elfçe (Sindarin)",
+    "emj": "Emojiler",
+    "en": "İngilizce",
+    "eo": "Esperanto",
+    "et": "Estonca",
+    "fi": "Fince",
+    "fr": "Fransızca",
+    "gl": "Galiçya lehçesi",
+    "ka": "Gürcüce",
+    "de": "Almanca",
+    "el": "Yunanca",
+    "gu": "Gucerat dili",
+    "ht": "Haitili",
+    "he": "İbranice",
+    "mrj": "Mari Tepesi",
+    "hi": "Hintçe",
+    "hu": "Macarca",
+    "is": "İzlanda dili",
+    "id": "Endonezya dili",
+    "ga": "İrlanda dili",
+    "it": "İtalyanca",
+    "ja": "Japonca",
+    "jv": "Cava",
+    "kn": "Kannada dili",
+    "kk": "Kazakça",
+    "kazlat": "Kazakça (Latin)",
+    "km": "Khmer",
+    "ko": "Kore dili",
+    "ky": "Kırgızca",
+    "lo": "Lao",
+    "la": "Latince",
+    "lv": "Letonca",
+    "lt": "Litvanca",
+    "lb": "Lüksemburgca",
+    "mk": "Makedonca",
+    "mg": "Madagaskarlı",
+    "ms": "Malay dili",
+    "ml": "Malayalam dili",
+    "mt": "Malta dili",
+    "mi": "Maori dili",
+    "mr": "Marathi",
+    "mhr": "Fransa",
+    "mn": "Moğolca",
+    "ne": "Nepalce",
+    "no": "Norveç dili",
+    "pap": "Papiamento",
+    "fa": "Farsça",
+    "pl": "Lehçe",
+    "pt": "Portekizce",
+    "pa": "Pencap dili",
+    "ro": "Rumence",
+    "ru": "Rusça",
+    "gd": "İskoçça",
+    "sr": "Sırpça",
+    "si": "Sinhalese dili",
+    "sk": "Slovakça",
+    "sl": "Slovence",
+    "es": "İspanyolca",
+    "su": "Sunda dili",
+    "sw": "Svahili dili",
+    "sv": "İsveç dili",
+    "tl": "Tagalog",
+    "tg": "Tacik",
+    "ta": "Tamil dili",
+    "tt": "Tatarca",
+    "te": "Telugu dili",
+    "th": "Tay dili",
+    "tr": "Türkçe",
+    "udm": "Udmurt Belediyesi",
+    "uk": "Ukrayna dili",
+    "ur": "Urduca",
+    "uz": "Özbekçe",
+    "uzbcyr": "Özbekçe (Kiril)",
+    "vi": "Vietnam dili",
+    "cy": "Galce",
+    "xh": "Zosa dili",
+    "sah": "Yakutça",
+    "yi": "Yidiş",
+    "zu": "Zulu dili"
+  }
+}

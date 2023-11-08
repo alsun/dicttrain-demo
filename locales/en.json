@@ -1,0 +1,365 @@
+{
+  "autotranslated": "auto translated",
+  "global": {
+    "title": "Dictionary training",
+    "about": "About",
+    "yadict": {
+      "text": "Powered by {link}",
+      "href": "http://api.yandex.com/dictionary",
+      "title": "Yandex.Dictionary"
+    }
+  },
+  "settings": {
+    "name": "Settings",
+    "collections": "Dictionary",
+    "addDictionary": "Upload your dictionary",
+    "count": "Number of texts in a lesson",
+    "type": "By default",
+    "native": "First language",
+    "lang": "Second language",
+    "useReverseTranslation": "Use Reverse Translation",
+    "allLangs": "All",
+    "allItems": "All",
+    "textTypes": {
+      "title": "Train Only",
+      "info": "This separation is conditional",
+      "all": "All",
+      "type": {
+        "word": "Words",
+        "phrase": "Phrases",
+        "sentence": "Sentences"
+      }
+    },
+    "training": {
+      "title": "Training",
+      "complexity": "Complexity"
+    },
+    "speak": {
+      "title": "Speech",
+      "notice": "browser-specific",
+      "voice": "Language & Voice",
+      "rate": "Speech rate",
+      "enabled": "Allow speech",
+      "autoplay": "Allow autoplay"
+    },
+    "ui": {
+      "title": "Interface",
+      "locale": "Language"
+    }
+  },
+  "buttons": {
+    "results": "Results",
+    "continue": "Continue",
+    "skip": "Skip",
+    "restart": "More training!",
+    "check": "Check",
+    "correct": "I know",
+    "incorrect": "I don't know",
+    "close": "Close"
+  },
+  "actions": {
+    "name": "Actions",
+    "title": {
+      "score": "Level of knowledge of the text",
+      "article": "Dictionary article about the text",
+      "card": "Text-Translation Card",
+      "docking": "Spell the text",
+      "writing": "Write the text",
+      "picking": "Select Text from several options"
+    }
+  },
+  "dictionary": {
+    "name": "Dictionary",
+    "title": "Dictionary {name}",
+    "text": "Text",
+    "translation": "Translation",
+    "article": "@:article.name",
+    "native": "All",
+    "lang": "All",
+    "score": "Score",
+    "idiom": "Idiom",
+    "names": {
+      "regular": "Dictionary",
+      "syn": "Synonyms",
+      "ant": "Antonyms",
+      "deriv": "Derived",
+      "def": "Dictionary articles"
+    }
+  },
+  "collections": {
+    "name": {
+      "favourites": "Favourites",
+      "default": "Demo",
+      "short-phrasebook": "Short Phrasebook"
+    }
+  },
+  "alert": {
+    "noneNetwork": {
+      "title": "Service Unavailable",
+      "text": "There is no access to the {url}. \nIt is possible that the Internet connection has disappeared."
+    },
+    "noneItems": {
+      "title": "No texts to train",
+      "text": "You may have selected too restrictive filter conditions in Settings"
+    },
+    "nonePicking": {
+      "title": "There are not enough texts to train",
+      "text": "@:alert.noneItems.text or \nDictionary has not contained enough texts for selected type of Training"
+    },
+    "noneArticle": {
+      "title": "«{text}»",
+      "text": "There is no article about this text"
+    },
+    "emptyCollection": {
+      "title": "Dictionary not found",
+      "text": "The \"{name}\" dictionary is empty or missing. \nTry to select another Dictionary in Settings"
+    }
+  },
+  "training": {
+    "name": "Training",
+    "title": "Training {translation}"
+  },
+  "article": {
+    "name": "Article",
+    "title": "Dictionary article \"{text}\"",
+    "lookup": "Meaning",
+    "query-corpus": "Examples",
+    "source": {
+      "title": "Source",
+      "type": {
+        "book": "book",
+        "sites": "site",
+        "news": "news",
+        "series": "serial",
+        "movie": "movie",
+        "idiom": "idiom",
+        "IT": "Stack Overflow"
+      },
+      "field": {
+        "author": "author",
+        "title": "title",
+        "year": "year",
+        "translator": "translator",
+        "url": "url",
+        "imdb": "IMDB",
+        "director": "director",
+        "orig_title": "original title"
+      }
+    }
+  },
+  "info": {
+    "title": "Info",
+    "sections": {
+      "history": {
+        "nav": "Why",
+        "title": "Once, a few years ago:"
+      },
+      "features": {
+        "nav": "What",
+        "title": "the heart desired:",
+        "list": [
+          "A service for effective dictionary memorization.",
+          "The ability to use the keyboard.",
+          "No necessity to be distracted and fumble around the screen in search of buttons.",
+          "The ability to quickly view additional information about a word, ideally with usage examples.",
+          "Voice acting with the ability to choose the speed of speech.",
+          "A dictionary shared with the translation service."
+        ],
+        "done": "What came out of this:",
+        "text": [
+          "Hotkeys on the basic buttons: {ESC} and {Enter}. When typing from blocks: a block can either be clicked or dragged, or selected by the first letter from the keyboard. You can remove the chosen block by pressing {BackSpace}.",
+          "When studying words, phrases or sentences of not excessive length, the buttons remain in owners place.",
+          "Possible to view a dictionary article from Yandex.Dictionaries.",
+          "Voice acting works with the standard browser-based Web Speech API, which is supported by most modern browsers. When the browser allows, in the article mode or after a successful workout, a button with voiceover appears in the title. Texts are also spoken automatically, which can be turned off in the settings. Voice acting can be stopped by double-clicking on the page.",
+          "A lot of settings with filters by language, text length, number of words in the training cycle, etc.",
+          "Several levels of complexity for training.",
+          "I usually use Yandex or Google Translator. Both of them make it possible to save a word or phrase. However, none of them makes it possible for either user-friendly memorization of translations or the use of the dictionary by other services. Google Translate only allows you to upload Saved translations to CSV. \nThis or your other dictionaries in CSV and JSON format can be uploaded to {uploadLink}.",
+          "User data (settings, progress, uploaded dictionaries) is stored locally in the browser (IndexedDB). \nUser dictionaries are also parsed locally (by File API)."
+        ],
+        "upload-link": "page",
+        "keys": {
+          "esc": "ESC",
+          "enter": "Enter",
+          "backspace": "BackSpace"
+        }
+      },
+      "about": {
+        "nav": "How",
+        "title": "In the depths:",
+        "parts": {
+          "ui": "UI",
+          "tests": "Testing",
+          "tools": "Other tools",
+          "comics": "Comics"
+        },
+        "packages": {
+          "mololab/json-translator": "auto translation UI"
+        }
+      }
+    }
+  },
+  "comics": {
+    "1": "When I had subscribed to an online service for learning foreign languages, with a well organized interface, where everything is at hand and with hotkeys!",
+    "2": "When a month later they rolled out a new interface... Without hotkeys and with buttons jumping across the screen from page to page!",
+    "3": "When a few months later they broke the work with dictionaries...",
+    "4": "When I had got a response from the support: fixing dictionaries is not included in the current priorities.",
+    "5": "Fixing dictionaries is not included in the priorities of the foreign language learning service!!! 🤯🤬",
+    "6": "I'm a web developer! I'll write my own thing for memorizing a dictionary with hotkeys and catties!"
+  },
+  "addDictionary": {
+    "title": "Uploading the user's dictionary",
+    "input": "Select a *.json or *.scv file",
+    "csvFormat": {
+      "text": "This format is fit for imported \"Saved\" from {Google}. To do this, after exporting to Google Sheets, select {path}. \nThe match of the csv file columns and fields is set after parsing in a following form. If the first line of the file contains column headers, select a special checkbox in the form.",
+      "google": "Google Translate",
+      "path": [
+        "File",
+        "Download",
+        "CSV Format"
+      ]
+    },
+    "jsonFormat": {
+      "text": "Json files in the following format are fit for parsing: {list}",
+      "yandex": "Yandex.Translate",
+      "list": [
+        "\"Favorites\" from {yandex} (if you can get your hands 👩🏻 🔧 on it),",
+        "contains an array of objects with required fields: {text}, {translation}, {lang} (or [1] in the format of a pair with \"-\", where the first part is the language of the text field, and the second is {locale} - the language for the translation field; or [2] with a special native field) and optional fields: {id}, {transcription}."
+      ]
+    },
+    "firstLineIsHead": "The first line is the column headers",
+    "setFields": "Set up field matching",
+    "dictionaryName": "Choose a name for the Dictionary",
+    "idGenered": "Automatically",
+    "dictionaryAdded": "The dictionary \"{name}\" has been added. \n{link} another dictionary?",
+    "add": "Add",
+    "save": "Save",
+    "field": {
+      "ignore": "ignore",
+      "or": "or",
+      "id": "ID",
+      "lang": "Second language",
+      "native": "First language",
+      "text": "Training text",
+      "translation": "Translation",
+      "transcription": "Transcription"
+    },
+    "fileParsed": "The file format has parsed.",
+    "countRecords": "No records found. | {count} record found. | {count} records found.",
+    "error": {
+      "read": "Failed to read file",
+      "parse": "Could not parse the dictionary format in the {type} file",
+      "unknown": "Invalid file format. Accepted formats: json, csv.",
+      "collectionExists": "A dictionary with this name already exists, please choose another name",
+      "collectionAdd": "The dictionary has failed to be added. Try to reload the page and repeat your steps."
+    }
+  },
+  "auth": {
+    "title": "Authorization",
+    "yandex": "Yandex",
+    "login": "Sign in with",
+    "logout": "Exit",
+    "info": "Authorization would make sense if Yandex.Translate provided access to Favorites for authenticated users. \nBut, sadly, this is just a Demo."
+  },
+  "langs": {
+    "af": "Afrikaans",
+    "sq": "Albanian",
+    "am": "Amharic",
+    "ar": "Arabic",
+    "hy": "Armenian",
+    "az": "Azerbaijani",
+    "ba": "Bashkir",
+    "eu": "Basque",
+    "be": "Belarusian",
+    "bn": "Bengali",
+    "bs": "Bosnian",
+    "bg": "Bulgarian",
+    "my": "Burmese",
+    "ca": "Catalan",
+    "ceb": "Cebuano",
+    "zh": "Chinese",
+    "cv": "Chuvash",
+    "hr": "Croatian",
+    "cs": "Czech",
+    "da": "Danish",
+    "nl": "Dutch",
+    "sjn": "Elvish (Sindarin)",
+    "emj": "Emoji",
+    "en": "English",
+    "eo": "Esperanto",
+    "et": "Estonian",
+    "fi": "Finnish",
+    "fr": "French",
+    "gl": "Galician",
+    "ka": "Georgian",
+    "de": "German",
+    "el": "Greek",
+    "gu": "Gujarati",
+    "ht": "Haitian",
+    "he": "Hebrew",
+    "mrj": "Hill Mari",
+    "hi": "Hindi",
+    "hu": "Hungarian",
+    "is": "Icelandic",
+    "id": "Indonesian",
+    "ga": "Irish",
+    "it": "Italian",
+    "ja": "Japanese",
+    "jv": "Javanese",
+    "kn": "Kannada",
+    "kk": "Kazakh",
+    "kazlat": "Kazakh (Latin)",
+    "km": "Khmer",
+    "ko": "Korean",
+    "ky": "Kyrgyz",
+    "lo": "Lao",
+    "la": "Latin",
+    "lv": "Latvian",
+    "lt": "Lithuanian",
+    "lb": "Luxembourgish",
+    "mk": "Macedonian",
+    "mg": "Malagasy",
+    "ms": "Malay",
+    "ml": "Malayalam",
+    "mt": "Maltese",
+    "mi": "Maori",
+    "mr": "Marathi",
+    "mhr": "Mari",
+    "mn": "Mongolian",
+    "ne": "Nepali",
+    "no": "Norwegian",
+    "pap": "Papiamento",
+    "fa": "Persian",
+    "pl": "Polish",
+    "pt": "Portuguese",
+    "pa": "Punjabi",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "gd": "Scottish Gaelic",
+    "sr": "Serbian",
+    "si": "Sinhalese",
+    "sk": "Slovak",
+    "sl": "Slovenian",
+    "es": "Spanish",
+    "su": "Sundanese",
+    "sw": "Swahili",
+    "sv": "Swedish",
+    "tl": "Tagalog",
+    "tg": "Tajik",
+    "ta": "Tamil",
+    "tt": "Tatar",
+    "te": "Telugu",
+    "th": "Thai",
+    "tr": "Turkish",
+    "udm": "Udmurt",
+    "uk": "Ukrainian",
+    "ur": "Urdu",
+    "uz": "Uzbek",
+    "uzbcyr": "Uzbek (Cyrillic)",
+    "vi": "Vietnamese",
+    "cy": "Welsh",
+    "xh": "Xhosa",
+    "sah": "Yakut",
+    "yi": "Yiddish",
+    "zu": "Zulu"
+  }
+}

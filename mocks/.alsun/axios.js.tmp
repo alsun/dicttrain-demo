@@ -1,0 +1,38 @@
+{
+  method: 'post',
+  baseURL: process.env.VUE_APP_TRANS_BASE_URL,
+  url: process.env.VUE_APP_TRANS_FAVOURITES_URL,
+  withCredentials: true,
+  body: {
+    collectionStatus: {
+      name: 'Избранное',
+      type: 0,
+      tmpId: 'df7OqyBT96Aj6M',
+      version: 0,
+      attributesTimestamp: 1676482254.693,
+      public: false,
+      status: 3,
+    },
+  },
+  headers: {
+    // cookie: process.env.VUE_APP_TRANS_COOKIES,
+    // 'x-csrf-token': process.env.VUE_APP_TRANS_X_CSRT_TOKEN,
+    // 'Access-Control-Allow-Origin': process.env.VUE_APP_TRANS_BASE_URL,
+    accept: '*/*',
+    'accept-language': 'ru,en;q=0.9',
+    'content-type': 'application/json',
+    'sec-ch-ua':
+      '"Not?A_Brand";v="8", "Chromium";v="108", "Yandex";v="23"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"macOS"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-origin',
+    'x-csrf-token':
+      'f92a95f8b1d91c9c267fa4b032b6f7afde83867d:63ed17a6',
+    cookie:
+      'yashr=6342486831676482218; yandexuid=2128527391676482222; i=l3Q5nhJa/Gt2v3GxwB6kZ0V0nemdAEdZLSJVGxDbge+ea5XcWQVOcsJxgzYJdfcKoLKdCTYtfDpPgVDUqQzUvknE3TM=; first_visit_src=organic; first_visit=1; yuidss=2128527391676482222; ymex=1991842254.yrts.1676482254; gdpr=0; _yasc=HPnVwRmmN+kDv36tk60WnD66hXIYkBLePHjigPXdFnI5Ixjc2uEEJfKDDpxgqeB+; _ym_uid=1676482255168194594; _ym_d=1676482255; _ym_isad=2; _ym_visorc=b; Session_id=3:1676482443.5.0.1676482443209:JnhhnQ:11.1.2:1|4910882.0.2.3:1676482443|3:10265629.88305.GA8HRceckK9OZPEGFzxRozE9cqY; sessionid2=3:1676482443.5.0.1676482443209:JnhhnQ:11.1.2:1|4910882.0.2.3:1676482443|3:10265629.88305.fakesign0000000000000000000; yp=1991842443.udn.cDrQkNC70LXQutGB0LDQvdC00YDQsA%3D%3D; L=AV5ncVgAAwMOfltSR3VfQnxuXFJfcEpgOScZOTk=.1676482443.15254.383467.8e375a1785f8d4f46557668ad33316de; yandex_login=alsun; ys=udn.cDrQkNC70LXQutGB0LDQvdC00YDQsA%3D%3D#c_chck.3153960771',
+    Referer: 'https://translate.yandex.ru/collections',
+    'Referrer-Policy': 'no-referrer-when-downgrade',
+  },
+}

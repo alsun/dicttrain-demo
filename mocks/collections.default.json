@@ -1,0 +1,13 @@
+{
+  "updated": 0,
+  "collections": [
+    {
+      "id": "default",
+      "path2sync": "dictionary.default.json"
+    },
+    {
+      "id": "short-phrasebook",
+      "path2sync": "short-phrasebook.default.json"
+    }
+  ]
+}

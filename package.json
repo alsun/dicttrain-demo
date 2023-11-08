@@ -1,0 +1,12 @@
+{
+  "name": "dicttrain-demo",
+  "version": "0.1.0",
+  "private": true,
+  "_id": "dicttrain-demo@0.1.0",
+  "scripts": {
+    "server": "npx serve dist -s"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}

@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "_id": "dicttrain-demo@0.1.0",
-  "scripts": {
-    "server": "npx serve dist -s"
-  },
   "devDependencies": {
     "serve": "^14.2.0"
+  },
+  "scripts": {
+    "build": "cd ../dicttrain/; npm run build; cd ../dicttrain-demo; cp -R ../dicttrain/dist-production/* ."
   }
 }

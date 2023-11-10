@@ -11,8 +11,16 @@
   },
   "settings": {
     "name": "Configuración",
-    "collections": "Diccionario",
-    "addDictionary": "Sube tu diccionario",
+    "collections": {
+      "title": "Diccionario",
+      "add": "Sube tu diccionario",
+      "delete": "Eliminar el diccionario seleccionado",
+      "modal": {
+        "title": "¿Eliminar el diccionario «{ name }»?",
+        "okTitle": "Borrar",
+        "cancelTitle": "Guardar"
+      }
+    },
     "count": "Número de textos en una lección",
     "type": "De forma predeterminada",
     "native": "Lengua materna",

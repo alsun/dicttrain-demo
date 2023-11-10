@@ -11,8 +11,16 @@
   },
   "settings": {
     "name": "Einstellungen",
-    "collections": "Wörterbuch",
-    "addDictionary": "Laden Sie Ihr Wörterbuch hoch",
+    "collections": {
+      "title": "Wörterbuch",
+      "add": "Laden Sie Ihr Wörterbuch hoch",
+      "delete": "Löschen des ausgewählten Wörterbuchs",
+      "modal": {
+        "title": "Das «{ name }»-Wörterbuch löschen?",
+        "okTitle": "Löschen",
+        "cancelTitle": "Behalten"
+      }
+    },
     "count": "Anzahl der Texte in einer Lektion",
     "type": "Standardmäßig",
     "native": "Muttersprache",

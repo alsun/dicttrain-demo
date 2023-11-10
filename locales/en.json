@@ -11,8 +11,16 @@
   },
   "settings": {
     "name": "Settings",
-    "collections": "Dictionary",
-    "addDictionary": "Upload your dictionary",
+    "collections": {
+      "title": "Dictionary",
+      "add": "Upload your dictionary",
+      "delete": "Delete the selected dictionary",
+      "modal": {
+        "title": "Delete the «{ name }» dictionaty?",
+        "okTitle": "Delete",
+        "cancelTitle": "Keep"
+      }
+    },
     "count": "Number of texts in a lesson",
     "type": "By default",
     "native": "First language",

@@ -11,13 +11,21 @@
   },
   "settings": {
     "name": "Ayarlar",
-    "collections": "Sözlük",
-    "addDictionary": "Sözlüğünüzü yükleyin",
+    "collections": {
+      "title": "Sözlük",
+      "add": "Sözlüğünüzü yükleyin",
+      "delete": "Seçili sözlüğü silme",
+      "modal": {
+        "title": "«{ name }» sözlüğü silinsin mi?",
+        "okTitle": "Silmek",
+        "cancelTitle": "Tutmak"
+      }
+    },
     "count": "Bir dersteki metin sayısı",
     "type": "Varsayılan olarak",
     "native": "Ana dili",
     "lang": "İkinci dil",
-    "useReverseTranslation": "Ters çeviriyi kullan",
+    "useReverseTranslation": "Ters Çeviriyi Kullan",
     "allLangs": "Tüm",
     "allItems": "Tüm",
     "textTypes": {
@@ -172,8 +180,8 @@
           "Yandex.Sözlükler'den bir sözlük makalesi görüntülemek mümkündür.",
           "Seslendirme, çoğu modern tarayıcı tarafından desteklenen standart tarayıcı tabanlı Web Konuşma API'si ile çalışır. Tarayıcı izin verdiğinde, makale modunda veya başarılı bir antrenmandan sonra, başlıkta seslendirme içeren bir düğme görünür. Metinler de otomatik olarak konuşulur ve ayarlardan kapatılabilir. Seslendirme, sayfaya çift tıklanarak durdurulabilir.",
           "Dile, metin uzunluğuna, eğitim döngüsündeki kelime sayısına vb. göre filtreli birçok ayar.",
-          "Eğitim için çeşitli karmaşıklık düzeyleri.",
-          "Genellikle Yandex veya Google Translator kullanıyorum. Her ikisi de bir kelimeyi veya cümleyi kaydetmeyi mümkün kılar. Ancak bunların hiçbiri çevirilerin kullanıcı dostu bir şekilde ezberlenmesini veya sözlüğün diğer hizmetler tarafından kullanılmasını mümkün kılmaz. Google Çeviri, yalnızca Kayıtlı çevirileri CSV'ye yüklemenize izin verir. \nCSV ve JSON formatındaki bu veya diğer sözlükleriniz {uploadLink}'a yüklenebilir.",
+          "Eğitim için çeşitli karmaşıklık seviyeleri.",
+          "Genellikle Yandex veya Google Translator kullanıyorum. Her ikisi de bir kelimeyi veya cümleyi kaydetmeyi mümkün kılar. Ancak bunların hiçbiri çevirilerin kullanıcı dostu bir şekilde ezberlenmesini veya sözlüğün diğer hizmetler tarafından kullanılmasını mümkün kılmaz. Google Çeviri, yalnızca Kayıtlı çevirileri CSV'ye yüklemenize izin verir. \nBu veya CSV ve JSON formatındaki diğer sözlükleriniz {uploadLink}'a yüklenebilir.",
           "Kullanıcı verileri (ayarlar, ilerleme, yüklenen sözlükler) tarayıcıda (IndexedDB) yerel olarak depolanır. \nKullanıcı sözlükleri de yerel olarak ayrıştırılır (Dosya API'si tarafından)."
         ],
         "upload-link": "sayfa",
@@ -220,10 +228,10 @@
     },
     "jsonFormat": {
       "text": "Aşağıdaki biçimdeki json dosyaları ayrıştırma için uygundur: {list}",
-      "yandex": "Yandex.Çeviri:",
+      "yandex": "Yandex.Çeviri",
       "list": [
         "{yandex}'den \"Sık Kullanılanlar\" (eğer elinize 👩🏻 🔧 alabilirseniz),",
-        "Gerekli alanlara sahip bir dizi nesne içerir: {text}, {translation}, {lang} (veya [1] \"-\" ile bir çift biçiminde, burada ilk kısım metin alanının dili, ikincisi ise {locale} - çeviri alanının dili; veya [2] özel bir yerel alanla) ve isteğe bağlı alanlar: {id}, {transcription}."
+        "Gerekli alanlara sahip bir nesne dizisi içerir: {text}, {translation}, {lang} (veya [1] \"-\" ile bir çift biçiminde, burada ilk kısım metin alanının dili, ikincisi ise {locale} - çeviri alanının dili; veya [2] özel bir yerel alanla) ve isteğe bağlı alanlar: {id}, {transcription}."
       ]
     },
     "firstLineIsHead": "İlk satır sütun başlıklarıdır",

@@ -2,6 +2,8 @@
   "autotranslated": "Automatisch übersetzt",
   "global": {
     "title": "Wörterbuch-Schulung",
+    "description": "Service zum Auswendiglernen von Wörtern per Wörterbuch",
+    "keywords": "Auswendiglernen, Pauken, Wörterbuch, Fremdsprachen, Lernen, Fremdwörter",
     "about": "Über",
     "yadict": {
       "text": "Angetrieben von {link}",

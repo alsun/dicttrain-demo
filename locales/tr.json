@@ -2,6 +2,8 @@
   "autotranslated": "Otomatik Çevrildi",
   "global": {
     "title": "Sözlük eğitimi",
+    "description": "Sözlük ile kelimelerin ezberlenmesi hizmeti",
+    "keywords": "ezberleme, tıkınma, sözlük, yabancı dil, öğrenme, yabancı kelimeler",
     "about": "Hakkında",
     "yadict": {
       "text": "{link} tarafından desteklenmektedir",

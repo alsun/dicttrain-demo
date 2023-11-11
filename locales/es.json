@@ -2,6 +2,8 @@
   "autotranslated": "Traducción automática",
   "global": {
     "title": "Entrenamiento en diccionario",
+    "description": "Servicio de memorización de palabras por diccionario",
+    "keywords": "memorización, abarrotamiento, diccionario, lenguas extranjeras, aprendizaje, palabras extranjeras",
     "about": "Acerca de",
     "yadict": {
       "text": "Desarrollado por {link}",

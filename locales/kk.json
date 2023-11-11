@@ -63,7 +63,8 @@
     "check": "Тексеру",
     "correct": "Білемін",
     "incorrect": "Білмедім",
-    "close": "Жабу"
+    "close": "Жабу",
+    "clear": "Тазалау"
   },
   "actions": {
     "name": "Әрекеттер",
@@ -74,6 +75,16 @@
       "docking": "Мәтінді жазу",
       "writing": "Мәтінді жазу",
       "picking": "Бірнеше параметрлерден мәтінді таңдау"
+    }
+  },
+  "score": {
+    "title": {
+      "score": "@:actions.title.score",
+      "clear": "«{ text }» үшін ұпайды тазалаңдар ма?"
+    },
+    "modal": {
+      "okTitle": "Тазалау",
+      "cancelTitle": "Сақтау"
     }
   },
   "dictionary": {

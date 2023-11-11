@@ -63,7 +63,8 @@
     "check": "Çek",
     "correct": "Biliyorum",
     "incorrect": "Bilmiyorum",
-    "close": "Kapatmak"
+    "close": "Kapatmak",
+    "clear": "Berrak"
   },
   "actions": {
     "name": "Eylemler",
@@ -74,6 +75,16 @@
       "docking": "Metni heceleyin",
       "writing": "Metni yaz",
       "picking": "Çeşitli seçenekler arasından Metin'i seçin"
+    }
+  },
+  "score": {
+    "title": {
+      "score": "@:actions.title.score",
+      "clear": "«{ text }» puanı temizlensin mi?"
+    },
+    "modal": {
+      "okTitle": "Berrak",
+      "cancelTitle": "Tutmak"
     }
   },
   "dictionary": {

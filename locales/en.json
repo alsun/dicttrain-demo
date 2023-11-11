@@ -2,6 +2,8 @@
   "autotranslated": "auto translated",
   "global": {
     "title": "Dictionary training",
+    "description": "Service for memorization of words by dictionary",
+    "keywords": "memorization, cramming, dictionary, foreign languages, learning, foreign words",
     "about": "About",
     "yadict": {
       "text": "Powered by {link}",
@@ -63,7 +65,8 @@
     "check": "Check",
     "correct": "I know",
     "incorrect": "I don't know",
-    "close": "Close"
+    "close": "Close",
+    "clear": "Clear"
   },
   "actions": {
     "name": "Actions",
@@ -74,6 +77,16 @@
       "docking": "Spell the text",
       "writing": "Write the text",
       "picking": "Select Text from several options"
+    }
+  },
+  "score": {
+    "title": {
+      "score": "@:actions.title.score",
+      "clear": "Clear the score for «{ text }»?"
+    },
+    "modal": {
+      "okTitle": "Clear",
+      "cancelTitle": "Keep"
     }
   },
   "dictionary": {

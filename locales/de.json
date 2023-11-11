@@ -63,7 +63,8 @@
     "check": "Prüfen",
     "correct": "Ich weiß",
     "incorrect": "Ich weiß es nicht",
-    "close": "Schließen"
+    "close": "Schließen",
+    "clear": "Klar"
   },
   "actions": {
     "name": "Aktionen",
@@ -74,6 +75,16 @@
       "docking": "Buchstabieren des Textes",
       "writing": "Schreiben Sie den Text",
       "picking": "Wählen Sie Text aus mehreren Optionen aus"
+    }
+  },
+  "score": {
+    "title": {
+      "score": "@:actions.title.score",
+      "clear": "Die Partitur für «{ text }» abräumen?"
+    },
+    "modal": {
+      "okTitle": "Klar",
+      "cancelTitle": "Behalten"
     }
   },
   "dictionary": {

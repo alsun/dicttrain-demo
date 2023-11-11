@@ -63,7 +63,8 @@
     "check": "Comprobar",
     "correct": "Lo sé",
     "incorrect": "No sé",
-    "close": "Cerrar"
+    "close": "Cerrar",
+    "clear": "Claro"
   },
   "actions": {
     "name": "Acciones",
@@ -74,6 +75,16 @@
       "docking": "Deletrear el texto",
       "writing": "Escribe el texto",
       "picking": "Seleccione Texto entre varias opciones"
+    }
+  },
+  "score": {
+    "title": {
+      "score": "@:actions.title.score",
+      "clear": "¿Borrar la puntuación de «{ text }»?"
+    },
+    "modal": {
+      "okTitle": "Claro",
+      "cancelTitle": "Guardar"
     }
   },
   "dictionary": {

@@ -121,19 +121,24 @@
     },
     "noneItems": {
       "title": "No hay textos que entrenar",
-      "text": "Es posible que haya seleccionado condiciones de filtro demasiado restrictivas en Configuración"
+      "_text": "Es posible que haya seleccionado condiciones de filtro demasiado restrictivas en Configuración",
+      "text": "@:alert.noneItems._text."
     },
     "nonePicking": {
       "title": "No hay suficientes textos para entrenar",
-      "text": "@:alert.noneItems.text o \nEl diccionario no ha contenido suficientes textos para el tipo de entrenamiento seleccionado"
+      "text": "@:alert.noneItems._text o \nEl diccionario no contiene suficientes textos para el tipo de formación seleccionado."
     },
     "noneArticle": {
       "title": "«{text}»",
-      "text": "No hay ningún artículo sobre este texto"
+      "text": "No hay artículo para este texto."
     },
     "emptyCollection": {
       "title": "Diccionario no encontrado",
-      "text": "El diccionario \"{name}\" está vacío o falta. \nIntente seleccionar otro diccionario en Configuración"
+      "text": "El diccionario \"{name}\" está vacío o falta. \nIntente seleccionar otro diccionario en Configuración."
+    },
+    "noneDictionaryItem": {
+      "title": "No se encontró ninguna palabra",
+      "text": "La palabra \"{text}\" no se encontró en el diccionario seleccionado. \n Intente seleccionar un diccionario diferente en la Configuración."
     }
   },
   "training": {

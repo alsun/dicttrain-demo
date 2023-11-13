@@ -121,19 +121,24 @@
     },
     "noneItems": {
       "title": "Keine Texte zum Trainieren",
-      "text": "Möglicherweise haben Sie in den Einstellungen zu restriktive Filterbedingungen ausgewählt"
+      "_text": "Möglicherweise haben Sie in den Einstellungen zu restriktive Filterbedingungen ausgewählt",
+      "text": "@:alert.noneItems._text."
     },
     "nonePicking": {
       "title": "Es gibt nicht genügend Texte zum Trainieren",
-      "text": "@:alert.noneItems.text oder \nDas Wörterbuch enthält nicht genügend Texte für die ausgewählte Art des Trainings"
+      "text": "@:alert.noneItems._text oder \nDas Wörterbuch enthält nicht genügend Texte für den ausgewählten Schulungstyp."
     },
     "noneArticle": {
       "title": "«{text}»",
-      "text": "Es gibt keinen Artikel zu diesem Text"
+      "text": "Zu diesem Text gibt es keinen Artikel."
     },
     "emptyCollection": {
       "title": "Wörterbuch nicht gefunden",
-      "text": "Das \"{name}\"-Wörterbuch ist leer oder fehlt. \nVersuchen Sie, ein anderes Wörterbuch in den Einstellungen auszuwählen"
+      "text": "Das \"{name}\"-Wörterbuch ist leer oder fehlt. \nVersuchen Sie, ein anderes Wörterbuch in den Einstellungen auszuwählen."
+    },
+    "noneDictionaryItem": {
+      "title": "Kein Wort gefunden",
+      "text": "Das Wort \"{text}\" wurde im ausgewählten Wörterbuch nicht gefunden. \n Versuchen Sie, in den Einstellungen ein anderes Wörterbuch auszuwählen."
     }
   },
   "training": {

@@ -121,19 +121,24 @@
     },
     "noneItems": {
       "title": "No texts to train",
-      "text": "You may have selected too restrictive filter conditions in Settings"
+      "_text": "You may have selected too restrictive filter conditions in Settings",
+      "text": "@:alert.noneItems._text."
     },
     "nonePicking": {
       "title": "There are not enough texts to train",
-      "text": "@:alert.noneItems.text or \nDictionary has not contained enough texts for selected type of Training"
+      "text": "@:alert.noneItems._text or \nDictionary has not contained enough texts for selected type of Training."
     },
     "noneArticle": {
       "title": "«{text}»",
-      "text": "There is no article about this text"
+      "text": "There is no article for this text."
     },
     "emptyCollection": {
       "title": "Dictionary not found",
-      "text": "The \"{name}\" dictionary is empty or missing. \nTry to select another Dictionary in Settings"
+      "text": "The \"{name}\" dictionary is empty or missing. \nTry to select another Dictionary in Settings."
+    },
+    "noneDictionaryItem": {
+      "title": "No word found",
+      "text": "The word \"{text}\" was not found in the selected dictionary. \n Try to select a different dictionary in the Settings."
     }
   },
   "training": {

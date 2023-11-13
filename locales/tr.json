@@ -121,19 +121,24 @@
     },
     "noneItems": {
       "title": "Eğitilecek metin yok",
-      "text": "Ayarlar'da çok kısıtlayıcı filtre koşulları seçmiş olabilirsiniz"
+      "_text": "Ayarlar'da çok kısıtlayıcı filtre koşulları seçmiş olabilirsiniz",
+      "text": "@:alert.noneItems._text."
     },
     "nonePicking": {
       "title": "Eğitmek için yeterli metin yok",
-      "text": "@:alert.noneItems.text veya \nSözlük, seçilen Eğitim türü için yeterli metin içermiyor"
+      "text": "@:alert.noneItems._text veya \nSözlük, seçilen Eğitim türü için yeterli metin içermedi."
     },
     "noneArticle": {
       "title": "«{text}»",
-      "text": "Bu metin hakkında herhangi bir makale bulunmamaktadır"
+      "text": "Bu metin için bir makale yok."
     },
     "emptyCollection": {
       "title": "Sözlük bulunamadı",
-      "text": "\"{name}\" sözlüğü boş veya eksik. \nAyarlar'da başka bir Sözlük seçmeyi deneyin"
+      "text": "\"{name}\" sözlüğü boş veya eksik. \nAyarlar'da başka bir Sözlük seçmeyi deneyin."
+    },
+    "noneDictionaryItem": {
+      "title": "Kelime bulunamadı",
+      "text": "Seçilen sözlükte \"{text}\" kelimesi bulunamadı. \n Ayarlar'da farklı bir sözlük seçmeyi deneyin."
     }
   },
   "training": {

@@ -143,11 +143,11 @@
   },
   "training": {
     "name": "Training",
-    "title": "Training {translation}"
+    "title": "Training \"{title}{translation}\""
   },
   "article": {
     "name": "Article",
-    "title": "Dictionary article \"{text}\"",
+    "title": "Dictionary article \"{title}{text}\"",
     "lookup": "Meaning",
     "query-corpus": "Examples",
     "source": {

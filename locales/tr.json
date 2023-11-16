@@ -143,11 +143,11 @@
   },
   "training": {
     "name": "Antrenman",
-    "title": "Eğitim {translation}"
+    "title": "\"{title}{translation}\" Eğitimi"
   },
   "article": {
     "name": "Makale",
-    "title": "Sözlük makalesi \"{text}\"",
+    "title": "Sözlük makalesi \"{title}{text}\"",
     "lookup": "Anlam",
     "query-corpus": "Örnekler",
     "source": {

@@ -143,11 +143,11 @@
   },
   "training": {
     "name": "Adiestramiento",
-    "title": "Capacitación {translation}"
+    "title": "Entrenamiento \"{title}{translation}\""
   },
   "article": {
     "name": "Artículo",
-    "title": "Artículo del diccionario \"{text}\"",
+    "title": "Artículo del diccionario \"{title}{text}\"",
     "lookup": "Significado",
     "query-corpus": "Ejemplos",
     "source": {

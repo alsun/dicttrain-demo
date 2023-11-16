@@ -143,11 +143,11 @@
   },
   "training": {
     "name": "Ausbildung",
-    "title": "Schulung {translation}"
+    "title": "Ausbildung \"{title}{translation}\""
   },
   "article": {
     "name": "Artikel",
-    "title": "Wörterbuchartikel \"{text}\"",
+    "title": "Wörterbuchartikel \"{title}{text}\"",
     "lookup": "Bedeutung",
     "query-corpus": "Beispiele",
     "source": {

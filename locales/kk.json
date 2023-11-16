@@ -143,11 +143,11 @@
   },
   "training": {
     "name": "Кадрларды даярлау",
-    "title": "Оқу {translation}"
+    "title": "«{title}{translation}» тренингі"
   },
   "article": {
     "name": "Мақала",
-    "title": "«{text}» сөздік мақаласы",
+    "title": "«{title}{text}» сөздік мақаласы",
     "lookup": "Мағынасы",
     "query-corpus": "Мысалдар",
     "source": {

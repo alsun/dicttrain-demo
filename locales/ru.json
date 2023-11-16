@@ -143,11 +143,11 @@
   },
   "training": {
     "name": "Тренировка",
-    "title": "Тренируем «{translation}»"
+    "title": "Тренируем «{title}{translation}»"
   },
   "article": {
     "name": "Статья",
-    "title": "Словарная статья «{text}»",
+    "title": "Словарная статья «{title}{text}»",
     "lookup": "Значение",
     "query-corpus": "Примеры",
     "source": {

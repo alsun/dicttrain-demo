@@ -66,7 +66,8 @@
     "correct": "Знаю",
     "incorrect": "Не знаю",
     "close": "Закрыть",
-    "clear": "Очистить"
+    "clear": "Очистить",
+    "keep": "Оставить"
   },
   "actions": {
     "name": "Действия",
@@ -84,9 +85,8 @@
       "score": "@:actions.title.score",
       "clear": "Очистить счёт для «{ text }»?"
     },
-    "modal": {
-      "okTitle": "Очистить",
-      "cancelTitle": "Оставить"
+    "text": {
+      "summary": "Вы выполнили цель дня!"
     }
   },
   "dictionary": {

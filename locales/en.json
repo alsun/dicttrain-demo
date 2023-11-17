@@ -3,7 +3,7 @@
   "global": {
     "title": "Dictionary training",
     "description": "Service for memorization of words by dictionary",
-    "keywords": "memorization, cramming, dictionary, foreign languages, learning, foreign words",
+    "keywords": "memorization, cramming, swot, swot dictionary, swot foreign languages, dictionary, foreign languages, learning, foreign words, swot foreign words",
     "about": "About",
     "yadict": {
       "text": "Powered by {link}",
@@ -66,7 +66,8 @@
     "correct": "I know",
     "incorrect": "I don't know",
     "close": "Close",
-    "clear": "Clear"
+    "clear": "Clear",
+    "keep": "Keep"
   },
   "actions": {
     "name": "Actions",
@@ -84,9 +85,8 @@
       "score": "@:actions.title.score",
       "clear": "Clear the score for «{ text }»?"
     },
-    "modal": {
-      "okTitle": "Clear",
-      "cancelTitle": "Keep"
+    "text": {
+      "summary": "You have completed your goal for the day!"
     }
   },
   "dictionary": {

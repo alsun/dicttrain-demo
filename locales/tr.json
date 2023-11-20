@@ -3,6 +3,9 @@
   "global": {
     "title": "Sözlük eğitimi",
     "description": "Sözlük ile kelimelerin ezberlenmesi hizmeti",
+    "application-name": "@:global.title",
+    "apple-mobile-web-app-title": "@:global.title",
+    "msapplication-tooltip": "@:global.description",
     "keywords": "ezberleme, tıkınma, sözlük, yabancı dil, öğrenme, yabancı kelimeler",
     "about": "Hakkında",
     "yadict": {

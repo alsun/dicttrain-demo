@@ -3,6 +3,9 @@
   "global": {
     "title": "Wörterbuch-Schulung",
     "description": "Service zum Auswendiglernen von Wörtern per Wörterbuch",
+    "application-name": "@:global.title",
+    "apple-mobile-web-app-title": "@:global.title",
+    "msapplication-tooltip": "@:global.description",
     "keywords": "Auswendiglernen, Pauken, Wörterbuch, Fremdsprachen, Lernen, Fremdwörter",
     "about": "Über",
     "yadict": {

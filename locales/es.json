@@ -3,6 +3,9 @@
   "global": {
     "title": "Entrenamiento en diccionario",
     "description": "Servicio de memorización de palabras por diccionario",
+    "application-name": "@:global.title",
+    "apple-mobile-web-app-title": "@:global.title",
+    "msapplication-tooltip": "@:global.description",
     "keywords": "memorización, abarrotamiento, diccionario, lenguas extranjeras, aprendizaje, palabras extranjeras",
     "about": "Acerca de",
     "yadict": {

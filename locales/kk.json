@@ -3,6 +3,9 @@
   "global": {
     "title": "Сөздік оқу",
     "description": "Сөздік бойынша сөздерді есте сақтау қызметі",
+    "application-name": "@:global.title",
+    "apple-mobile-web-app-title": "@:global.title",
+    "msapplication-tooltip": "@:global.description",
     "keywords": "есте сақтау, қысу, сөздік, шет тілдері, оқу, шетел сөздері",
     "about": "Шамамен",
     "yadict": {

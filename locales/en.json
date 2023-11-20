@@ -3,6 +3,9 @@
   "global": {
     "title": "Dictionary training",
     "description": "Service for memorization of words by dictionary",
+    "application-name": "@:global.title",
+    "apple-mobile-web-app-title": "@:global.title",
+    "msapplication-tooltip": "@:global.description",
     "keywords": "memorization, cramming, swot, swot dictionary, swot foreign languages, dictionary, foreign languages, learning, foreign words, swot foreign words",
     "about": "About",
     "yadict": {
@@ -200,7 +203,7 @@
           "A lot of settings with filters by language, text length, number of words in the training cycle, etc.",
           "Several levels of complexity for training.",
           "I usually use Yandex or Google Translator. Both of them make it possible to save a word or phrase. However, none of them makes it possible for either user-friendly memorization of translations or the use of the dictionary by other services. Google Translate only allows you to upload Saved translations to CSV. \nThis or your other dictionaries in CSV and JSON format can be uploaded to {uploadLink}.",
-          "User data (settings, progress, uploaded dictionaries) is stored locally in the browser (IndexedDB). \nUser dictionaries are also parsed locally (by File API)."
+          "User data (settings, progress, uploaded dictionaries) is stored locally in the browser (IndexedDB, localStorage). \nUser dictionaries are also parsed locally (by File API)."
         ],
         "upload-link": "page",
         "keys": {

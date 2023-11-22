@@ -114,7 +114,8 @@
     "name": {
       "favourites": "Избранное",
       "default": "Демо",
-      "short-phrasebook": "Краткий разговорник"
+      "short-phrasebook": "Краткий разговорник",
+      "temp": "Временный словарь"
     }
   },
   "alert": {
@@ -153,6 +154,9 @@
     "title": "Словарная статья «{title}{text}»",
     "lookup": "Значение",
     "query-corpus": "Примеры",
+    "action": {
+      "training-examples": "Тренироваь примеры, добавив во временный словарь?"
+    },
     "source": {
       "title": "Источник",
       "type": {

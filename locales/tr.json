@@ -6,7 +6,7 @@
     "application-name": "@:global.title",
     "apple-mobile-web-app-title": "@:global.title",
     "msapplication-tooltip": "@:global.description",
-    "keywords": "ezberleme, tıkınma, sözlük, yabancı dil, öğrenme, yabancı kelimeler",
+    "keywords": "ezberleme, ıstırma, swot, swot sözlüğü, swot yabancı diller, sözlük, yabancı diller, öğrenme, yabancı kelimeler, swot yabancı kelimeler",
     "about": "Hakkında",
     "yadict": {
       "text": "{link} tarafından desteklenmektedir",
@@ -69,7 +69,8 @@
     "correct": "Biliyorum",
     "incorrect": "Bilmiyorum",
     "close": "Kapatmak",
-    "clear": "Berrak"
+    "clear": "Berrak",
+    "keep": "Tutmak"
   },
   "actions": {
     "name": "Eylemler",
@@ -87,9 +88,8 @@
       "score": "@:actions.title.score",
       "clear": "«{ text }» puanı temizlensin mi?"
     },
-    "modal": {
-      "okTitle": "Berrak",
-      "cancelTitle": "Tutmak"
+    "text": {
+      "summary": "Gün için hedefinizi tamamladınız!"
     }
   },
   "dictionary": {
@@ -114,7 +114,8 @@
     "name": {
       "favourites": "Favoriler",
       "default": "Demo",
-      "short-phrasebook": "Kısa Konuşma Kılavuzu"
+      "short-phrasebook": "Kısa Konuşma Kılavuzu",
+      "temp": "Geçici Sözlük"
     }
   },
   "alert": {
@@ -203,7 +204,7 @@
           "Dile, metin uzunluğuna, eğitim döngüsündeki kelime sayısına vb. göre filtreli birçok ayar.",
           "Eğitim için çeşitli karmaşıklık seviyeleri.",
           "Genellikle Yandex veya Google Translator kullanıyorum. Her ikisi de bir kelimeyi veya cümleyi kaydetmeyi mümkün kılar. Ancak bunların hiçbiri çevirilerin kullanıcı dostu bir şekilde ezberlenmesini veya sözlüğün diğer hizmetler tarafından kullanılmasını mümkün kılmaz. Google Çeviri, yalnızca Kayıtlı çevirileri CSV'ye yüklemenize izin verir. \nBu veya CSV ve JSON formatındaki diğer sözlükleriniz {uploadLink}'a yüklenebilir.",
-          "Kullanıcı verileri (ayarlar, ilerleme, yüklenen sözlükler) tarayıcıda (IndexedDB) yerel olarak depolanır. \nKullanıcı sözlükleri de yerel olarak ayrıştırılır (Dosya API'si tarafından)."
+          "Kullanıcı verileri (ayarlar, ilerleme, yüklenen sözlükler) tarayıcıda yerel olarak depolanır (IndexedDB, localStorage). \nKullanıcı sözlükleri de yerel olarak ayrıştırılır (Dosya API'si tarafından)."
         ],
         "upload-link": "sayfa",
         "keys": {

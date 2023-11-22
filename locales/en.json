@@ -114,7 +114,8 @@
     "name": {
       "favourites": "Favourites",
       "default": "Demo",
-      "short-phrasebook": "Short Phrasebook"
+      "short-phrasebook": "Short Phrasebook",
+      "temp": "Temporary Dictionary"
     }
   },
   "alert": {

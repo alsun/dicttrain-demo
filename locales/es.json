@@ -6,7 +6,7 @@
     "application-name": "@:global.title",
     "apple-mobile-web-app-title": "@:global.title",
     "msapplication-tooltip": "@:global.description",
-    "keywords": "memorización, abarrotamiento, diccionario, lenguas extranjeras, aprendizaje, palabras extranjeras",
+    "keywords": "memorización, abarrotamiento, DAFO, diccionario DAFO, DAFO lenguas extranjeras, diccionario, lenguas extranjeras, aprendizaje, palabras extranjeras, palabras extranjeras DAFO",
     "about": "Acerca de",
     "yadict": {
       "text": "Desarrollado por {link}",
@@ -69,7 +69,8 @@
     "correct": "Lo sé",
     "incorrect": "No sé",
     "close": "Cerrar",
-    "clear": "Claro"
+    "clear": "Claro",
+    "keep": "Guardar"
   },
   "actions": {
     "name": "Acciones",
@@ -87,9 +88,8 @@
       "score": "@:actions.title.score",
       "clear": "¿Borrar la puntuación de «{ text }»?"
     },
-    "modal": {
-      "okTitle": "Claro",
-      "cancelTitle": "Guardar"
+    "text": {
+      "summary": "¡Has completado tu objetivo del día!"
     }
   },
   "dictionary": {
@@ -114,7 +114,8 @@
     "name": {
       "favourites": "Favoritos",
       "default": "Demo",
-      "short-phrasebook": "Libro de frases cortas"
+      "short-phrasebook": "Libro de frases cortas",
+      "temp": "Diccionario temporal"
     }
   },
   "alert": {
@@ -203,7 +204,7 @@
           "Un montón de ajustes con filtros por idioma, longitud del texto, número de palabras en el ciclo de formación, etc.",
           "Varios niveles de complejidad para el entrenamiento.",
           "Suelo utilizar Yandex o Google Translator. Ambos permiten guardar una palabra o frase. Sin embargo, ninguno de ellos permite memorizar fácilmente las traducciones ni utilizar el diccionario por parte de otros servicios. El Traductor de Google solo te permite subir traducciones guardadas a CSV. \nEste u otros diccionarios en formato CSV y JSON se pueden cargar en {uploadLink}.",
-          "Los datos de usuario (configuración, progreso, diccionarios cargados) se almacenan localmente en el navegador (IndexedDB). \nLos diccionarios de usuario también se analizan localmente (mediante la API de archivos)."
+          "Los datos de usuario (configuración, progreso, diccionarios cargados) se almacenan localmente en el navegador (IndexedDB, localStorage). \nLos diccionarios de usuario también se analizan localmente (mediante la API de archivos)."
         ],
         "upload-link": "página",
         "keys": {

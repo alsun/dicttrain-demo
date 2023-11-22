@@ -6,7 +6,7 @@
     "application-name": "@:global.title",
     "apple-mobile-web-app-title": "@:global.title",
     "msapplication-tooltip": "@:global.description",
-    "keywords": "Auswendiglernen, Pauken, Wörterbuch, Fremdsprachen, Lernen, Fremdwörter",
+    "keywords": "auswendiglernen, pauken, swot, swot wörterbuch, swot fremdsprachen, wörterbuch, fremdsprachen, lernen, fremdwörter, swot fremdwörter",
     "about": "Über",
     "yadict": {
       "text": "Angetrieben von {link}",
@@ -69,7 +69,8 @@
     "correct": "Ich weiß",
     "incorrect": "Ich weiß es nicht",
     "close": "Schließen",
-    "clear": "Klar"
+    "clear": "Klar",
+    "keep": "Behalten"
   },
   "actions": {
     "name": "Aktionen",
@@ -87,9 +88,8 @@
       "score": "@:actions.title.score",
       "clear": "Die Partitur für «{ text }» abräumen?"
     },
-    "modal": {
-      "okTitle": "Klar",
-      "cancelTitle": "Behalten"
+    "text": {
+      "summary": "Du hast dein Tagesziel erreicht!"
     }
   },
   "dictionary": {
@@ -114,7 +114,8 @@
     "name": {
       "favourites": "Favoriten",
       "default": "Demo",
-      "short-phrasebook": "Kurzer Sprachführer"
+      "short-phrasebook": "Kurzer Sprachführer",
+      "temp": "Temporäres Wörterbuch"
     }
   },
   "alert": {
@@ -203,7 +204,7 @@
           "Viele Einstellungen mit Filtern nach Sprache, Textlänge, Anzahl der Wörter im Trainingszyklus usw.",
           "Mehrere Komplexitätsstufen für das Training.",
           "Normalerweise verwende ich Yandex oder Google Translator. Beide ermöglichen es, ein Wort oder eine Phrase zu speichern. Keiner von ihnen ermöglicht jedoch ein benutzerfreundliches Auswendiglernen von Übersetzungen oder die Nutzung des Wörterbuchs durch andere Dienste. Mit Google Translate können Sie nur gespeicherte Übersetzungen in CSV hochladen. \nDieses oder Ihre anderen Wörterbücher im CSV- und JSON-Format können in {uploadLink} hochgeladen werden.",
-          "Benutzerdaten (Einstellungen, Fortschritt, hochgeladene Wörterbücher) werden lokal im Browser (IndexedDB) gespeichert. \nBenutzerwörterbücher werden auch lokal (über die Datei-API) analysiert."
+          "Benutzerdaten (Einstellungen, Fortschritt, hochgeladene Wörterbücher) werden lokal im Browser (IndexedDB, localStorage) gespeichert. \nBenutzerwörterbücher werden auch lokal (über die Datei-API) analysiert."
         ],
         "upload-link": "Seite",
         "keys": {

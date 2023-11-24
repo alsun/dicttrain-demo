@@ -88,8 +88,12 @@
       "score": "@:actions.title.score",
       "clear": "Очистить счёт для «{ text }»?"
     },
-    "text": {
-      "summary": "Вы выполнили цель дня!"
+    "summary": {
+      "done": "Вы выполнили цель дня!",
+      "extra": [
+        "", "", "Дважды!", "Трижды!",
+        " 0 | {count} раз! |  {count} раза! |  {count} раз!"
+      ]
     }
   },
   "dictionary": {

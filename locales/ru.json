@@ -125,23 +125,43 @@
   },
   "alert": {
     "common": {
-      "settings": "Возможно, вы выбрали слишком жёсткие условия фильтров в настройках"
+      "causes": {
+        "text": "Возможные причины:",
+        "settings": "вы выбрали слишком жёсткие условия фильтров в настройках",
+        "dictionary": "словарь не содержит достаточно вариантов для данного вида тренировки"
+      },
+      "solutions": {
+        "dictionary": "Попробуйте выбрать другой словарь в Настройках."
+      }
     },
     "noneNetwork": {
       "title": "Нет доступа к ресурсу",
-      "text": "Отсутвует доступ к ресурсу {url}. \nВозможно, пропала интернет связь."
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "отсутвует доступ к ресурсу {url}",
+        "пропала интернет связь"
+      ]
     },
     "noneItems": {
       "title": "Нет текстов для тренировки",
-      "text": "@:alert.common.settings."
+      "text": "Возможно, @:alert.common.causes.settings"
     },
     "nonePicking": {
       "title": "Не достаточно текстов для выбранной тренировки",
-      "text": "@:alert.common.settings или \nсловарь не содержит достаточно вариантов для данного вида тренировки."
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
+      ]
     },
     "noneCrossword": {
       "title": "Для «{text}» невозможно построить кроссворд",
-      "text": "@:alert.common.settings, возможно данное слово слишком длиное или словарь не содержит достаточно вариантов."
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "данное слово слишком длинное или вы используете устройство со слишком узким экраном",
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
+      ]
     },
     "noneArticle": {
       "title": "«{text}»",
@@ -149,11 +169,11 @@
     },
     "emptyCollection": {
       "title": "Не найден словарь",
-      "text": "Словарь «{name}» пуст или отсутствует. \nПопробуйте выбрать другой словарь в Настройках."
+      "text": "Словарь «{name}» пуст или отсутствует. \n@:alert.common.solutions.dictionary"
     },
     "noneDictionaryItem": {
       "title": "Не найдено слово",
-      "text": "Слово «{text}» не найдено в выбранном словаре. \nПопробуйте выбрать другой словарь в Настройках."
+      "text": "Слово «{text}» не найдено в выбранном словаре. \n@:alert.common.solutions.dictionary"
     }
   },
   "training": {

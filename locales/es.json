@@ -119,18 +119,44 @@
     }
   },
   "alert": {
+    "common": {
+      "causes": {
+        "text": "Posibles motivos:",
+        "settings": "Ha elegido condiciones de filtro demasiado estrictas en la configuración",
+        "dictionary": "El diccionario no tiene suficientes alternativas para este tipo de formación"
+      },
+      "solutions": {
+        "dictionary": "Intente seleccionar otro diccionario en Configuración."
+      }
+    },
     "noneNetwork": {
       "title": "Servicio no disponible",
-      "text": "No hay acceso a la {url}. \nEs posible que la conexión a Internet haya desaparecido."
+      "text": "@:alert.causas.comunes.texto",
+      "list": [
+        "No hay acceso a la {url}",
+        "la conexión a Internet ha desaparecido"
+      ]
     },
     "noneItems": {
       "title": "No hay textos que entrenar",
-      "_text": "Es posible que haya seleccionado condiciones de filtro demasiado restrictivas en Configuración",
-      "text": "@:alert.noneItems._text."
+      "text": "Puede @:alert.common.causes.settings"
     },
     "nonePicking": {
       "title": "No hay suficientes textos para entrenar",
-      "text": "@:alert.noneItems._text o \nEl diccionario no contiene suficientes textos para el tipo de formación seleccionado."
+      "text": "@:alert.causas.comunes.texto",
+      "list": [
+        "@:alert.common.causas.configuración",
+        "@:alert.common.causas.diccionario"
+      ]
+    },
+    "noneCrossword": {
+      "title": "Es imposible construir un crucigrama para \"{text}\"",
+      "text": "@:alert.causas.comunes.texto",
+      "list": [
+        "Este texto es demasiado largo o está utilizando un dispositivo con una pantalla demasiado estrecha",
+        "@:alert.common.causas.configuración",
+        "@:alert.common.causas.diccionario"
+      ]
     },
     "noneArticle": {
       "title": "«{text}»",
@@ -138,11 +164,11 @@
     },
     "emptyCollection": {
       "title": "Diccionario no encontrado",
-      "text": "El diccionario \"{name}\" está vacío o falta. \nIntente seleccionar otro diccionario en Configuración."
+      "text": "El diccionario \"{name}\" está vacío o falta. \n@:alert.common.solutions.dictionary"
     },
     "noneDictionaryItem": {
       "title": "No se encontró ninguna palabra",
-      "text": "La palabra \"{text}\" no se encontró en el diccionario seleccionado. \n Intente seleccionar un diccionario diferente en la Configuración."
+      "text": "La palabra \"{text}\" no se encontró en el diccionario seleccionado. \n@:alert.common.solutions.dictionary"
     }
   },
   "training": {

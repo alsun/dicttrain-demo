@@ -119,18 +119,44 @@
     }
   },
   "alert": {
+    "common": {
+      "causes": {
+        "text": "Mögliche Gründe:",
+        "settings": "Sie haben in den Einstellungen zu strenge Filterbedingungen gewählt",
+        "dictionary": "Das Wörterbuch hat nicht genügend Alternativen für diese Art von Training"
+      },
+      "solutions": {
+        "dictionary": "Versuchen Sie, ein anderes Wörterbuch in den Einstellungen auszuwählen."
+      }
+    },
     "noneNetwork": {
       "title": "Dienst nicht verfügbar",
-      "text": "Es gibt keinen Zugriff auf die {url}. \nEs ist möglich, dass die Internetverbindung verschwunden ist."
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "Es besteht kein Zugriff auf die {url}",
+        "die Internetverbindung ist verschwunden"
+      ]
     },
     "noneItems": {
       "title": "Keine Texte zum Trainieren",
-      "_text": "Möglicherweise haben Sie in den Einstellungen zu restriktive Filterbedingungen ausgewählt",
-      "text": "@:alert.noneItems._text."
+      "text": "Sie können @:alert.common.causes.settings"
     },
     "nonePicking": {
       "title": "Es gibt nicht genügend Texte zum Trainieren",
-      "text": "@:alert.noneItems._text oder \nDas Wörterbuch enthält nicht genügend Texte für den ausgewählten Schulungstyp."
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
+      ]
+    },
+    "noneCrossword": {
+      "title": "Es ist unmöglich, ein Kreuzworträtsel für \"{text}\" zu bauen",
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "Dieser Text ist zu lang oder Sie verwenden ein Gerät mit einem zu schmalen Bildschirm",
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
+      ]
     },
     "noneArticle": {
       "title": "«{text}»",
@@ -138,11 +164,11 @@
     },
     "emptyCollection": {
       "title": "Wörterbuch nicht gefunden",
-      "text": "Das \"{name}\"-Wörterbuch ist leer oder fehlt. \nVersuchen Sie, ein anderes Wörterbuch in den Einstellungen auszuwählen."
+      "text": "Das \"{name}\"-Wörterbuch ist leer oder fehlt. \n@:alert.common.solutions.dictionary"
     },
     "noneDictionaryItem": {
       "title": "Kein Wort gefunden",
-      "text": "Das Wort \"{text}\" wurde im ausgewählten Wörterbuch nicht gefunden. \n Versuchen Sie, in den Einstellungen ein anderes Wörterbuch auszuwählen."
+      "text": "Das Wort \"{text}\" wurde im ausgewählten Wörterbuch nicht gefunden. \n@:alert.common.solutions.dictionary"
     }
   },
   "training": {

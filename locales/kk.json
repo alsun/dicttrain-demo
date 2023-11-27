@@ -119,18 +119,44 @@
     }
   },
   "alert": {
+    "common": {
+      "causes": {
+        "text": "Ықтимал себептер:",
+        "settings": "параметрлерде тым қатаң сүзгі шарттарын таңдадыңыз",
+        "dictionary": "сөздікте оқытудың бұл түріне балама жеткіліксіз"
+      },
+      "solutions": {
+        "dictionary": "Параметрлер тармағындағы басқа сөздікті таңдауға тырысыңыз."
+      }
+    },
     "noneNetwork": {
       "title": "Қызмет қол жетімді емес",
-      "text": "{url} қол жетімділік жоқ. \nИнтернет байланысы жоғалып кетуі мүмкін."
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "{url} қол жетімділігі жоқ",
+        "Интернет қосылымы жоғалып кетті"
+      ]
     },
     "noneItems": {
       "title": "Оқытуға арналған мәтіндер жоқ",
-      "_text": "Параметрлерде сүзгінің тым шектеу шарттары таңдалған болуы мүмкін",
-      "text": "@:alert.noneItems._text."
+      "text": "@:alert.common.causes.settings болуы мүмкін."
     },
     "nonePicking": {
       "title": "Оқыту үшін мәтіндер жеткіліксіз",
-      "text": "@:alert.noneItems._text немесе \nСөздікте Оқытудың таңдалған түріне арналған мәтіндер жеткілікті емес."
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
+      ]
+    },
+    "noneCrossword": {
+      "title": "«{text}» үшін айқас сөз жұмбағын салу мүмкін емес",
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "бұл мәтін тым ұзын немесе экраны тым тар құрылғыны пайдаланып жатырсыз",
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
+      ]
     },
     "noneArticle": {
       "title": "«{text}»",
@@ -138,11 +164,11 @@
     },
     "emptyCollection": {
       "title": "Сөздік табылмады",
-      "text": "«{name}» сөздігі бос немесе жоқ. \nПараметрлер тармағындағы басқа сөздікті таңдауға тырысыңыз."
+      "text": "«{name}» сөздігі бос немесе жоқ. \n@:alert.common.solutions.dictionary"
     },
     "noneDictionaryItem": {
       "title": "Сөз табылмады",
-      "text": "Таңдалған сөздікте «{text}» сөзі табылмады. \n Параметрлер бөлімінен басқа сөздікті таңдауға тырысыңыз."
+      "text": "Таңдалған сөздікте «{text}» сөзі табылмады. \n@:alert.common.solutions.dictionary"
     }
   },
   "training": {

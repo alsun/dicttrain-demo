@@ -119,18 +119,44 @@
     }
   },
   "alert": {
+    "common": {
+      "causes": {
+        "text": "Olası nedenler:",
+        "settings": "Ayarlarda çok katı filtre koşulları seçtiniz",
+        "dictionary": "Sözlükte bu tür bir eğitim için yeterli alternatif yok"
+      },
+      "solutions": {
+        "dictionary": "Ayarlar'da başka bir Sözlük seçmeyi deneyin."
+      }
+    },
     "noneNetwork": {
       "title": "Hizmet Kullanılamıyor",
-      "text": "{url} erişim yok. \nİnternet bağlantısının kaybolması mümkündür."
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "{url} erişim yok",
+        "İnternet bağlantısı kayboldu"
+      ]
     },
     "noneItems": {
       "title": "Eğitilecek metin yok",
-      "_text": "Ayarlar'da çok kısıtlayıcı filtre koşulları seçmiş olabilirsiniz",
-      "text": "@:alert.noneItems._text."
+      "text": "@:alert.common.causes.settings yapabilirsiniz."
     },
     "nonePicking": {
       "title": "Eğitmek için yeterli metin yok",
-      "text": "@:alert.noneItems._text veya \nSözlük, seçilen Eğitim türü için yeterli metin içermedi."
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
+      ]
+    },
+    "noneCrossword": {
+      "title": "\"{text}\" için bir bulmaca oluşturmak imkansızdır",
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "Bu metin çok uzun veya ekranı çok dar bir cihaz kullanıyorsunuz",
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
+      ]
     },
     "noneArticle": {
       "title": "«{text}»",
@@ -138,11 +164,11 @@
     },
     "emptyCollection": {
       "title": "Sözlük bulunamadı",
-      "text": "\"{name}\" sözlüğü boş veya eksik. \nAyarlar'da başka bir Sözlük seçmeyi deneyin."
+      "text": "\"{name}\" sözlüğü boş veya eksik. \n@:alert.common.solutions.dictionary"
     },
     "noneDictionaryItem": {
       "title": "Kelime bulunamadı",
-      "text": "Seçilen sözlükte \"{text}\" kelimesi bulunamadı. \n Ayarlar'da farklı bir sözlük seçmeyi deneyin."
+      "text": "Seçilen sözlükte \"{text}\" kelimesi bulunamadı. \n@:alert.common.solutions.dictionary"
     }
   },
   "training": {

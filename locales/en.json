@@ -119,18 +119,44 @@
     }
   },
   "alert": {
+    "common": {
+      "causes": {
+        "text": "Possible reasons:",
+        "settings": "you have chosen too strict filter conditions in the settings",
+        "dictionary": "the dictionary does not have enough alternatives for this type of training"
+      },
+      "solutions": {
+        "dictionary": "Try to select another Dictionary in Settings."
+      }
+    },
     "noneNetwork": {
       "title": "Service Unavailable",
-      "text": "There is no access to the {url}. \nIt is possible that the Internet connection has disappeared."
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "there is no access to the {url}",
+        "the Internet connection has disappeared"
+      ]
     },
     "noneItems": {
       "title": "No texts to train",
-      "_text": "You may have selected too restrictive filter conditions in Settings",
-      "text": "@:alert.noneItems._text."
+      "text": "You may @:alert.common.causes.settings"
     },
     "nonePicking": {
       "title": "There are not enough texts to train",
-      "text": "@:alert.noneItems._text or \nDictionary has not contained enough texts for selected type of Training."
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
+      ]
+    },
+    "noneCrossword": {
+      "title": "It is impossible to build a crossword puzzle for \"{text}\"",
+      "text": "@:alert.common.causes.text",
+      "list": [
+        "this text is too long or you are using a device with too narrow a screen",
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
+      ]
     },
     "noneArticle": {
       "title": "«{text}»",
@@ -138,11 +164,11 @@
     },
     "emptyCollection": {
       "title": "Dictionary not found",
-      "text": "The \"{name}\" dictionary is empty or missing. \nTry to select another Dictionary in Settings."
+      "text": "The \"{name}\" dictionary is empty or missing. \n@:alert.common.solutions.dictionary"
     },
     "noneDictionaryItem": {
       "title": "No word found",
-      "text": "The word \"{text}\" was not found in the selected dictionary. \n Try to select a different dictionary in the Settings."
+      "text": "The word \"{text}\" was not found in the selected dictionary. \n@:alert.common.solutions.dictionary"
     }
   },
   "training": {

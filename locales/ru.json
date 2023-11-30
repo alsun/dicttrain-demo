@@ -178,7 +178,11 @@
   },
   "training": {
     "name": "Тренировка",
-    "title": "Тренируем «{title}{translation}»"
+    "title": "Тренируем «{title}{translation}»",
+    "results": {
+      "tab-0": "Результаты тренировки",
+      "tab-1": "Результаты текущего задания"
+    }
   },
   "article": {
     "name": "Статья",

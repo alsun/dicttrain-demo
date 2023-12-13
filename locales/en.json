@@ -14,6 +14,11 @@
       "title": "Yandex.Dictionary"
     }
   },
+  "summary": {
+    "day": "Points scored for today: {count}\nDaily rate: {limit}",
+    "training": "{count}-th training from {limit}",
+    "dictionary": "The dictionary is empty | There is {count} word in the dictionary | There are {count} words in the dictionary"
+  },
   "settings": {
     "name": "Settings",
     "collections": {
@@ -78,6 +83,7 @@
       "score": "Level of knowledge of the text",
       "article": "Dictionary article about the text",
       "card": "Text-Translation Card",
+      "crossword": "Solve the crossword puzzle",
       "docking": "Spell the text",
       "writing": "Write the text",
       "picking": "Select Text from several options"
@@ -88,8 +94,15 @@
       "score": "@:actions.title.score",
       "clear": "Clear the score for «{ text }»?"
     },
-    "text": {
-      "summary": "You have completed your goal for the day!"
+    "summary": {
+      "done": "You have completed your goal for the day!",
+      "extra": [
+        "",
+        "",
+        "Twice!",
+        "Thrice!",
+        " 0 | {count} times! |  {count} times!"
+      ]
     }
   },
   "dictionary": {
@@ -173,13 +186,20 @@
   },
   "training": {
     "name": "Training",
-    "title": "Training \"{title}{translation}\""
+    "title": "Training \"{title}{translation}\"",
+    "results": {
+      "tab-0": "Training",
+      "tab-1": "Current task"
+    }
   },
   "article": {
     "name": "Article",
     "title": "Dictionary article \"{title}{text}\"",
     "lookup": "Meaning",
     "query-corpus": "Examples",
+    "action": {
+      "training-examples": "Would you like to train examples by adding them to a temporary dictionary?"
+    },
     "source": {
       "title": "Source",
       "type": {

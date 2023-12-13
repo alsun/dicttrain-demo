@@ -14,6 +14,11 @@
       "title": "Yandex.Sözlük"
     }
   },
+  "summary": {
+    "day": "Bugün için atılan puanlar: {count}\nGünlük fiyat: {limit}",
+    "training": "{limit}'dan {count}. eğitim",
+    "dictionary": "Sözlük boş | Sözlükte {count} kelime var | Sözlükte {count} kelime var"
+  },
   "settings": {
     "name": "Ayarlar",
     "collections": {
@@ -78,6 +83,7 @@
       "score": "Metin hakkında bilgi düzeyi",
       "article": "Metinle ilgili sözlük makalesi",
       "card": "Metin-Çeviri Kartı",
+      "crossword": "Bulmacayı çözün",
       "docking": "Metni heceleyin",
       "writing": "Metni yaz",
       "picking": "Çeşitli seçenekler arasından Metin'i seçin"
@@ -88,8 +94,15 @@
       "score": "@:actions.title.score",
       "clear": "«{ text }» puanı temizlensin mi?"
     },
-    "text": {
-      "summary": "Gün için hedefinizi tamamladınız!"
+    "summary": {
+      "done": "Gün için hedefinizi tamamladınız!",
+      "extra": [
+        "",
+        "",
+        "Iki kez!",
+        "Üç kere!",
+        "0 | {count} kez! |  {count} kez!"
+      ]
     }
   },
   "dictionary": {
@@ -139,7 +152,7 @@
     },
     "noneItems": {
       "title": "Eğitilecek metin yok",
-      "text": "@:alert.common.causes.settings yapabilirsiniz."
+      "text": "@:alert.common.causes.settings yapabilirsiniz"
     },
     "nonePicking": {
       "title": "Eğitmek için yeterli metin yok",
@@ -173,13 +186,20 @@
   },
   "training": {
     "name": "Antrenman",
-    "title": "\"{title}{translation}\" Eğitimi"
+    "title": "\"{title}{translation}\" Eğitimi",
+    "results": {
+      "tab-0": "Antrenman",
+      "tab-1": "Geçerli görev"
+    }
   },
   "article": {
     "name": "Makale",
     "title": "Sözlük makalesi \"{title}{text}\"",
     "lookup": "Anlam",
     "query-corpus": "Örnekler",
+    "action": {
+      "training-examples": "Örnekleri geçici bir sözlüğe ekleyerek eğitmek ister misiniz?"
+    },
     "source": {
       "title": "Kaynak",
       "type": {

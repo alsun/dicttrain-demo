@@ -14,6 +14,11 @@
       "title": "Yandex.Wörterbuch"
     }
   },
+  "summary": {
+    "day": "Erzielte Punkte für heute: {count}\nTägliches Ziel: {limit}",
+    "training": "{count}-tes Training von {limit}",
+    "dictionary": "Das Wörterbuch ist leer | Es gibt {count} Wort im Wörterbuch | Es gibt {count} Wörter im Wörterbuch"
+  },
   "settings": {
     "name": "Einstellungen",
     "collections": {
@@ -78,6 +83,7 @@
       "score": "Kenntnisstand des Textes",
       "article": "Wörterbuchartikel zum Text",
       "card": "Text-Übersetzungskarte",
+      "crossword": "Löse das Kreuzworträtsel",
       "docking": "Buchstabieren des Textes",
       "writing": "Schreiben Sie den Text",
       "picking": "Wählen Sie Text aus mehreren Optionen aus"
@@ -88,8 +94,15 @@
       "score": "@:actions.title.score",
       "clear": "Die Partitur für «{ text }» abräumen?"
     },
-    "text": {
-      "summary": "Du hast dein Tagesziel erreicht!"
+    "summary": {
+      "done": "Du hast dein Tagesziel erreicht!",
+      "extra": [
+        "",
+        "",
+        "Zweimal!",
+        "Dreimal!",
+        "0 | {count} Mal! |  {count} Mal!"
+      ]
     }
   },
   "dictionary": {
@@ -173,13 +186,20 @@
   },
   "training": {
     "name": "Ausbildung",
-    "title": "Ausbildung \"{title}{translation}\""
+    "title": "Ausbildung \"{title}{translation}\"",
+    "results": {
+      "tab-0": "Ausbildung",
+      "tab-1": "Aktuelle Aufgabenstellung"
+    }
   },
   "article": {
     "name": "Artikel",
     "title": "Wörterbuchartikel \"{title}{text}\"",
     "lookup": "Bedeutung",
     "query-corpus": "Beispiele",
+    "action": {
+      "training-examples": "Möchten Sie Beispiele trainieren, indem Sie sie zu einem temporären Wörterbuch hinzufügen?"
+    },
     "source": {
       "title": "Quelle",
       "type": {

@@ -14,6 +14,11 @@
       "title": "Yandex.Dictionary"
     }
   },
+  "summary": {
+    "day": "Puntos anotados hoy: {count}\nTarifa diaria: {limit}",
+    "training": "{count} formación de {limit}",
+    "dictionary": "El diccionario está vacío | Hay {count} palabra en el diccionario | Hay {count} palabras en el diccionario"
+  },
   "settings": {
     "name": "Configuración",
     "collections": {
@@ -78,6 +83,7 @@
       "score": "Nivel de conocimiento del texto",
       "article": "Artículo del diccionario sobre el texto",
       "card": "Tarjeta de traducción de texto",
+      "crossword": "Resuelve el crucigrama",
       "docking": "Deletrear el texto",
       "writing": "Escribe el texto",
       "picking": "Seleccione Texto entre varias opciones"
@@ -88,8 +94,15 @@
       "score": "@:actions.title.score",
       "clear": "¿Borrar la puntuación de «{ text }»?"
     },
-    "text": {
-      "summary": "¡Has completado tu objetivo del día!"
+    "summary": {
+      "done": "¡Has completado tu objetivo del día!",
+      "extra": [
+        "",
+        "",
+        "¡Dos veces!",
+        "¡Tres veces!",
+        "0 | ¡{count} veces! |  {count} veces!"
+      ]
     }
   },
   "dictionary": {
@@ -131,7 +144,7 @@
     },
     "noneNetwork": {
       "title": "Servicio no disponible",
-      "text": "@:alert.causas.comunes.texto",
+      "text": "@:alert.common.causes.text",
       "list": [
         "No hay acceso a la {url}",
         "la conexión a Internet ha desaparecido"
@@ -143,19 +156,19 @@
     },
     "nonePicking": {
       "title": "No hay suficientes textos para entrenar",
-      "text": "@:alert.causas.comunes.texto",
+      "text": "@:alert.common.causes.text",
       "list": [
-        "@:alert.common.causas.configuración",
-        "@:alert.common.causas.diccionario"
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
       ]
     },
     "noneCrossword": {
       "title": "Es imposible construir un crucigrama para \"{text}\"",
-      "text": "@:alert.causas.comunes.texto",
+      "text": "@:alert.common.causes.text",
       "list": [
         "Este texto es demasiado largo o está utilizando un dispositivo con una pantalla demasiado estrecha",
-        "@:alert.common.causas.configuración",
-        "@:alert.common.causas.diccionario"
+        "@:alert.common.causes.settings",
+        "@:alert.common.causes.dictionary"
       ]
     },
     "noneArticle": {
@@ -173,13 +186,20 @@
   },
   "training": {
     "name": "Adiestramiento",
-    "title": "Entrenamiento \"{title}{translation}\""
+    "title": "Entrenamiento \"{title}{translation}\"",
+    "results": {
+      "tab-0": "Adiestramiento",
+      "tab-1": "Tarea actual"
+    }
   },
   "article": {
     "name": "Artículo",
     "title": "Artículo del diccionario \"{title}{text}\"",
     "lookup": "Significado",
     "query-corpus": "Ejemplos",
+    "action": {
+      "training-examples": "¿Te gustaría entrenar ejemplos añadiéndolos a un diccionario temporal?"
+    },
     "source": {
       "title": "Fuente",
       "type": {

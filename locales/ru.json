@@ -50,7 +50,8 @@
     },
     "training": {
       "title": "Тренировки",
-      "complexity": "Сложность"
+      "complexity": "Уровень сложности",
+      "listening": "Тренировать на слух"
     },
     "speak": {
       "title": "Голоса",

@@ -15,7 +15,7 @@
     }
   },
   "summary": {
-    "day": "Bugün için atılan puanlar: {count}\nGünlük fiyat: {limit}",
+    "day": "Bugün için atılan puanlar: {count}\nGünlük hedef: {limit}",
     "training": "{limit}'dan {count}. eğitim",
     "dictionary": "Sözlük boş | Sözlükte {count} kelime var | Sözlükte {count} kelime var"
   },
@@ -50,7 +50,8 @@
     },
     "training": {
       "title": "Antrenman",
-      "complexity": "Karmaşıklık"
+      "complexity": "Karmaşıklık düzeyi",
+      "listening": "Dinleme modu"
     },
     "speak": {
       "title": "Konuşma",
@@ -92,7 +93,7 @@
   "score": {
     "title": {
       "score": "@:actions.title.score",
-      "clear": "«{ text }» puanı temizlensin mi?"
+      "clear": "«{ text }» puanı sıfırlansın mı?"
     },
     "summary": {
       "done": "Gün için hedefinizi tamamladınız!",

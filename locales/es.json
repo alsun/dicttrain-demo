@@ -15,7 +15,7 @@
     }
   },
   "summary": {
-    "day": "Puntos anotados hoy: {count}\nTarifa diaria: {limit}",
+    "day": "Puntos anotados hoy: {count}\nObjetivo diario: {limit}",
     "training": "{count} formación de {limit}",
     "dictionary": "El diccionario está vacío | Hay {count} palabra en el diccionario | Hay {count} palabras en el diccionario"
   },
@@ -50,7 +50,8 @@
     },
     "training": {
       "title": "Adiestramiento",
-      "complexity": "Complejidad"
+      "complexity": "Nivel de complejidad",
+      "listening": "Modo de escucha"
     },
     "speak": {
       "title": "Discurso",
@@ -92,7 +93,7 @@
   "score": {
     "title": {
       "score": "@:actions.title.score",
-      "clear": "¿Borrar la puntuación de «{ text }»?"
+      "clear": "¿Restablecer la partitura de «{ text }»?"
     },
     "summary": {
       "done": "¡Has completado tu objetivo del día!",

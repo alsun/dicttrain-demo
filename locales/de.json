@@ -15,7 +15,7 @@
     }
   },
   "summary": {
-    "day": "Erzielte Punkte für heute: {count}\nTägliches Ziel: {limit}",
+    "day": "Erzielte Punkte für heute: {count}\nTagesziel: {limit}",
     "training": "{count}-tes Training von {limit}",
     "dictionary": "Das Wörterbuch ist leer | Es gibt {count} Wort im Wörterbuch | Es gibt {count} Wörter im Wörterbuch"
   },
@@ -50,7 +50,8 @@
     },
     "training": {
       "title": "Ausbildung",
-      "complexity": "Kompliziertheit"
+      "complexity": "Komplexitätsgrad",
+      "listening": "Hör-Modus"
     },
     "speak": {
       "title": "Rede",
@@ -92,7 +93,7 @@
   "score": {
     "title": {
       "score": "@:actions.title.score",
-      "clear": "Die Partitur für «{ text }» abräumen?"
+      "clear": "Die Partitur für «{ text }» zurücksetzen?"
     },
     "summary": {
       "done": "Du hast dein Tagesziel erreicht!",

@@ -15,7 +15,7 @@
     }
   },
   "summary": {
-    "day": "Points scored for today: {count}\nDaily rate: {limit}",
+    "day": "Points scored for today: {count}\nDaily goal: {limit}",
     "training": "{count}-th training from {limit}",
     "dictionary": "The dictionary is empty | There is {count} word in the dictionary | There are {count} words in the dictionary"
   },
@@ -50,7 +50,8 @@
     },
     "training": {
       "title": "Training",
-      "complexity": "Complexity"
+      "complexity": "Complexity level",
+      "listening": "Listening mode"
     },
     "speak": {
       "title": "Speech",
@@ -92,7 +93,7 @@
   "score": {
     "title": {
       "score": "@:actions.title.score",
-      "clear": "Clear the score for «{ text }»?"
+      "clear": "Reset the score for «{ text }»?"
     },
     "summary": {
       "done": "You have completed your goal for the day!",
